@@ -1,5 +1,7 @@
+home
+welcome to my humble non-js primitive abode
+20200706
 <h3>Lyceum</h3>
-
 <ul>
 <li>epistem</li>
 <li>creative</li>

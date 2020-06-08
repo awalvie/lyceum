@@ -2,8 +2,9 @@
 
 dash="----------------------"
 
+echo $dash
 echo "clearing out pre-built sites"
-rm -rf ./site/*
+rm -r ./site/*
 echo $dash
 
 echo "Going into source dir"
