@@ -87,15 +87,15 @@ Page parseFile(char *file_name) {
 
   /* Reading the metadata on top of the file */
   fgets(page.name, PAGE_NAME_BUFFER, fp);
-	/* Remove trailing newline character */
-	strtok(page.name, "\n");
-	/* read description */
+  /* Remove trailing newline character */
+  strtok(page.name, "\n");
+  /* read description */
   fgets(page.description, DESCRIPTION_BUFFER, fp);
-	/* read date */
+  /* read date */
   fscanf(fp, "%ld\n", &date);
   page.date = to_date(date);
 
-	/* take the cursor to where the content of the file starts */
+  /* take the cursor to where the content of the file starts */
   metadata_position = ftell(fp);
   fseek(fp, metadata_position, SEEK_END);
   content_len = ftell(fp);
@@ -119,23 +119,23 @@ Page parseFile(char *file_name) {
 void buildSite(FileList *list) {
   int i;
   char *html_path;
-	FILE *fp;
+  FILE *fp;
   for (i = 0; i < list->number_of_files; i++) {
     Page page;
     page = parseFile(list->files[i]);
     html_path = concat(concat("../site/", page.name), ".html");
-		fp = fopen(html_path, "w");
-		fputs(html_header, fp);
-		fputs(page.content, fp);
-		fputs(html_footer, fp);
-		fclose(fp);
+    fp = fopen(html_path, "w");
+    fputs(html_header, fp);
+    fputs(page.content, fp);
+    fputs(html_footer, fp);
+    fclose(fp);
   }
 }
 
 int main(void) {
-	FileList list;
-	getFileNames("../content", &list);
-	buildSite(&list);
+  FileList list;
+  getFileNames("../content", &list);
+  buildSite(&list);
 
   return 0;
 }
