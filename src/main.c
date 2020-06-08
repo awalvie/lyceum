@@ -64,7 +64,7 @@ void getFileNames(char *name, FileList *list) {
     }
     closedir(dir);
   } else {
-    perror("");
+    perror("DIRECTORY DOES NOT EXIST");
     exit(EXIT_FAILURE);
   }
 }
@@ -76,8 +76,7 @@ Page parseFile(char *file_name) {
   long date;
   char *full_path;
   long metadata_position, content_len;
-  full_path = concat("../content/", file_name);
-  printf("%s\n", full_path);
+	full_path = concat("../content/", file_name);
   fp = fopen(full_path, "r");
 
   if (!fp) {
@@ -111,9 +110,10 @@ Page parseFile(char *file_name) {
     page.content[i] = content[i];
   }
 
-  return page;
+  free(full_path);
   free(content);
   fclose(fp);
+  return page;
 }
 
 void buildSite(FileList *list) {
@@ -122,6 +122,7 @@ void buildSite(FileList *list) {
   FILE *fp;
   for (i = 0; i < list->number_of_files; i++) {
     Page page;
+		printf("Building: %s\n", list->files[i]);
     page = parseFile(list->files[i]);
     html_path = concat(concat("../site/", page.name), ".html");
     fp = fopen(html_path, "w");
