@@ -1,0 +1,140 @@
+/* Reset CSS */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	text-decoration: none;
+	font-weight: inherit;
+	font-style: inherit;
+	color: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+	list-style: none;
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
+@import url('https://rsms.me/inter/inter.css');
+
+html {
+	font-family: 'Inter', sans-serif;
+}
+
+@supports (font-variation-settings: normal) {
+	html {
+		font-family: 'Inter var', sans-serif;
+	}
+}
+
+body {
+	background-color: black;
+	color: white;
+	max-width: 600px;
+	padding: 50 80;
+}
+
+body header a#logo {
+	display: block;
+	width: 100px;
+	margin-bottom: 30px;
+}
+
+body header a#logo img {
+	width: 100%;
+}
+
+body h1 {
+	font-size: 50px;
+	text-transform: lowercase;
+	margin-bottom: 40px;
+}
+
+body h2 {
+	font-size: 38px;
+	font-weight: bold;
+	text-transform: lowercase;
+	margin-bottom: 20px;
+}
+
+body h3 {
+	font-weight: bold;
+	font-size: 26px;
+	text-transform: lowercase;
+	margin: 20px 0px;
+}
+
+body>h3 a {
+	text-decoration: underline;
+}
+
+body ul {
+	font-family: monospace;
+	font-size: 20px;
+	line-height: 20px
+}
+
+body>ul li a {
+	text-transform: lowercase;
+	text-decoration: underline;
+}
+
+body>ul li b {
+	font-weight: bold;
+}
+
+body>ul li:hover a {
+	text-decoration: none;
+}
+
+body ul.double_column {
+	font-size: 14px;
+	columns: 2;
+}
+
+body ul.double_column li {
+	list-style-type: decimal-leading-zero;
+	list-style-position: inside;
+}
+
+body ul.single {
+	font-size: 14px;
+	columns: 1;
+}
+
+body ul.single li {
+	list-style-type: decimal-leading-zero;
+	list-style-position: inside;
+}
+
+body>p {
+	line-height: 28px;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+body>p a {
+	text-decoration: underline
+}
+
+body>p b {
+	font-weight: bold
+}
+
+body>p i {
+	line-height: 28px;
+	font-size: 18px;
+	font-style: italic
+}
+
+@media (max-width: 1000px) {
+	body {
+		padding: 30px
+	}
+
+	body>ul.double_column {
+		columns: 1 !important
+	}
+}

@@ -1,25 +1,37 @@
 home
 welcome to my humble non-js primitive abode
-20200706
-<h3>Lyceum</h3>
-<ul>
-<li>epistem</li>
-<li>creative</li>
-	<ul>
-	<li>sketching</li>
-	<li>music</li>
-	</ul>
-<li>bookshelf</li>
-<li>to be read</li>
-<li>read</li>
-	<ul>
-		<li>book summaries</li>
-		<li>book summaries</li>
-		<li>book summaries</li>
-		<li>book summaries</li>
-	</ul>
-<li>about</li>
-<li>tools</li>
-<li>projects</li>
-<li>blog</li>
+20200607
+<h1>Lyceum</h1>
+<h3><a href="#"epistem>epistem</a></h3>
+<p>Notes made using the zettelkasten method (Coming Soon!)</p>
+<h3><a href="#"blog>blog</a></h3>
+<p>A blog for writing about what I find to be important to share</p>
+<ul class="single">
+    <li><a href="#">Post 1</a></li>
+    <li><a href="#">Post 2</a></li>
+    <li><a href="#">Post 3</a></li>
+    <li><a href="#">Post 4</a></li>
 </ul>
+<h3><a href="#"creative>creative</a></h3>
+<p>Any creative activities that I do that falls in the category below</p>
+<ul class="double_column">
+	<li><a href="#">art</a></li>
+	<li><a href="#">music</a></li>
+</ul>
+<h3><a href="#"bookshelf>bookshelf</a></h3>
+<p>Book reading gets a separate section because of it's importance to my life</p>
+<ul class="double_column">
+	<li><a href="#">To Read</a></li>
+	<li><a href="#">Read</a></li>
+	<li><a href="#">Plan to Read</a></li>
+</ul>
+<h3><a href="#"tools>tools</a></h3>
+<p>The tools I possess and the tools that I would like the possess</p>
+<ul class="double_column">
+    <li><a href="#">Have</a></li>
+    <li><a href="#">Will Have</a></li>
+</ul>
+<h3><a href="#"projects>projects</a></h3>
+<p>Things I've made</p>
+<h3><a href="#"about>about</a></h3>
+<p>A little bit about myself</p>

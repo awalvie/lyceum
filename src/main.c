@@ -8,14 +8,22 @@
 #define DESCRIPTION_BUFFER 150
 #define PAGE_NAME_BUFFER 20
 #define FILE_PATH 50
-#define CONTENT_BUFFER 2048
+#define CONTENT_BUFFER 32678
+
+char *html_head =
+    "<html lang='en'>\n"
+    "<head><meta charset='UTF-8'>\n"
+    "<meta name='description'content='an island of personal thought'>\n"
+    "<meta name='viewport'content='width=device-width' initial-scale=1.0>\n"
+    "<title>Lyceum</title>\n"
+    "<link rel='stylesheet' type='text/css' href='../media/css/style.css'>\n"
+    "</head>\n"
+    "<body>\n";
 
 char *html_header =
-    "<html lang='en'><head><meta charset='UTF-8'><meta name='description' "
-    "content='an island of personal thought'><meta name='viewport' "
-    "content='width=device-width' initial-scale=1.0><title>%s</title><link "
-    "rel='stylesheet' type='text/css' "
-    "href='../style/main.css'></head><body>";
+		"<header >"
+		"<a id='logo' href='../site/home.html'><img  src='../media/images/icon_invert.jpg'></a>"
+		"</header>";
 
 char *html_footer = "</body></html>";
 
@@ -76,7 +84,7 @@ Page parseFile(char *file_name) {
   long date;
   char *full_path;
   long metadata_position, content_len;
-	full_path = concat("../content/", file_name);
+  full_path = concat("../content/", file_name);
   fp = fopen(full_path, "r");
 
   if (!fp) {
@@ -122,11 +130,12 @@ void buildSite(FileList *list) {
   FILE *fp;
   for (i = 0; i < list->number_of_files; i++) {
     Page page;
-		printf("Building: %s\n", list->files[i]);
+    printf("%s\n", list->files[i]);
     page = parseFile(list->files[i]);
     html_path = concat(concat("../site/", page.name), ".html");
     fp = fopen(html_path, "w");
-    fputs(html_header, fp);
+    fputs(html_head, fp);
+		fputs(html_header, fp);
     fputs(page.content, fp);
     fputs(html_footer, fp);
     fclose(fp);
