@@ -1,22 +1,3 @@
-/* Reset CSS */
-
-* {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	outline: 0;
-	text-decoration: none;
-	font-weight: inherit;
-	font-style: inherit;
-	color: inherit;
-	font-size: 100%;
-	font-family: inherit;
-	vertical-align: baseline;
-	list-style: none;
-	border-collapse: separate;
-	border-spacing: 0;
-}
-
 @import url('https://rsms.me/inter/inter.css');
 
 html {
@@ -29,17 +10,35 @@ html {
 	}
 }
 
+/* Reset CSS */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	text-decoration: none;
+	font-weight: inherit;
+	font-style: inherit;
+	color: inherit;
+	font-size: 100%;
+	vertical-align: baseline;
+	list-style: none;
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
 body {
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
 	max-width: 600px;
-	padding: 50 80;
+	padding: 30 80;
 }
 
 body header a#logo {
 	display: block;
-	width: 100px;
-	margin-bottom: 30px;
+	width: 130px;
+	margin-bottom: 20;
 }
 
 body header a#logo img {

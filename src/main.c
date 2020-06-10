@@ -22,7 +22,7 @@ char *html_head =
 
 char *html_header =
 		"<header >"
-		"<a id='logo' href='../site/home.html'><img  src='../media/images/icon_invert.jpg'></a>"
+		"<a id='logo' href='../site/home.html'><img  src='../media/images/icon.jpg'></a>"
 		"</header>";
 
 char *html_footer = "</body></html>";
