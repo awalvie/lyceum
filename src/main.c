@@ -22,9 +22,9 @@ char *html_head =
     "<body>\n";
 
 char *html_header =
-		"<header >"
-		"<a id='logo' href='./home.html'><img  src='../media/images/icon.jpg'></a>"
-		"</header>";
+    "<header >"
+    "<a id='logo' href='./home.html'><img  src='../media/images/icon.jpg'></a>"
+    "</header>";
 
 char *html_footer = "</body></html>";
 
@@ -35,10 +35,10 @@ typedef struct {
 
 /* Structure for parsing the contents of the page */
 typedef struct {
-  char* name ;
-  char* description;
-  char* content;
-	long date;
+  char *name;
+  char *description;
+  char *content;
+  long date;
 } Page;
 
 /* fetch all the the files in a specificed directory into a FileList structure
@@ -55,17 +55,17 @@ Date to_date(long unformatted) {
 
 /* Structure for getting list of files in a directory */
 typedef struct {
-	char *files[FILE_PATH];
+  char *files[FILE_PATH];
   int number_of_files;
 } FileList;
 
-Page createPage(){
-	Page page;
-	page.name = NULL;
-	page.description = NULL;
-	page.content = NULL;
-	page.date = 0;
-	return page;
+Page createPage() {
+  Page page;
+  page.name = NULL;
+  page.description = NULL;
+  page.content = NULL;
+  page.date = 0;
+  return page;
 }
 
 /* return all file names in a directory in a array of strings */
@@ -75,40 +75,37 @@ void getFileNames(char *name, FileList *list) {
   list->number_of_files = 0;
   if ((dir = opendir(name)) != NULL) {
     while ((ent = readdir(dir)) != NULL) {
-        if (ent->d_name[0] != '.') {
-          list->files[list->number_of_files] = ent->d_name;
-          list->number_of_files++;
-        }
+      if (ent->d_name[0] != '.') {
+        list->files[list->number_of_files] = ent->d_name;
+        list->number_of_files++;
       }
     }
-    closedir(dir);
+  }
+  closedir(dir);
 }
 
 void parseFile(const char *file_name) {
-	char* name;
-  printf("%s\n", file_name);
+  char *name;
   chdir("../content/");
-	FILE *fp;
-	if (( fp = fopen(file_name, "r") ) == NULL ){
-		printf("could not open file %s\n", file_name);
-	}
-	fclose(fp);
+  FILE *fp;
+  if ((fp = fopen(file_name, "r")) == NULL) {
+    printf("could not open file %s\n", file_name);
+  }
+  fclose(fp);
 }
-
 
 void buildSite(FileList list) {
   int i;
   for (i = 0; i < list.number_of_files; i++) {
-		parseFile(list.files[i]);
+    parseFile(list.files[i]);
   }
-
 }
 
 int main(void) {
 
   FileList list;
-	getFileNames("../content", &list);
-	buildSite(list);
+  getFileNames("../content", &list);
+  buildSite(list);
 
   return 0;
 }
