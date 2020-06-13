@@ -173,3 +173,7 @@ hr {
 	border: 1px dotted black;
 	margin: 20px 0px;
 }
+
+body p>a {
+	font-weight: bold;
+}
