@@ -4,8 +4,8 @@ welcome to my humble non-js primitive abode
 <h1>Lyceum</h1>
 <h3><a href="#"epistem>epistem</a></h3>
 <p>Notes made using the zettelkasten method (Coming Soon!)</p>
-<h3><a href="#"blog>blog</a></h3>
-<p>A blog for writing about what I find to be important to share</p>
+<h3><a href="blog.html">blog</a></h3>
+<p>Recent Posts</p>
 <ul class="single">
     <li><a href="#">Post 1</a></li>
     <li><a href="#">Post 2</a></li>
@@ -18,12 +18,12 @@ welcome to my humble non-js primitive abode
 	<li><a href="#">art</a></li>
 	<li><a href="#">music</a></li>
 </ul>
-<h3><a href="#"bookshelf>bookshelf</a></h3>
-<p>Book reading gets a separate section because of it's importance to my life</p>
+<h3><a href="books.html">book</a></h3>
+<p>Book reading gets a separate section because of it's importance to my life. Below are my recent reads
 <ul class="double_column">
-	<li><a href="#">To Read</a></li>
-	<li><a href="#">Read</a></li>
-	<li><a href="#">Plan to Read</a></li>
+    <li><a href="#">Book 3</a></li>
+	<li><a href="#">Book 2</a></li>
+	<li><a href="#">Book 1</a></li>
 </ul>
 <h3><a href="#"tools>tools</a></h3>
 <p>The tools I possess and the tools that I would like the possess</p>
@@ -33,5 +33,5 @@ welcome to my humble non-js primitive abode
 </ul>
 <h3><a href="#"projects>projects</a></h3>
 <p>Things I've made</p>
-<h3><a href="#"about>about</a></h3>
+<h3><a href="about.html"about>about</a></h3>
 <p>A little bit about myself</p>

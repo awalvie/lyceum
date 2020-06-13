@@ -42,6 +42,7 @@ body header a#logo {
 }
 
 body header a#logo img {
+	margin-left: -15px;
 	width: 100%;
 }
 
@@ -128,6 +129,21 @@ body>p i {
 	font-style: italic
 }
 
+body>pre {
+	font-family: monospace;
+	padding: 15px;
+	border: 2px dotted black;
+	margin: 20px 0px;
+}
+
+body>code {
+	font-family: monospace;
+	font-size: 14px;
+	display: block;
+	padding: 10px;
+}
+
+
 @media (max-width: 1000px) {
 	body {
 		padding: 30px
@@ -136,4 +152,8 @@ body>p i {
 	body>ul.double_column {
 		columns: 1 !important
 	}
+}
+
+body a {
+	text-decoration: ud;
 }

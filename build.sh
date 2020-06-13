@@ -4,7 +4,10 @@ dash="----------------------"
 
 echo $dash
 echo "clearing out pre-built sites"
-rm -r ./site/*
+
+rm -r docs
+mkdir docs
+
 echo $dash
 
 echo "Going into source dir"
@@ -14,6 +17,7 @@ echo $dash
 echo "generating the site"
 make
 echo $dash
+
 echo "executing"
 ./main
 rm ./main
