@@ -7,7 +7,7 @@
 
 #define NAME_BUFFER 50
 #define DESCRIPTION_BUFFER 256
-#define CONTENT_BUFFER 8192
+#define CONTENT_BUFFER 16384
 
 #include "helper.c"
 #include <assert.h>
@@ -135,6 +135,8 @@ Page parseFile(char *file_name) {
     page.content[j] = c;
     j++;
   }
+  page.content[j] = '\0';
+  puts(page.content);
 
   free(full_path);
   fclose(fp);

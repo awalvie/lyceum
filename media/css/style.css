@@ -154,6 +154,22 @@ body>code {
 	}
 }
 
-body a {
-	text-decoration: ud;
+blockquote {
+	border: black 1px dashed;
+	margin: 20px 0px;
+	padding: 0.5em 10px;
+	font-weight: lighter;
+	font-style: italic;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+body ol > li{
+	margin: 10px 0px;
+	text-decoration: underline;
+}
+
+hr {
+	border: 1px dotted black;
+	margin: 20px 0px;
 }
