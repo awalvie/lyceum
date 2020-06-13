@@ -1,0 +1,6 @@
+blog
+things I wish to talk about
+20200611
+<h1>Blog</h1>
+<p>Sharing experiences and knowledge through a blog is highly rewarding</p>
+

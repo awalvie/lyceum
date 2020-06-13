@@ -85,16 +85,13 @@ void getFileNames(char *name, FileList *list) {
 }
 
 void parseFile(const char *file_name) {
-	char* name="";
+	char* name;
   printf("%s\n", file_name);
   chdir("../content/");
 	FILE *fp;
-	fp = fopen(file_name, "r");
-	if ( fp == NULL ){
-		printf("error: could not open file %s\n", file_name);
-		exit(-1);
+	if (( fp = fopen(file_name, "r") ) == NULL ){
+		printf("could not open file %s\n", file_name);
 	}
-	printf("%s\n", file_name);
 	fclose(fp);
 }
 
