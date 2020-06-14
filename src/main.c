@@ -25,7 +25,7 @@ char *html_head =
     "<meta name='description'content='an island of personal thought'>\n"
     "<meta name='viewport'content='width=device-width' initial-scale=1.0>\n"
     "<title>Lyceum</title>\n"
-    "<link rel='stylesheet' type='text/css' href='../css/main.css'>\n"
+    "<link rel='stylesheet' type='text/css' href='/css/main.css'>\n"
     "</head>\n"
     "<body>\n";
 
