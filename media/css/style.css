@@ -42,26 +42,25 @@ body header a#logo {
 }
 
 body header a#logo img {
-	margin-left: -15px;
+	margin-left: -6px;
 	width: 100%;
 }
 
 body h1 {
 	font-size: 50px;
 	text-transform: lowercase;
-	margin-bottom: 40px;
+	margin-bottom: 30px;
 }
 
 body h2 {
 	font-size: 38px;
-	font-weight: bold;
 	text-transform: lowercase;
 	margin-bottom: 20px;
 }
 
 body h3 {
-	font-weight: bold;
 	font-size: 26px;
+	font-weight: bold;
 	text-transform: lowercase;
 	margin: 20px 0px;
 }
@@ -73,11 +72,11 @@ body>h3 a {
 body ul {
 	font-family: monospace;
 	font-size: 20px;
-	line-height: 20px
+	line-height: 25px
 }
 
 body>ul li a {
-	text-transform: lowercase;
+	text-transform: capitalize;
 	text-decoration: underline;
 }
 
@@ -105,7 +104,6 @@ body ul.single {
 }
 
 body ul.single li {
-	list-style-type: decimal-leading-zero;
 	list-style-position: inside;
 }
 
@@ -176,4 +174,9 @@ hr {
 
 body p>a {
 	font-weight: bold;
+}
+
+p {
+	margin: 20px 0px;
+
 }

@@ -1,0 +1,319 @@
+to read
+the never ending list of books that interest me
+20200613
+<p>The ever growing list of books that I want to read!</p>
+<hr/>
+<ul class="single">
+      <li>
+            <a href="/book/show/48654.Story"
+                  title="Story: Substance, Structure, Style, and the Principles of Screenwriting">
+                  Story: Substance, Structure, Style, and the Principles of Screenwriting
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/141560.Screenplay" title="Screenplay: The Foundations of Screenwriting">
+                  Screenplay: The Foundations of Screenwriting
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/17593915-into-the-woods" title="Into the Woods: A Five Act Journey Into Story">
+                  Into the Woods: A Five Act Journey Into Story
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/395040.The_Bell_Jar" title="The Bell Jar">
+                  The Bell Jar
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/53639.Zorba_the_Greek" title="Zorba the Greek">
+                  Zorba the Greek
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/320.One_Hundred_Years_of_Solitude" title="One Hundred Years of Solitude">
+                  One Hundred Years of Solitude
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/58696.David_Copperfield" title="David Copperfield">
+                  David Copperfield
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/18254.Oliver_Twist" title="Oliver Twist">
+                  Oliver Twist
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/1953.A_Tale_of_Two_Cities" title="A Tale of Two Cities">
+                  A Tale of Two Cities
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/19063.The_Book_Thief" title="The Book Thief">
+                  The Book Thief
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/2493.The_Time_Machine" title="The Time Machine">
+                  The Time Machine
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/81779.The_Symposium" title="The Symposium">
+                  The Symposium
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/17245.Dracula" title="Dracula">
+                  Dracula
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/123632.Man_and_His_Symbols" title="Man and His Symbols">
+                  Man and His Symbols
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/12781.The_Satanic_Verses" title="The Satanic Verses">
+                  The Satanic Verses
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/375013.Schindler_s_List" title="Schindler's List">
+                  Schindler's List
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/16631.Steppenwolf" title="Steppenwolf">
+                  Steppenwolf
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/16900.Civil_Disobedience_and_Other_Essays" title="Civil Disobedience and Other Essays">
+                  Civil Disobedience and Other Essays
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/19351.The_Epic_of_Gilgamesh" title="The Epic of Gilgamesh">
+                  The Epic of Gilgamesh
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/5107.The_Catcher_in_the_Rye" title="The Catcher in the Rye">
+                  The Catcher in the Rye
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/2696.The_Canterbury_Tales" title="The Canterbury Tales">
+                  The Canterbury Tales
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/2956.The_Adventures_of_Huckleberry_Finn" title="The Adventures of Huckleberry Finn">
+                  The Adventures of Huckleberry Finn
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/93981.The_Interpretation_of_Dreams" title="The Interpretation of Dreams">
+                  The Interpretation of Dreams
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/3836.Don_Quixote" title="Don Quixote">
+                  Don Quixote
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/231083.The_Principia"
+                  title="The Principia: Mathematical Principles of Natural Philosophy">
+                  The Principia: Mathematical Principles of Natural Philosophy
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/33.The_Lord_of_the_Rings" title="The Lord of the Rings (The Lord of the Rings, #1-3)">
+                  The Lord of the Rings
+                  <span class="darkGreyText">(The Lord of the Rings, #1-3)</span>
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/15852.Relativity" title="Relativity: The Special and the General Theory">
+                  Relativity: The Special and the General Theory
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/1371.The_Iliad" title="The Iliad">
+                  The Iliad
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/10534.The_Art_of_War" title="The Art of War">
+                  The Art of War
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/1381.The_Odyssey" title="The Odyssey">
+                  The Odyssey
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/569564.The_Complete_Works" title="The Complete Works">
+                  The Complete Works
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/28862.The_Prince" title="The Prince">
+                  The Prince
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/19083.Politics" title="Politics">
+                  Politics
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/43532557-outgrowing-god" title="Outgrowing God: A Beginner’s Guide">
+                  Outgrowing God: A Beginner’s Guide
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/23692271-sapiens" title="Sapiens: A Brief History of Humankind">
+                  Sapiens: A Brief History of Humankind
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/2767793-the-hero-of-ages" title="The Hero of Ages (Mistborn, #3)">
+                  The Hero of Ages
+                  <span class="darkGreyText">(Mistborn, #3)</span>
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/944076.Last_Argument_of_Kings" title="Last Argument of Kings (The First Law, #3)">
+                  Last Argument of Kings
+                  <span class="darkGreyText">(The First Law, #3)</span>
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/902715.Before_They_Are_Hanged" title="Before They Are Hanged (The First Law, #2)">
+                  Before They Are Hanged
+                  <span class="darkGreyText">(The First Law, #2)</span>
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/944073.The_Blade_Itself" title="The Blade Itself (The First Law, #1)">
+                  The Blade Itself
+                  <span class="darkGreyText">(The First Law, #1)</span>
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/43369.God_Is_Not_Great" title="God Is Not Great: How Religion Poisons Everything">
+                  God Is Not Great: How Religion Poisons Everything
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/11991.The_Fall" title="The Fall">
+                  The Fall
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/55030.Cosmos" title="Cosmos">
+                  Cosmos
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/16902.Walden" title="Walden">
+                  Walden
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/31785.The_Will_to_Power" title="The Will to Power">
+                  The Will to Power
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/94578.The_Gay_Science" title="The Gay Science">
+                  The Gay Science
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/80449.On_the_Genealogy_of_Morals" title="On the Genealogy of Morals">
+                  On the Genealogy of Morals
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/132626.On_the_Genealogy_of_Morals_Ecce_Homo"
+                  title="On the Genealogy of Morals / Ecce Homo">
+                  On the Genealogy of Morals / Ecce Homo
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/51893.Thus_Spoke_Zarathustra" title="Thus Spoke Zarathustra">
+                  Thus Spoke Zarathustra
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/31862.Discourse_on_Method_and_Meditations_on_First_Philosophy"
+                  title="Discourse on Method and Meditations on First Philosophy">
+                  Discourse on Method and Meditations on First Philosophy
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/19068.The_Nicomachean_Ethics" title="The Nicomachean Ethics">
+                  The Nicomachean Ethics
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/12651.The_Social_Contract" title="The Social Contract">
+                  The Social Contract
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/9454.Hegel_s_Phenomenology_of_Spirit" title="Hegel's Phenomenology of Spirit">
+                  Hegel's Phenomenology of Spirit
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/90078.An_Essay_Concerning_Human_Understanding"
+                  title="An Essay Concerning Human Understanding">
+                  An Essay Concerning Human Understanding
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/30658.Meditations_on_First_Philosophy" title="Meditations on First Philosophy">
+                  Meditations on First Philosophy
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/18288.Critique_of_Pure_Reason" title="Critique of Pure Reason">
+                  Critique of Pure Reason
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/12075.Tractatus_Logico_Philosophicus" title="Tractatus Logico-Philosophicus">
+                  Tractatus Logico-Philosophicus
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/12073.Philosophical_Investigations" title="Philosophical Investigations">
+                  Philosophical Investigations
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/31795.The_Story_of_Philosophy"
+                  title="The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers">
+                  The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/168668.Catch_22" title="Catch-22 (Catch-22, #1)">
+                  Catch-22
+                  <span class="darkGreyText">(Catch-22, #1)</span>
+            </a>
+      </li>
+      <li>
+            <a href="/book/show/4900.Heart_of_Darkness" title="Heart of Darkness">
+                  Heart of Darkness
+            </a>
+      </li>
+</ul>

@@ -136,7 +136,6 @@ Page parseFile(char *file_name) {
     j++;
   }
   page.content[j] = '\0';
-  puts(page.content);
 
   free(full_path);
   fclose(fp);
@@ -169,6 +168,7 @@ void buildSite(FileList *list) {
     fp = fopen(full_path, "w");
     fputs(html_head, fp);
     fputs(html_header, fp);
+    fprintf(fp, "<h1>%s</h1>", page.name);
     fputs(page.content, fp);
     fputs(html_footer, fp);
 
