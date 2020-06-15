@@ -5,10 +5,8 @@ dash="----------------------"
 echo $dash
 echo "clearing out pre-built sites"
 
-rm -r docs
-mkdir docs
-
 echo $dash
+rm ./docs/*.html
 
 echo "Going into source dir"
 cd src

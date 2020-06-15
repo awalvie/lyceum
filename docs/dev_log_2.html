@@ -3,10 +3,10 @@
 <meta name='description'content='an island of personal thought'>
 <meta name='viewport'content='width=device-width' initial-scale=1.0>
 <title>Lyceum</title>
-<link rel='stylesheet' type='text/css' href='../static/main.css'>
+<link rel='stylesheet' type='text/css' href='./static/main.css'>
 </head>
 <body>
-<header ><a id='logo' href='index.html'><img src='../static/images/icon.jpg'></a></header><h1>dev log 2</h1>
+<header ><a id='logo' href='index.html'><img src='./static/images/icon.jpg'></a></header><h1>dev log 2</h1>
 <p>Spent most of the morning trying to debug the generator but did not end up finding the issue. It was only in the afternoon, when a member of a community I belong to identified the issue, that I understood what was wrong. As was pointed out to me:</p>
 <p>`The data returned by readdir() may be overwritten by subsequent calls to readdir() for the same directory stream.</p>
 <p>On success, readdir() returns a pointer to a dirent structure. (This structure may be statically allocated; do not attempt to free(3) it.)`</p>

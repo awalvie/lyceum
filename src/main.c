@@ -25,13 +25,13 @@ char *html_head =
     "<meta name='description'content='an island of personal thought'>\n"
     "<meta name='viewport'content='width=device-width' initial-scale=1.0>\n"
     "<title>Lyceum</title>\n"
-    "<link rel='stylesheet' type='text/css' href='../static/main.css'>\n"
+    "<link rel='stylesheet' type='text/css' href='./static/main.css'>\n"
     "</head>\n"
     "<body>\n";
 
 char *html_header =
     "<header >"
-    "<a id='logo' href='index.html'><img src='../static/images/icon.jpg'></a>"
+    "<a id='logo' href='index.html'><img src='./static/images/icon.jpg'></a>"
     "</header>";
 
 char *html_footer = "</body></html>";
