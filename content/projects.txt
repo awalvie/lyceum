@@ -1,0 +1,8 @@
+projects
+things I've made
+20200617
+
+
+<ul class='single'>
+<li><b><a href="https://github.com/awalvie/lyceum"">Lyceum</a></b>: Static Site Generator in C89 that powers this website</li>
+</ul>

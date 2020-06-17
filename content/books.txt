@@ -2,9 +2,12 @@ books
 books that I like
 20200611
 <ul>
-    <hr>
-    <li>Reading: <a href="https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes">How to take smart notes</a> by Sönke Ahrens</li>  
-    <hr>
+    <li>Reading:</li>
+    <ul class="single">
+        <li><a href="https://www.goodreads.com/book/show/1617.Night">Night</li>  
+        <li><a href="https://www.goodreads.com/book/show/257965.Drawing_Lessons_from_the_Great_Masters">Drawing Lessons from the Great Masters</li>  
+    </ul>
+<hr/>
     <li><a href="to_read.html">To Read</a></li>
     <li><a href="read.html">Read</a></li>
 </ul>

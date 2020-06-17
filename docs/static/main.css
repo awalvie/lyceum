@@ -77,7 +77,6 @@ body ul {
 
 body>ul li a {
 	text-transform: capitalize;
-	text-decoration: underline;
 }
 
 body>ul li b {
@@ -99,6 +98,7 @@ body ul.double_column li {
 }
 
 body ul.single {
+	margin-top: 20px;
 	font-size: 14px;
 	columns: 1;
 }
@@ -168,8 +168,8 @@ body ol > li{
 }
 
 hr {
-	border: 1px dotted black;
-	margin: 20px 0px;
+	border: 1px solid black;
+	margin: 15px 0px;
 }
 
 body p>a {
@@ -184,4 +184,8 @@ p {
 .date {
 	margin: 30px 0px;
 	font-size: 10px;
+}
+
+a {
+	text-decoration: underline;
 }

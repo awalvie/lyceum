@@ -1,8 +1,9 @@
 read
 the list and summaries of books I've read
-20200614
+20200617
 <h3>2020</h3>
 <ul class="single">
+    <li><a href="How_to_take_smart_notes.html">How to Take Smart Notes</a></li>
     <li><a href="Darkness-Visible.html">Darkness Visible</a></li>
     <li><a href="The-Meaning-of-it-All.html">The Meaning of it All</a></li>
     <li><a href="A-Brief-History-Of-Time.html">A Brief History Of Time</a></li>
