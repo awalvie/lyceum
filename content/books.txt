@@ -4,8 +4,7 @@ books that I like
 <ul>
     <li>Reading:</li>
     <ul class="single">
-        <li><a href="https://www.goodreads.com/book/show/1617.Night">Night</li>  
-        <li><a href="https://www.goodreads.com/book/show/257965.Drawing_Lessons_from_the_Great_Masters">Drawing Lessons from the Great Masters</li>  
+        <li><a href="https://www.goodreads.com/book/show/257965.Drawing_Lessons_from_the_Great_Masters">Drawing Lessons from the Great Masters</li>
     </ul>
 <hr/>
     <li><a href="to_read.html">To Read</a></li>

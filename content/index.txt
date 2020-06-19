@@ -12,9 +12,9 @@ welcome to my humble non-js primitive abode
 <h3><a href="books.html">bookshelf</a></h3>
 <p>Books gets a separate section because of their importance in my life. Below are my recent reads
     <ul class="single">
+        <li><a href="Night.html">Night</a></li>
         <li><a href="How_to_take_smart_notes.html">How to Take Smart Notes</a></li>
         <li><a href="Darkness-Visible.html">Darkness Visible</a></li>
-        <li><a href="The-Meaning-of-it-All.html">The Meaning of it All</a></li>
     </ul>
     <h3>tools</h3>
     <p>Current tools, and tools I would like to have</p>
