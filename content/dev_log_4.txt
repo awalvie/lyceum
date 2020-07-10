@@ -1,0 +1,19 @@
+dev log 4
+too many zettelkasten software choices
+20200710
+
+<p>So an update on the zettelkasten hosting front. I tumbled down the rabbit hole as I usually do. Zettelkasten software has been popping up left and right the last couple of years. We're spoiled for choice, which is more bad than good news for me. A major problem with me is the inability to make a choice, especially picking one from so many! So I'll just figure it by writing about it here, and not overthink it. I also need to stop second guessing myself and worrying whether it's the <i>best</i> tool for my needs or not. It's not the tool that matters, but how you use it.</p>
+
+<p>I've narrowed it down to two options
+<ul class="single">
+<li>1. Tiddlywiki</li>
+<li>2. Obsidian</li>
+</ul>
+</p>
+
+<h3>Tiddlywiki</h3>
+<p>Honestly I should just pick this, it's been around for ages, has custom CSS that I can tweak to make it the way I like it, is fully open-source, and is directly hosted on the web, so portability is never going to be a problem, period. There's just something about the UI that feels clunky though.</p>
+
+<h3>Obsidian</h3>
+<p>Obsidian is the new kid on the zettelkasten block, with a bunch of features, most of which I don't even know about. There's just something about the UI that's aesthetically pleasing to my eyes, something that I would enjoy writing in. Couple of downsides personally, it's not open-source and you can't host your notes directly on the web and it's not available right now either. Wait, hold on, they switched hosting from <b>Short-Term</b> to <b>Working On</b> on their roadmap. Hmm, that changes things. If that is the case I think I'm going to choose Obsidian, that is, if the feature is free. Lets ask if that is the case. Alright, sadly, it ain't.</p>
+<p>So, if I do want to keep using Obsidian as my tool of choice, I will need also need to find a way to host my knowledge base, which is probably going to be a Gatsy website, make sure that it supports the Obsidian file format and all in all it's a lot of work to set it up and then use it. As Devine told me, design your tools around the content and not the other way around. TiddlyWiki does seem like the way to go. Alright, choice made, no second guessing myself!</p>

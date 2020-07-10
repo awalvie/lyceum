@@ -3,7 +3,8 @@ things I wish to talk about
 20200611
 <p>This blog is not always going to be technical, in fact most of it isn't. The main purpose of the blog is to help me identify and keep track of the progress I make while developing things on a regular basis. It helps me stay accountable to myself and serves as a historical record that I can look back on.</p>
 <hr/>
-<ul>
+<ul class="single">
+    <li><a href="dev_log_4.html">dev log #4</a></li>
     <li><a href="dev_log_3.html">dev log #3</a></li>
     <li><a href="dev_log_2.html">dev log #2</a></li>
     <li><a href="dev_log_1.html">dev log #1</a></li>
