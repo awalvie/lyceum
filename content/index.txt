@@ -6,8 +6,8 @@ welcome to my humble non-js primitive abode
 <h3><a href="blog.html">blog</a></h3>
 <p>Recent Posts</p>
 <ul class="single">
+    <li><a href="dev_log_5.html">dev log 5</a></li>
     <li><a href="dev_log_4.html">Dev Log 4</a></li>
-    <li><a href="dev_log_3.html">Dev Log 3</a></li>
 </ul>
 <h3><a href="books.html">bookshelf</a></h3>
 <p>Books gets a separate section because of their importance in my life. Below are my recent reads
