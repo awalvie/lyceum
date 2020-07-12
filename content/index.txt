@@ -1,8 +1,8 @@
 Lyceum
 welcome to my humble non-js primitive abode
 20200607
-<h3><a href="#">epistem</a></h3>
-<p>Notes made using the zettelkasten method (Coming Soon!)</p>
+<h3><a href="https://epistem.awalvie.me/">epistem</a></h3>
+<p>My working notes</p>
 <h3><a href="blog.html">blog</a></h3>
 <p>Recent Posts</p>
 <ul class="single">
