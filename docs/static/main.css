@@ -160,7 +160,8 @@ blockquote {
 	font-weight: lighter;
 	font-style: italic;
 	font-family: monospace;
-	font-size: 16px;
+	font-size: 15px;
+	max-width: 400px;
 }
 
 body ol > li{
@@ -173,12 +174,8 @@ hr {
 	margin: 15px 0px;
 }
 
-body p>a {
-	font-weight: bold;
-}
-
 p {
-	margin: 20px 0px;
+	margin: 15px 0px;
 
 }
 
@@ -189,4 +186,11 @@ p {
 
 a {
 	text-decoration: underline;
+}
+
+.quote {
+	padding: 15px 30px;
+	font-size: 14px;
+	font-style: italic;
+	max-width: 400px;
 }
