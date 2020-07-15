@@ -99,6 +99,7 @@ body ul.double_column li {
 
 body ul.single {
 	margin-top: 20px;
+	margin-bottom: 10px;
 	font-size: 14px;
 	columns: 1;
 }

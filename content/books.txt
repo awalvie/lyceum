@@ -3,6 +3,10 @@ books that I like
 20200611
 <ul class="single">
     <li>Reading:</li>
+			<ul class="single">
+				<li>- <a href="https://www.goodreads.com/book/show/944073.The_Blade_Itself">The Blade Itself</a></li>
+				<li>- <a href="https://www.goodreads.com/book/show/900634.Lingua_Latina_per_se_Illustrata">Lingua Latina per se Illustrata</a></li>
+			</ul>
     <li><a href="to_read.html">To Read</a></li>
     <li><a href="read.html">Read</a></li>
 </ul>
