@@ -1,4 +1,5 @@
 dev log 10
 a sense of stability
+20200728
 
 <p>The alpha version of our platform got done today! Development there is going to be paused for a little while so I'll now have the time to jump back into making new projects!</p>
