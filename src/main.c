@@ -170,9 +170,9 @@ void buildSite(FileList *list) {
     fputs(html_header, fp);
     fprintf(fp, "<h1>%s</h1>", page.name);
     fputs(page.content, fp);
-    fputs(html_footer, fp);
     fprintf(fp, "<p class='date'>Last Edited On: %d, %d, %d</p>",
             page.date.year, page.date.month, page.date.day);
+    fputs(html_footer, fp);
 
     fclose(fp);
     free(full_path);
