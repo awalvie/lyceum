@@ -4,5 +4,6 @@ things I've made
 
 
 <ul class='single'>
-<li><b><a href="https://github.com/awalvie/lyceum"">Lyceum</a></b>: Static Site Generator in C89 that powers this website</li>
+<li><b><a href="https://github.com/awalvie/lyceum"">Lyceum</a></b>: Static Site Generator in ANSI C that powers this website</li>
+<li><b><a href="https://github.com/awalvie/tengi"">Tengi</a></b>: POSIX compliant shell written in ANSI C</li>
 </ul>
