@@ -1,0 +1,5 @@
+dev log 12
+new projects
+20200823
+
+<p>In the last log I talked about attempting to repackage the <code>zathura-pdf-mupdf</code> extension for Debian based systems. I opened an issue for the same on the project's GitLab page but was informed that the issue is already being tracked and needs someone to fix the <code>mupdf</code> package first. So yeah, that was disappointing. Because I was left with nothing to do, I turned to my trusty <a href="https://github.com/awalvie/things-to-do/issues">things to do</a> repository. I use it to keep track of interesting project ideas to work on. I first thought about making a bandwidth monitor as a small utility program to learn the basics of networking with C, but I didn't find a lot of support on the freenode <code>##C</code> and <code>##programming</code> IRC channels for the same, so I decided a better idea would be to write a simple HTTP server in C to learn the basics of it. I'm very proud of the name, it's called <a href="https://github.com/awalvie/simper">Simper</a>, (get it, because it's a SIMPle sERver, yeah... I'll go in the corner now).</p>
