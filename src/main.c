@@ -1,3 +1,10 @@
+/* # Flow of the program */
+
+/* Get the list of all the file names given a directory. */
+/* Open the files using the file names. */
+/* Parse metadata. */
+/* Render the website. */
+
 /* necessary to use strdup */
 #ifdef __STDC_ALLOC_LIB__
 #define __STDC_WANT_LIB_EXT2__ 1
@@ -16,8 +23,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-
-#define FILE_BUFFER 1024
 
 char *html_head =
 	"<html lang='en'>\n"
@@ -107,6 +112,7 @@ Page newPage()
 	return page;
 }
 
+/* constructor for filelist */
 FileList new_list()
 {
 	FileList list;
@@ -163,13 +169,14 @@ void buildSite(FileList *list)
 	for (i = 0; i < list->number_of_files; i++) {
 		Page page;
 		page = parseFile(list->files[i]);
+
 		/* remove the .txt extension from the file name */
 		char *file_name = list->files[i];
 		removeFileExtension(file_name);
+
 		/* full path of the final file */
 		char *full_path =
 			concat(concat("../docs/", file_name), ".html");
-		puts(full_path);
 
 		FILE *fp;
 		fp = fopen(full_path, "w");

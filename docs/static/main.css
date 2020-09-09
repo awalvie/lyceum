@@ -65,6 +65,13 @@ body h3 {
 	margin: 20px 0px;
 }
 
+body h4 {
+	margin: 8px 0px;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: lowercase;
+}
+
 body>h3 a {
 	text-decoration: underline;
 }
@@ -98,7 +105,6 @@ body ul.double_column li {
 }
 
 body ul.single {
-	margin-top: 20px;
 	margin-bottom: 10px;
 	font-size: 14px;
 	columns: 1;

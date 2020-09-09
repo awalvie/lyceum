@@ -1,0 +1,5 @@
+dev log 12
+learning socket programming
+20200907
+
+<p>I've been writing a simpler server to which serves Lyceum</p>

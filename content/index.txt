@@ -10,11 +10,11 @@ welcome to my humble non-js primitive abode
     <li><a href="dev_log_11.html">dev log 11</a></li>
 </ul>
 <h3><a href="books.html">bookshelf</a></h3>
-<p>Books gets a separate section because of their importance in my life. Below are my recent reads</p>
+<p>Below are some of my recent reads</p>
 <ul class="single">
+    <li><a href="The_Bell_Jar.html">The Bell Jar</a></li>
     <li><a href="The_Blade_Itself.html">The Blade Itself</a></li>
     <li><a href="Night.html">Night</a></li>
-    <li><a href="How_to_take_smart_notes.html">How to Take Smart Notes</a></li>
 </ul>
 <h3>tools</h3>
 <p>Current tools, and tools I would like to have</p>
