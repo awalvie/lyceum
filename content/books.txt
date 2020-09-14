@@ -4,6 +4,7 @@ books that I like
 <h4>Reading:</h4>
 <ul class="single">
 <li>- <a href="https://www.goodreads.com/book/show/30300.The_Last_Days_of_Socrates">The Last Days of Socrates</a></li>
+<li>- <a href="https://www.goodreads.com/book/show/44767458-dune">Dune</a></li>
 </ul>
     <h4><a href="to_read.html"><b>To Read</b></a></h4>
     <h4><a href="read.html"><b>Read</a></b></h4>
