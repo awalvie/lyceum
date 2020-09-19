@@ -134,12 +134,13 @@ body>p i {
 }
 
 body>pre {
+	overflow-x: auto;
+	overflow-y: hidden;
 	font-size: larger;
 	color: white;
 	background: black;
 	font-family: monospace;
 	padding: 15px;
-	border: 2px solid black;
 	margin: 20px 0px;
 }
 
