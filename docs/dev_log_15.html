@@ -1,0 +1,22 @@
+<html lang='en'>
+<head><meta charset='UTF-8'>
+<meta name='description'content='an island of personal thought'>
+<meta name='viewport'content='width=device-width' initial-scale=1.0>
+<title>Lyceum</title>
+<link rel='stylesheet' type='text/css' href='./static/main.css'>
+</head>
+<body>
+<header ><a id='logo' href='index.html'><img src='./static/images/icon.jpg'></a></header><h1>dev log 15</h1>
+
+<p>I bring news of progress. I've been working on rendering a canvas that I can use the mouse to paint with as my first milestone of porting Noodle from JS to C alongwith Devine. I'm not going to lie, it's been challenging. Graphics libraries are hard especially when you don't have tutorials. Your only choice is to open up various function documentations and keep doing that until you find what you're looking for. It's definitely satisfying when you get things working though. To walk you through the things that I did I made sure to write down a plan of action while writing the code, to break down big objectives atomically, into small actionable goals. This is what was I wrote down -</p>
+<ul class="single">
+	<li>- First render a white canvas //DONE </li>
+	<li>- Poll mouse events //DONE</li>
+	<li>- Switch to a renderer instead of using surfaces //DONE</li>
+	<li>- Use mouse events to draw to canvas //DONE</li>
+	<li>- Re-Work code to remove global variables into a portable structure</li>
+</ul>
+
+<p>Working this way the task of porting an entire program does not have to be dealt with altogether, I just have to do the next thing on the list and slowly but surely the port will happen. Here's a glimpse of what the canvas looks like right now, <strong>behold</strong>: </p>
+<img src="./static/images/dev_log_15_noodle.png">
+<p class='date'>Last Edited On: 2020, 9, 22</p></body></html>
