@@ -223,3 +223,7 @@ strong {
 	font-weight: bold;
 	margin-bottom: 10px;
 }
+
+img {
+	max-width: 600px;
+}

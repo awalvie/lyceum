@@ -1,3 +1,8 @@
 art
 personal artwork I have created
 20200614
+
+<p>Savannah - 30 June, 2020</p>
+<img src="./static/images/Savannah.png" title="Savannah">
+</hr />
+
