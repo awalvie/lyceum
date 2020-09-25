@@ -167,6 +167,10 @@ body p>code {
 	body>ul.double_column {
 		columns: 1 !important
 	}
+
+	img {
+		max-width: 300;
+	}
 }
 
 blockquote {
