@@ -1,0 +1,56 @@
+<html lang='en'>
+<head><meta charset='UTF-8'>
+<meta name='description'content='an island of personal thought'>
+<meta name='viewport'content='width=device-width' initial-scale=1.0>
+<title>Lyceum</title>
+<link rel='stylesheet' type='text/css' href='./static/main.css'>
+</head>
+<body>
+<header ><a id='logo' href='index.html'><img src='./static/images/icon.jpg'></a></header><h1>dev log 20</h1>
+
+<p>When I started working on the backend of the startup I'm a part of right now, everything was already setup. I'd setup flask once, a year or so ago, just following along with a tutorial, but setting up a sensible project structure that was comfortable turned out to be surprisingly difficult.</p>
+<p>The way the backend is structured is pretty straightforward:</p>
+<ul class="single">
+	<li>1. Poetry - Dependency Management</li>
+	<li>2. Flask - Backend Framework</li>
+	<li>3. PostgreSQL - Relational Database</li>
+	<li>4. SQLAlchemy - Object Relational Mapper</li>
+	<li>5. Marshmallow - Object Serialization and De-serialization</li>
+</ul>
+<p>It's pretty standard, nothing new. The project structure is:</p>
+<pre><code>$ tree backend
+
+├── app.py
+├── backend
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   └── utils.py
+├── config.py
+├── docs
+├── poetry.lock
+├── pyproject.toml
+├── README.md
+└── route_testing
+</code></pre>
+
+<p>This time I went about setting everything up in a step-by-step manner, instead of the usual gungo-ho style of setting things up by looking at duckduckgo and wondering why it doesn't work.</p>
+
+<ul class="single">
+	<li>- Ensure flask works</li>
+	<li>- Setup PostgreSQL on my machine</li>
+	<li>- Connect PostgreSQL with Flask</li>
+	<li>- Write a user model and ensure the table is getting created</li>
+	<li>- Write the schema for the model</li>
+	<li>- Set up flask-login</li>
+	<li>- Write the routes for login and signup</li>
+	<li>- Test routes</li>
+	<li>- Write a sane README for the backend</li>
+	<li>- Write the documentation for the APIs</li>
+</ul>
+
+<p>It might seem like a lot of things to do, but all of them are small atomic tasks that I could work on one after the other. Breaking problems down into small digestable chunks helps me keep my anxiety low and also make the project surprisingly easy to make.<p>
+
+<p>Then, I played Breath of the Wild for 3 hours, I needed that Master Sword :|</p>
+<p class='date'>Last Edited On: 2020, 10, 7</p></body></html>
