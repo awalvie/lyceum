@@ -1,0 +1,5 @@
+dev log 21
+writing the backend for CovidAid
+20201010
+
+<p>Today, I wrote the backend for our hackathon project alongwith my teammate. The backend is really simple and I had an easy time writing it. Tomorrow deployment and documentation.</p>
