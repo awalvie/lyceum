@@ -1,6 +1,6 @@
 projects
 things I've made
-20200617
+20201012
 
 
 <ul class='single'>
@@ -8,4 +8,11 @@ things I've made
 <li><b><a href="https://github.com/awalvie/tengi">Tengi</a></b>: POSIX compliant shell written in ANSI C.</li>
 <li><b><a href="https://github.com/awalvie/sersim">Sersim</a></b>: Simple server written in C to serve Lyceum locally.</li>
 <li><b><a href="https://github.com/awalvie/utilities/tree/master/monband">Monband</a></b>: Program to keep track of my download speeds in the termnial</li>
+</ul>
+
+<p>Projects that I have contributed to:</p>
+
+<ul class='single'>
+	<li><b><a href="https://github.com/NitishGadangi/CovidAid">CovidAid</a></b>: Mobile application where people help each other.</li>
+	<li><b><a href="https://wiki.xxiivv.com/site/moogle.html">Moogle</a></b>: Minimal 3D wireframe tool</li>
 </ul>
