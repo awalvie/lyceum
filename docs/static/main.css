@@ -232,3 +232,7 @@ strong {
 img {
 	max-width: 600px;
 }
+
+em {
+	font-style: italic
+}
