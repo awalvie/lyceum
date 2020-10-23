@@ -1,0 +1,6 @@
+dev log 26
+switching from click to kiwi tcms
+20201023
+
+<p>So things have been moving, let's say not the most smoothly. While I originally was very excited to work on click, since the project is very stable there's hardly anything major to fix/enhance. While there are a sizable number of issues a lot of them are either stale or have small but niche problems. The project as a whole hence doesn't necessarily need a lot of helping.</p> <p>Yesterday during a meeting with our mentors, I was made aware that there was another project called <a href="https://github.com/kiwitcms/Kiwi">Kiwi</a> which was still open and looking for people to work on, they have a lot of work to be done and there's a couple of huge feature requests that seem super interesting to work on. I messaged my mentor asking whether I could switch to it and he did. So I'll be working on Kiwi now!</p>
+
