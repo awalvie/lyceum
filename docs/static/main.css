@@ -159,6 +159,10 @@ body p>code {
 	border-radius: 8%;
 }
 
+body ul li>code {
+	color: teal;
+}
+
 @media (max-width: 1000px) {
 	body {
 		padding: 30px

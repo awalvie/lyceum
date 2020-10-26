@@ -4,6 +4,7 @@ things I wish to talk about
 <p>This blog is not always going to be technical, in fact most of it isn't. The main purpose of the blog is to help me identify and keep track of the progress I make while developing things on a regular basis. It helps me stay accountable to myself and serves as a historical record that I can look back on.</p>
 <hr/>
 <ul class="single">
+    <li><a href="dev_log_27.html">dev log 27</a></li>
     <li><a href="dev_log_26.html">dev log 26</a></li>
     <li><a href="dev_log_25.html">dev log 25</a></li>
     <li><a href="dev_log_24.html">dev log 24</a></li>
