@@ -1,13 +1,13 @@
 Lyceum
 welcome to my humble non-js primitive abode
-20201028
+20201103
 <h3><a href="https://epistem.awalvie.me/">epistem</a></h3>
 <p>My working notes</p>
 <h3><a href="blog.html">blog</a></h3>
 <p>Recent Posts</p>
 <ul class="single">
+    <li><a href="dev_log_30.html">dev log 30</a></li>
     <li><a href="dev_log_29.html">dev log 29</a></li>
-    <li><a href="dev_log_28.html">dev log 28</a></li>
 </ul>
 <h3><a href="books.html">bookshelf</a></h3>
 <p>Below are some of my recent reads</p>
