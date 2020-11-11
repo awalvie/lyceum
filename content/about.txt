@@ -14,6 +14,7 @@ about
     reach out.</p>
 <p>I also like reading books and will be writing about them, these won’t be reviews but just my thoughts
     put on paper.</p>
+<p>The website is currently hosted via Github Pages <a href="https://github.com/awalvie/lyceum">here</a>.</p>
 <h3>Contact</h3>
 <ul>
     <a href="mailto:agrawal.vishesh.178@gmail.com">/email</a>
