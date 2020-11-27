@@ -6,3 +6,6 @@ personal artwork I have created
 <img src="./static/images/Savannah.png" title="Savannah">
 </hr />
 
+<p>Stones - 26 Nov, 2020</p>
+<img src="./static/images/stones.jpg" title="stones">
+</hr />
