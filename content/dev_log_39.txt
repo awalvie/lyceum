@@ -1,0 +1,13 @@
+dev log 39
+I'm done with uni
+20201225
+
+<p>Hey, it's the day after I've written my final univerisity exam. I just have a semester pending now that I'll be spending at my internship. I'm due to join on Jan 3, 2021 and am looking forward to finally getting my hands on some production software.</p>
+
+<p>Since I have some downtime, there's a couple of things I'd like to do.</p>
+<ul class="single">
+	<li>1. Reinstall PopOS. It's gotten a lot slower, but that's GNOME for ya.</li>
+	<li>2. Make my BitTorrent Client</li>
+	<li>3. Finish Advent of Code 2020</li>
+</ul>
+<p>These are the things I'm going to be working on the coming week and a half.</p>

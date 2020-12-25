@@ -6,8 +6,8 @@ welcome to my humble non-js primitive abode
 <h3><a href="blog.html">blog</a></h3>
 <p>Recent Posts</p>
 <ul class="single">
+    <li><a href="dev_log_39.html">dev log 39</a></li>
     <li><a href="dev_log_38.html">dev log 38</a></li>
-    <li><a href="dev_log_37.html">dev log 37</a></li>
 </ul>
 <h3><a href="books.html">bookshelf</a></h3>
 <p>Below are some of my recent reads</p>
