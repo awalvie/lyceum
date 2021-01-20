@@ -1,8 +1,6 @@
 Lyceum
 welcome to my humble non-js primitive abode
 20200119
-<h3><a href="https://epistem.awalvie.me/">epistem</a></h3>
-<p>My working notes</p>
 <h3><a href="blog.html">blog</a></h3>
 <p>Recent Posts</p>
 <ul class="single">
