@@ -1,6 +1,10 @@
 read
 the list and summaries of books I've read
-20200716
+20210127
+<h3>2021</h3>
+<ul class="single">
+	<li><a href="A_Guide_to_the_Good_Life.html">A Guide to the Good Life</a></li>
+</ul>
 <h3>2020</h3>
 <ul class="single">
 	<li><a href="https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces">The Hero With A Thousand Faces</a></li>

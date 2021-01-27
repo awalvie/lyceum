@@ -1,6 +1,6 @@
 Lyceum
 welcome to my humble non-js primitive abode
-20200121
+20210127
 <h3><a href="blog.html">blog</a></h3>
 <p>Recent Posts</p>
 <ul class="single">
@@ -10,9 +10,9 @@ welcome to my humble non-js primitive abode
 <h3><a href="books.html">bookshelf</a></h3>
 <p>Below are some of my recent reads</p>
 <ul class="single">
+	<li><a href="A_Guide_to_the_Good_Life.html">A Guide to the Good Life</a></li>
 	<li><a href="https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces">The Hero With A Thousand Faces</a></li>
     <li><a href="Last_Days_of_Socrates.html">Last Days of Socrates</a></li>
-    <li><a href="The_Picture_of_Dorian_Gray.html">The Picture of Dorian Gray</a></li>
 </ul>
 <h3>tools</h3>
 <p>Current tools, and tools I would like to have</p>
