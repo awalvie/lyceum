@@ -58,8 +58,8 @@ body h2 {
 }
 
 body h3 {
+	font-weight: 500;
 	font-size: 26px;
-	font-weight: bold;
 	text-transform: lowercase;
 	margin: 20px 0px;
 }
