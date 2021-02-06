@@ -31,6 +31,7 @@ welcome to my humble non-js primitive abode
 <p>Things that don't fit into any of the above categories</p>
 <ul class="single">
     <li><a href="quotes.html">quotes</a></li>
+	<li><a href="friends.html">friends</a><li>
 </ul>
 
 <h3><a href="projects.html" projects>projects</a></h3>
