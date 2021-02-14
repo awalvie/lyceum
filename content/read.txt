@@ -1,8 +1,9 @@
 read
 the list and summaries of books I've read
-20210127
+20210214
 <h3>2021</h3>
 <ul class="single">
+	<li><a href="Phschology_of_Money.html">Psychology of Money</a></li>
 	<li><a href="A_Guide_to_the_Good_Life.html">A Guide to the Good Life</a></li>
 </ul>
 <h3>2020</h3>
