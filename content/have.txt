@@ -1,6 +1,6 @@
 have
 list of tools that I possess
-20200617
+202010214
 
 <h3>Hardware</h3>
 
@@ -12,6 +12,7 @@ list of tools that I possess
 <li><b>Tablet</b>: iPad Pro 11</li>
 <li><b>Headphones</b>: Sony WF1000 XM3</li>
 <li><b>Earphones</b>: Airpods Pro</li>
+<li><b>Keyboard</b>: GMMK White Ice TKL</li>
 </ul>
 
 <h3>Software</h3>
