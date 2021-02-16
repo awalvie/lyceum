@@ -10,9 +10,9 @@ welcome to my humble non-js primitive abode
 <h3><a href="books.html">bookshelf</a></h3>
 <p>Below are some of my recent reads</p>
 <ul class="single">
+	<li><a href="https://openlibrary.org/works/OL20921859W/Warbreaker?edition=">Warbreaker</a></li>
 	<li><a href="Phschology_of_Money.html">Psychology of Money</a></li>
 	<li><a href="A_Guide_to_the_Good_Life.html">A Guide to the Good Life</a></li>
-	<li><a href="https://openlibrary.org/works/OL2497175W/The_hero_with_a_thousand_faces?edition=herowiththousand0000camp">The Hero With A Thousand Faces</a></li>
 </ul>
 <h3>tools</h3>
 <p>Current tools, and tools I would like to have</p>
