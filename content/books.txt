@@ -3,10 +3,11 @@ books that I like
 20210216
 <h4>Reading:</h4>
 <ul class="single">
-<li>- <a href="https://openlibrary.org/works/OL17628800W/Sapiens">Sapiens: A Brief History of Humankind</a></li>
+<li>- <a href="https://openlibrary.org/works/OL21102663W/Calling_Bullshit?edition=">Calling Bullshit</a></li>
 </ul>
     <h4><a href="to_read.html"><strong>To Read</strong></a></h4>
     <h4><a href="read.html"><strong>Read</a></strong></h4>
+    <h4><a href="dropped.html"><strong>Dropped</a></strong></h4>
 </ul>
 <p>Books get a separate section because I love reading and I tend to read a lot. I used to read sproradically when I was
     younger, and stopped altogether during my high school years. Those were not good years. During the second year of my
