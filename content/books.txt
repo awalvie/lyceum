@@ -1,9 +1,9 @@
 books
 books that I like
-20210216
+20210315
 <h4>Reading:</h4>
 <ul class="single">
-<li>- <a href="https://openlibrary.org/works/OL21102663W/Calling_Bullshit?edition=">Calling Bullshit</a></li>
+<li>- <a href="https://openlibrary.org/works/OL1317211W/Meditations">Meditations</a></li>
 </ul>
     <h4><a href="to_read.html"><strong>To Read</strong></a></h4>
     <h4><a href="read.html"><strong>Read</a></strong></h4>

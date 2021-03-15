@@ -1,8 +1,9 @@
 read
 the list and summaries of books I've read
-20210216
+20210305
 <h3>2021</h3>
 <ul class="single">
+	<li><a href="https://openlibrary.org/works/OL21102663W/Calling_Bullshit?edition=">Calling Bullshit</a></li>
 	<li><a href="https://openlibrary.org/works/OL20921859W/Warbreaker?edition=">Warbreaker</a></li>
 	<li><a href="Phschology_of_Money.html">Psychology of Money</a></li>
 	<li><a href="A_Guide_to_the_Good_Life.html">A Guide to the Good Life</a></li>
