@@ -45,10 +45,26 @@ the never ending list of books that interest me
     <li>- <a href="https://en.wikipedia.org/wiki/The_Call_of_the_Wild">The Call of the Wild - Jack London</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Master_and_Margarita">The Master and Margarita - Mikhail Bulgakov</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Grapes_of_Wrath">The Grapes of Wrath - John Steinback</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/East_of_Eden_(novel)">East of Eden - John Steinback</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Code_of_the_Woosters">The Code of the Woosters - P. G. Wodehouse</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Middlemarch">Middlemarch - George Eliot</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Midnight%27s_Children">Midnight's Children - Salman Rushdie</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Satanic_Verses">The Satanic Verses - Salman Rushdie</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye">The Catcher in the Rye - J. D. Salinger</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo">The Count of Monte Cristo - Alexander Dumas</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/To_the_Lighthouse">To the Lighthouse - Virginia Woolf</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Cancer_Ward">Cancer Ward - Aleksandr Solzhenitsyn</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Maus">Maus - Art Spiegelman</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Lord_of_the_Flies">Lord of the Flies - William Golding</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Waiting_for_Godot">Waiting for Godot - Samuel Beckett</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/As_I_Lay_Dying">As I Lay Dying - William Faulkner</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Sound_and_the_Fury">The Sound and the Fury - William Faulkner</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Zorba_the_Greek">Zorba the Greek - Nikos Kazantzakis</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)">Cosmos - Carl Sagan</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Demon-Haunted_World">Demon-Haunted World - Carl Sagan</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/On_the_Origin_of_Species">On the Origin of Species - Charles Darwin</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Communist_Manifesto">The Communist Manifesto - Karl Marx</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Color_Purple">The Color Purple - Alice Walker</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Paradise_lost">Paradise Lost - John Milton</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams">The Interpretations of Dreams - Sigmund Freud</a></li>
 </ul>
