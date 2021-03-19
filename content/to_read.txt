@@ -42,6 +42,9 @@ the never ending list of books that interest me
     <li>- <a href="https://en.wikipedia.org/wiki/The_Sirens_of_Titan">Sirens of Titan - Kurt Vonnegut</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/In_Cold_Blood">In Cold Blood - Truman Capote</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Brave_New_World">Brave New World - Aldous Huxley</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Island_(Huxley_novel)">Island - Aldous Huxley</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Point_Counter_Point">Point Counter Point - Aldous Huxley</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Doors_of_Perception">The Doors of Perception - Aldous Huxley</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Call_of_the_Wild">The Call of the Wild - Jack London</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Master_and_Margarita">The Master and Margarita - Mikhail Bulgakov</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Grapes_of_Wrath">The Grapes of Wrath - John Steinback</a></li>
@@ -68,5 +71,17 @@ the never ending list of books that interest me
     <li>- <a href="https://en.wikipedia.org/wiki/Paradise_lost">Paradise Lost - John Milton</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams">The Interpretations of Dreams - Sigmund Freud</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Reasons_and_Persons">Reasons and Persons - Derek Parfit</a></li>
-    <li>- <a href="https://en.wikipedia.org/wiki/I,_Claudius">I, Claudius</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/I,_Claudius">I, Claudius - Robert Graves</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Man_Without_Qualities">The Man Without Qualities - Robert Musil</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Chrysalids">The Chrysalids - John Wyndham</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Man_Who_Mistook_His_Wife_for_a_Hat">The Man Who Mistook His Wife for a Hat - Oliver Sacks</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Hallucinations_(book)">Hallucinations - Oliver Sacks</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Confessions_of_a_Mask">Confessions of a Mask - Yukio Mishima</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion">The Temple of the Golden Pavillion - Yukio Mishima</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Wolf_Hall">Wolf Hall - Hilary Mantel</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Gilead_(novel)">Gilead - Marilynne Robinson</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Heart_of_Darkness">Heart of Darkness - Joseph Conrad</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Fear_and_Trembling">Fear and Trembling - Soren Kierkegaard</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Either/Or">Either/Or - Soren Kierkegaard</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Inferno_(Dante)">Inferno - Dante</a></li>
 </ul>
