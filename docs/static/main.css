@@ -78,6 +78,13 @@ body h5 {
 	text-transform: lowercase;
 }
 
+body figure h5 {
+	margin-bottom: 20px;
+	text-transform: none;
+	font-size: 14px;
+	font-weight: 400px;
+}
+
 body>h3 a {
 	text-decoration: underline;
 }
@@ -255,7 +262,7 @@ figure:first-child img {
 }
 
 figure > * {
-	margin-bottom:30px
+	margin-bottom:20px
 }
 
 figure figcaption {
