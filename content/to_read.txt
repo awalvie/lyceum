@@ -25,6 +25,7 @@ the never ending list of books that interest me
     <li>- <a href="https://en.wikipedia.org/wiki/A_Farewell_to_Arms">A Farewell to Arms - Ernest Hemingway</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls">For Whom the Bell Tolls - Ernest Hemingway</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea">The Old Man and the Sea - Ernest Hemingway</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/The_Brothers_Karamazov">The Brothers Karamazov - Fyodor Dostoevsky</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)">Demons - Fyodor Dostoevsky</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Notes_from_Underground">Notes from Underground - Fyodor Dostoevsky</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Crime_and_Punishment">Crime and Punishment - Fyodor Dostoevsky</a></li>
