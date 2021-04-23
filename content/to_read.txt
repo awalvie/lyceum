@@ -1,6 +1,6 @@
 to read
 the never ending list of books that interest me
-20200613
+20210423
 <p>The ever growing list of books that I want to read!</p>
 <ul class="single">
     <li>- <a href="https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies">Rationality: From AI to Zombies</a></li>
@@ -18,7 +18,6 @@ the never ending list of books that interest me
     <li>- <a href="https://en.wikipedia.org/wiki/In_Search_of_Lost_Time">In Search of Lost Time - Marcel Proust</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus">Tractatus Logico-Philosophicus - Ludwig Wittgenstein</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Dracula">Dracula - Bram Stoker</a></li>
-    <li>- <a href="https://en.wikipedia.org/wiki/Frankenstein">Frankenstein - Mary Shelley</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Self-Reliance">Self-Reliance - Ralph Waldo Emerson</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Siddhartha_(novel)">Siddhartha - Hermann Hesse</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/God_Is_Not_Great">God is not Great - Christopher Hitchens</a></li>
