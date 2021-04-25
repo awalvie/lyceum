@@ -238,7 +238,8 @@ a sup {
 	display: inline-block;
 	text-decoration: none;
 	vertical-align: super;
-	font-size: 12px;
+	line-height: 0;
+	font-size: smaller;
 	color: teal;
 }
 
