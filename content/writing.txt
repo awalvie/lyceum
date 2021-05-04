@@ -1,0 +1,7 @@
+writings
+musings of my brain
+20210504
+
+<ul class="single">
+    <li>- <a href="on_personal_organization.html">On personal productivity and organization</a></li>
+</ul>
