@@ -3,6 +3,8 @@ the list and summaries of books I've read
 20210305
 <h3>2021</h3>
 <ul class="single">
+	<li><a href="https://en.wikipedia.org/wiki/The_Way_of_Kings">The Way of Kings</a></li>
+	<li><a href="https://en.wikipedia.org/wiki/Frankenstein">Frankenstein</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities">A Tale of Two Cities</a></li>
 	<li><a href="https://openlibrary.org/works/OL21102663W/Calling_Bullshit?edition=">Calling Bullshit</a></li>
 	<li><a href="https://openlibrary.org/works/OL20921859W/Warbreaker?edition=">Warbreaker</a></li>
