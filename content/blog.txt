@@ -5,6 +5,7 @@ things I wish to talk about
 
 <h3>2021</h3>
 <ul class="single">
+    <li>- <a href="dev_log_52.html">dev log 52</a></li>
     <li>- <a href="dev_log_51.html">dev log 51</a></li>
     <li>- <a href="dev_log_50.html">dev log 50</a></li>
     <li>- <a href="dev_log_49.html">dev log 49</a></li>
