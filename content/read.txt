@@ -3,6 +3,7 @@ the list and summaries of books I've read
 20210305
 <h3>2021</h3>
 <ul class="single">
+	<li><a href="https://en.wikipedia.org/wiki/Words_of_Radiance">Words of Radiance - Brandon Sanderson</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/The_Way_of_Kings">The Way of Kings</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/Frankenstein">Frankenstein</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities">A Tale of Two Cities</a></li>
