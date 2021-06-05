@@ -53,14 +53,12 @@ body h1 {
 
 body h2 {
 	font-size: 38px;
-	text-transform: lowercase;
 	margin-bottom: 20px;
 }
 
 body h3 {
 	font-weight: 500;
 	font-size: 26px;
-	text-transform: lowercase;
 	margin: 20px 0px;
 }
 
@@ -68,14 +66,12 @@ body h4 {
 	margin: 8px 0px;
 	font-size: 18px;
 	font-weight: bold;
-	text-transform: lowercase;
 }
 
 body h5 {
 	margin: 8px 0px;
 	font-size: 18px;
 	font-weight: 600;
-	text-transform: lowercase;
 }
 
 body figure h5 {
