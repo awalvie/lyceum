@@ -1,0 +1,29 @@
+Cooked Indian Bread
+Mom special
+20210605
+
+<h4>20 Minutes - 1 Portion</h4>
+<img src="./static/images/cooked_indian_bread.jpg">
+
+<h4>Ingredients</h4>
+<hr>
+
+<ul class="single">
+	<li>- Indian Bread (Ideally a day old): 1-2</li>
+	<li>- Garlic: 3-4</li>
+	<li>- Ginger: 1</li>
+	<li>- Green Chilli Pepper: 1-2</li>
+	<li>- Onion: 1-2</li>
+	<li>- Curry Leaves (Optional): 4-5</li>
+	<li>- Turmeric Powder: Pinch</li>
+	<li>- Coriander Powder: 1 Tbsp</li>
+	<li>- Red Chilli Powder: 1 - 1 1/2 Tbsp</li>
+	<li>- Asafoetida Powder: Pinch (Use Carefully)</li>
+	<li>- Garam Masala: 2-3 Pinches</li>
+	<li>- Jaggery: 1 Tbsp</li>
+	<li>- Mango Powder: 1/2 Tbsp</li>
+	<li>- Cooking Oil</li>
+</ul>
+
+<h4>Preperation</h4>
+<hr>

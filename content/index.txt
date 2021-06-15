@@ -32,6 +32,7 @@ welcome to my humble non-js primitive abode
 <h3>Others</h3>
 <p>Things that don't fit into any of the above categories</p>
 <ul class="single">
+    <li><a href="recipes.html">recipes</a></li>
     <li><a href="quotes.html">quotes</a></li>
 	<li><a href="friends.html">friends</a></li>
 	<li><a href="notions.html">notions</a></li>
