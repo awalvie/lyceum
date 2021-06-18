@@ -1,6 +1,6 @@
 to read
 the never ending list of books that interest me
-20210423
+20210618
 <p>The ever growing list of books that I want to read!</p>
 <ul class="single">
     <li>- <a href="https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies">Rationality: From AI to Zombies</a></li>
@@ -82,4 +82,7 @@ the never ending list of books that interest me
     <li>- <a href="https://en.wikipedia.org/wiki/Fear_and_Trembling">Fear and Trembling - Soren Kierkegaard</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Either/Or">Either/Or - Soren Kierkegaard</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Inferno_(Dante)">Inferno - Dante</a></li>
+    <li>- <a href="https://en.wikipedia.org/wiki/Oathbringer">Oathbringer - Brandon Sanderson</a></li>
+    <li>- <a href="https://openlibrary.org/works/OL1317211W/Meditations">Meditations - Marcus Aurelius</a></li>
+    <li>- <a href="https://www.slatestarcodexabridged.com/">Slate Star Codex Abridged</a></li>
 </ul>

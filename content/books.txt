@@ -1,11 +1,9 @@
 books
 books that I like
-20210315
+20210618
 <h4>Reading:</h4>
 <ul class="single">
-<li>- <a href="https://en.wikipedia.org/wiki/Oathbringer">Oathbringer - Brandon Sanderson</a></li>
-<li>- <a href="https://openlibrary.org/works/OL1317211W/Meditations">Meditations - Marcus Aurelius</a></li>
-<li>- <a href="https://www.slatestarcodexabridged.com/">Slate Star Codex Abridged</a></li>
+    <li>- <a href="https://openlibrary.org/works/OL1807609W/Think">Think</a></li>
 </ul>
     <h4><a href="to_read.html"><strong>To Read</strong></a></h4>
     <h4><a href="read.html"><strong>Read</a></strong></h4>
