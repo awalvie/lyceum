@@ -1,7 +1,9 @@
 to read
 the never ending list of books that interest me
 20210618
-<p>The ever growing list of books that I want to read!</p>
+<p>List of books and authors that I plan to read!</p>
+
+<h3>Books</h3>
 <ul class="single">
     <li>- <a href="https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies">Rationality: From AI to Zombies</a></li>
     <li>- <a href="https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/">Selected Works: Cicero</a></li>
@@ -85,4 +87,9 @@ the never ending list of books that interest me
     <li>- <a href="https://en.wikipedia.org/wiki/Oathbringer">Oathbringer - Brandon Sanderson</a></li>
     <li>- <a href="https://openlibrary.org/works/OL1317211W/Meditations">Meditations - Marcus Aurelius</a></li>
     <li>- <a href="https://www.slatestarcodexabridged.com/">Slate Star Codex Abridged</a></li>
+</ul>
+
+<h3>Authors</h3>
+<ul>
+	<li>David Graeber</li>
 </ul>
