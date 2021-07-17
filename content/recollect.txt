@@ -16,6 +16,10 @@ A vision for responsibilities of a teacher, in which Russell touches on a number
 <br>
 What does it mean to disagree well? Most readers can tell the difference between mere name-calling and a carefully reasoned refutation, but it would help to put names on the intermediate stages.</p>
 
+<p><b><a href="https://wiki.xxiivv.com/site/discourse.html">A cheatsheet on discourse</a></b>
+<br>
+Cheatsheet for the mechanics of communication</p>
+
 <!-- <p><b><a href="[[link]]">Title</a></b> -->
 <!-- <br> -->
 <!-- Description</p> -->
