@@ -1,0 +1,30 @@
+dev log 57
+minor hiccups
+20210725
+
+<h3>Work</h3>
+<p>Been working on architecting and setting up an <a href="https://thenewstack.io/kubernetes-infrastructure-know-the-inner-dev-loop/">inner dev loop</a> as a primary task for the quarter. We were originally planning on using <a href="https://www.vagrantup.com/">Vagrant</a> to setup a local development environment with the VirtualBox provider for <code>x86_64</code> and Docker provider for <code>arm64</code> (to support Apple Silicon). Easy enough, right, RIGHT!</p>
+
+<p><strong>Vagrant Hell</strong></p>
+<p>Images on <a href="https://hub.docker.com/">docker hub</a> don't support Vagrant out of the box. Vagrant will pull the image, yes, but:
+	<ul class="single">
+		<li>1. <a href="https://github.com/hashicorp/vagrant/issues/8769">The container will die immediately</a></li>
+		<li>2. <code>vagrant ssh</code> won't work unless you build/use an image from a Dockerfile that sets up a vagrant user and estabilishes ssh keys for it.</li>
+	</ul>
+</p>
+
+<p>The image pulled using the previous step will still be an <code>arm64</code> image if you're on Apple Silicon. If it's an <code>x86_64</code> image you're after, that will require setting up <code>buildx</code> and <code>qemu</code> to build <a href="https://docs.docker.com/desktop/multi-arch/">multi-arch images</a>.</p>
+
+<p>Docker's docs outline the <a href="https://docs.docker.com/docker-for-mac/apple-silicon/#known-issues">problems associated</a> with using <code>qemu</code> to emulate <code>x86_64</code>.</p>
+</ul>
+
+<p>Moreover this isn't a scalable approach to automating local development setups since we'd have to maintain Vagrantfiles for each repository.</p>
+
+<p>We've been actively looking for better solutions, but don't have a clear way forward yet.</p>
+
+<h3>Personal</h3>
+<p>I setup two machines using <a href="https://www.oracle.com/in/cloud/free/">Oracle's Cloud Free Tier</a>, and self-hosted <a href="https://github.com/nkanaev/yarr">yarr</a>. Clean, minimal, lightweight RSS aggregator written in Go. Plan on hosting some more services using the <a href="https://github.com/awesome-selfhosted/awesome-selfhosted">awesome-selfhosted</a> repo for reference.</p>
+
+<p>I have some long term projects in mind, but I'd like to rewrite Lyceum in Go before I start them. I'll have an easier time documenting my progress that way. So that's the next project I plan on picking up.</p>
+
+<p>Outside of tech, I've been running regularly for the past couple weeks. Body hurt like hell the first 2-3 days, but it's gotten progressively easier over time and I've started enjoying the activity as an opportunity of escaping screens for the real world every day. Been trying to eat better as well, no strict diet, just using common sense to choose healthy over unhealthy.</p>
