@@ -24,6 +24,9 @@ Cheatsheet for the mechanics of communication</p>
 <br>
 Let’s start with an ethical question,” he began, then laid out a simple scenario. “So,” he asked once finished, “blue or green?”</p>
 
+<p><b><a href="https://drawabox.com/article/talent">On the subject of talent</a></b>
+<br>
+A response to whether a person "with no talent" but who put in a lot of hard work could ever stand to create work as good as someone "with talent" who also put in a lot of hard work.</p>
 <!-- <p><b><a href="[[link]]">Title</a></b> -->
 <!-- <br> -->
 <!-- Description</p> -->
