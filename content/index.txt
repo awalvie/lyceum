@@ -1,9 +1,10 @@
 Lyceum
 welcome to my humble non-js primitive abode
-20210725
+20210802
 <h3><a href="blog.html">blog</a></h3>
 <p>Recent Posts</p>
 <ul class="single">
+    <li><a href="dev_log_58.html">dev log 58</a></li>
     <li><a href="dev_log_57.html">dev log 57</a></li>
     <li><a href="dev_log_56.html">dev log 56</a></li>
 </ul>

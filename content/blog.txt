@@ -1,10 +1,11 @@
 blog
 things I wish to talk about
-20210725
+20210802
 <p>This blog is not always going to be technical, in fact most of it isn't. The main purpose of the blog is to help me identify and keep track of the progress I make while developing things on a regular basis. It helps me stay accountable to myself and serves as a historical record that I can look back on.</p>
 
 <h3>2021</h3>
 <ul class="single">
+    <li>- <a href="dev_log_58.html">dev log 58</a></li>
     <li>- <a href="dev_log_57.html">dev log 57</a></li>
     <li>- <a href="dev_log_56.html">dev log 56</a></li>
     <li>- <a href="dev_log_55.html">dev log 55</a></li>
