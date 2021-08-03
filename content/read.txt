@@ -3,6 +3,7 @@ the list and summaries of books I've read
 20210305
 <h3>2021</h3>
 <ul class="single">
+    <li><a href="https://openlibrary.org/works/OL1807609W/Think">Think</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/Words_of_Radiance">Words of Radiance</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/The_Way_of_Kings">The Way of Kings</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/Frankenstein">Frankenstein</a></li>
