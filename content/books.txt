@@ -3,6 +3,7 @@ books that I like
 20210618
 <h4>Reading:</h4>
 <ul class="single">
+    <li>- <a href="https://www.barnesandnoble.com/w/what-does-it-all-mean-thomas-nagel/1111620615">What does it all mean?</a></li>
     <li>- <a href="https://en.wikipedia.org/wiki/Brave_New_World">Brave New World</a></li>
 </ul>
     <h4><a href="to_read.html"><strong>To Read</strong></a></h4>
