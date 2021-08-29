@@ -1,0 +1,21 @@
+<header>
+  <a href="index.html"
+    ><img src="static/site/icon.jpg" alt="Lyceum" height="80"
+  /></a>
+</header>
+<nav>{{ if .Nav.Parent }} {{ if lt ( len .Nav.Parent ) 7 }}
+	<ul>
+    {{ range $_, $element := .Nav.Parent }}
+    <li><a href="{{ $element.Href }}">{{ $element.Name }}</a></li>
+    {{ end }} {{ end }}
+    </ul>
+  {{ end }} {{ if .Nav.Current }} {{ if lt ( len .Nav.Current ) 7 }}<ul>
+    {{ range $_, $element := .Nav.Current }}
+    <li><a href="{{ $element.Href }}">{{ $element.Name }}</a></li>
+    {{ end }} {{ end }}</ul>
+  {{ end }} {{ if .Nav.Child }} {{ if lt ( len .Nav.Child ) 7 }}<ul>
+    {{ range $_, $element := .Nav.Child }}
+    <li><a href="{{ $element.Href }}">{{ $element.Name }}</a></li>
+    {{ end }} {{ end }}</ul>
+  {{ end }}
+</nav>

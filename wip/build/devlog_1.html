@@ -1,0 +1,71 @@
+<html lang="en">
+  <head>
+    <html lang="en">
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="static/style.css" type="text/css" />
+  <link rel="apple-touch-icon" sizes="180x180"
+  href="static/favicon/apple-touch-icon.png" / > <link rel="icon"
+  type="image/png" sizes="32x32" href="static/favicon/favicon-32x32.png" / >
+  <link rel="icon" type="image/png" sizes="16x16"
+  href="static/favicon/favicon-16x16.png"/ >
+  <link rel="manifest" href="static/favicon/static.webmanifest" />
+</html>
+
+  </head>
+  <title>Lyceum &#151 dev log 1</title>
+  <body>
+    <header>
+  <a href="index.html"
+    ><img src="static/site/icon.jpg" alt="Lyceum" height="80"
+  /></a>
+</header>
+<nav> 
+	<ul>
+    
+    <li><a href="devlog-2020.html">devlog-2020/</a></li>
+    
+    <li><a href="devlog-2021.html">devlog-2021</a></li>
+     
+    </ul>
+    </ul>
+   
+</nav>
+
+    <main><p>Spent six hours trying to find and fix memory leaks with my Static Site Generator. I was planning switching to the new website today, but there are critical errors that halted progress. The flow of the SSG is very simplistic right now.</p>
+<ul>
+<li>
+<ol>
+<li>Get contents of the data directory into a C string array</li>
+</ol>
+</li>
+<li>
+<ol start="2">
+<li>Read the metadata on top of the file and the rest of the content</li>
+</ol>
+</li>
+<li>
+<ol start="3">
+<li>Generate the static HTML files from that content</li>
+</ol>
+</li>
+</ul>
+<p>I’ve identified that I have a memory leak which leads to a buffer overflow causing reading multiple files to have undefined behavior when I read the contents of the source file into a C Structure meant to store the metadata and the contents.</p>
+<p>Assessing today I realize that I might have made more progress if I took breaks while debugging. I was frustrated, drained, exhausted and more importantly left irritable after having sat on the PC for so long. I have tried the pomodoro technique in the past but never stuck to it. I want a simple minimal application that has a timer that shows up on the status bar of my screen, but I haven’t found any. I’ll look for one.</p>
+<p>Other than that I had a long meeting with the startup that I am working with. We tried to figure out problems we were having while writing routes for our website.</p>
+<hr>
+</main>
+    <footer><section class="footer">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="cc nc-by-sa" src="static/site/cc.svg" />
+  </a>
+  <a href="https://webring.xxiivv.com/#random" target="_blank">
+    <img alt="xxiivv webring" src="static/site/webring.svg" />
+  </a>
+  <a href="https://www.github.com/awalvie">
+    <img alt="git" src="static/site/git.svg" width="35" />
+  </a>
+  <span>awalvie &copy; 2021 &mdash; BY-NC-SA 4.0</span>
+</section>
+</footer>
+  </body>
+</html>

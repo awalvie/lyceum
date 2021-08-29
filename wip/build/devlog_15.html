@@ -1,0 +1,59 @@
+<html lang="en">
+  <head>
+    <html lang="en">
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="static/style.css" type="text/css" />
+  <link rel="apple-touch-icon" sizes="180x180"
+  href="static/favicon/apple-touch-icon.png" / > <link rel="icon"
+  type="image/png" sizes="32x32" href="static/favicon/favicon-32x32.png" / >
+  <link rel="icon" type="image/png" sizes="16x16"
+  href="static/favicon/favicon-16x16.png"/ >
+  <link rel="manifest" href="static/favicon/static.webmanifest" />
+</html>
+
+  </head>
+  <title>Lyceum &#151 dev log 15</title>
+  <body>
+    <header>
+  <a href="index.html"
+    ><img src="static/site/icon.jpg" alt="Lyceum" height="80"
+  /></a>
+</header>
+<nav> 
+	<ul>
+    
+    <li><a href="devlog-2020.html">devlog-2020/</a></li>
+    
+    <li><a href="devlog-2021.html">devlog-2021</a></li>
+     
+    </ul>
+    </ul>
+   
+</nav>
+
+    <main><p>I bring news of progress. I've been working on rendering a canvas that I can use the mouse to paint with as my first milestone of porting Noodle from JS to C alongwith Devine. I'm not going to lie, it's been challenging. Graphics libraries are hard especially when you don't have tutorials. Your only choice is to open up various function documentations and keep doing that until you find what you're looking for. It's definitely satisfying when you get things working though. To walk you through the things that I did I made sure to write down a plan of action while writing the code, to break down big objectives atomically, into small actionable goals. This is what was I wrote down -</p>
+<ul>
+<li>First render a white canvas //DONE</li>
+<li>Poll mouse events //DONE</li>
+<li>Switch to a renderer instead of using surfaces //DONE</li>
+<li>Use mouse events to draw to canvas //DONE</li>
+<li>Re-Work code to remove global variables into a portable structure</li>
+</ul>
+<p>Working this way the task of porting an entire program does not have to be dealt with altogether, I just have to do the next thing on the list and slowly but surely the port will happen. Here's a glimpse of what the canvas looks like right now, <strong>behold</strong>:</p>
+<p><img src="./static/images/dev_log_15_noodle.png" alt=""></p>
+</main>
+    <footer><section class="footer">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="cc nc-by-sa" src="static/site/cc.svg" />
+  </a>
+  <a href="https://webring.xxiivv.com/#random" target="_blank">
+    <img alt="xxiivv webring" src="static/site/webring.svg" />
+  </a>
+  <a href="https://www.github.com/awalvie">
+    <img alt="git" src="static/site/git.svg" width="35" />
+  </a>
+  <span>awalvie &copy; 2021 &mdash; BY-NC-SA 4.0</span>
+</section>
+</footer>
+  </body>
+</html>

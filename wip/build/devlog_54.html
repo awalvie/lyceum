@@ -1,0 +1,54 @@
+<html lang="en">
+  <head>
+    <html lang="en">
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="static/style.css" type="text/css" />
+  <link rel="apple-touch-icon" sizes="180x180"
+  href="static/favicon/apple-touch-icon.png" / > <link rel="icon"
+  type="image/png" sizes="32x32" href="static/favicon/favicon-32x32.png" / >
+  <link rel="icon" type="image/png" sizes="16x16"
+  href="static/favicon/favicon-16x16.png"/ >
+  <link rel="manifest" href="static/favicon/static.webmanifest" />
+</html>
+
+  </head>
+  <title>Lyceum &#151 dev log 54</title>
+  <body>
+    <header>
+  <a href="index.html"
+    ><img src="static/site/icon.jpg" alt="Lyceum" height="80"
+  /></a>
+</header>
+<nav> 
+	<ul>
+    
+    <li><a href="devlog-2020.html">devlog-2020</a></li>
+    
+    <li><a href="devlog-2021.html">devlog-2021/</a></li>
+     
+    </ul>
+    </ul>
+   
+</nav>
+
+    <main><p>I will be leaving SendX on June 15th and joining deepsource on June 21st. The next two weeks, I will be wrapping up any and all work that's currenlty on my plate and handing off my function to the rest of the team by making process documents.</p>
+<p>Infrastructure at both companies is starkly different.</p>
+<p>At SendX, the infrastructure consists of AWS EC2 instances of various sizes. Manual intervention is needed to create, migrate or terminate any instances and the database often has to be configured accordingly to reflect any changes made. We don't have a staging environment and code is directly deployed to production using Ansible. It's less SRE/DevOps work but more SysAdmin work. Except for setting up monitoring and logging, a major chunk recurring work is manual in nature. Provisioning new IPs, migrating older machines to newer machines, emptying disk when it was filling up too fast (yes, I'm aware log rotation is a thing), etc etc. The reason for this is two-fold. First to reduce infrastructure cost and second to get the most out of the hardware we're using. To facilitate both, there is a higher focus on optimizing code and making it as efficient as possible than to bring up new infrastructure.</p>
+<p>I have yet to see deepsource's infra, but I know that it utilizes Containers and Kubernetes. It is a primary reason for my interest in the role. I wanted to understand how containers are used to orchestrate infrastructure at scale, how CI/CD pipelines are setup and maintained and debugging niche production issues that are bound to pop up as a result of the inherent complexity of interaction between various microservices. I will talk more about the infra once I am familiar with it and have obtained permission to talk about it.</p>
+<p>It's not the most articulate dev log I've written and I'll be the first to agree, but I'm trying to stay more consistent, so I can accept some sacrifice in quality.</p>
+</main>
+    <footer><section class="footer">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="cc nc-by-sa" src="static/site/cc.svg" />
+  </a>
+  <a href="https://webring.xxiivv.com/#random" target="_blank">
+    <img alt="xxiivv webring" src="static/site/webring.svg" />
+  </a>
+  <a href="https://www.github.com/awalvie">
+    <img alt="git" src="static/site/git.svg" width="35" />
+  </a>
+  <span>awalvie &copy; 2021 &mdash; BY-NC-SA 4.0</span>
+</section>
+</footer>
+  </body>
+</html>

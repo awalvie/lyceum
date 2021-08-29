@@ -1,0 +1,57 @@
+<html lang="en">
+  <head>
+    <html lang="en">
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="static/style.css" type="text/css" />
+  <link rel="apple-touch-icon" sizes="180x180"
+  href="static/favicon/apple-touch-icon.png" / > <link rel="icon"
+  type="image/png" sizes="32x32" href="static/favicon/favicon-32x32.png" / >
+  <link rel="icon" type="image/png" sizes="16x16"
+  href="static/favicon/favicon-16x16.png"/ >
+  <link rel="manifest" href="static/favicon/static.webmanifest" />
+</html>
+
+  </head>
+  <title>Lyceum &#151 dev log 2</title>
+  <body>
+    <header>
+  <a href="index.html"
+    ><img src="static/site/icon.jpg" alt="Lyceum" height="80"
+  /></a>
+</header>
+<nav> 
+	<ul>
+    
+    <li><a href="devlog-2020.html">devlog-2020/</a></li>
+    
+    <li><a href="devlog-2021.html">devlog-2021</a></li>
+     
+    </ul>
+    </ul>
+   
+</nav>
+
+    <main><p>Spent most of the morning trying to debug the generator but did not end up finding the issue. It was only in the afternoon, when a member of a community I belong to identified the issue, that I understood what was wrong. As was pointed out to me:</p>
+<p>`The data returned by readdir() may be overwritten by subsequent calls to readdir() for the same directory stream.</p>
+<p>On success, readdir() returns a pointer to a dirent structure. (This structure may be statically allocated; do not attempt to free(3) it.)`</p>
+<p>I was trying to read the data in <code>dname</code> (the name of the file) directly into a structure which was a temporary pointer to a further temporary array of strings and not the value of the string itself. This was producing aberrant behavior when parsing multiple files. Already having taken the trouble to look through my badly written code he went the extra mile and suggested a clever solution that worked instantly and I was overjoyed when it worked flawlessly! If you read this, thanks a lot again!</p>
+<p>I then also wrote a simple python script that converted the existing markdown entries on the previous website into source files for the current generator, made some changes to the CSS and wrote the missing tags for the HTML pages.</p>
+<p>I feel very lucky to have been able to find a community online (purely by chance) this past month that inspires me and makes me feel like I finally have like minded people that I can talk to. Their endless creativity and passion give me strength to get up when I’m feeling lost.</p>
+<p>Lyceum is the first thing that I’ve made from scratch. I did not follow a tutorial or written instructions. I have always been apprehensive of my capabilities and being able to complete this has contributed in a small way to my dismal self-confidence. I look forward to getting this website live tomorrow and make new projects after that. Programming might be fun after all!</p>
+<hr>
+</main>
+    <footer><section class="footer">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="cc nc-by-sa" src="static/site/cc.svg" />
+  </a>
+  <a href="https://webring.xxiivv.com/#random" target="_blank">
+    <img alt="xxiivv webring" src="static/site/webring.svg" />
+  </a>
+  <a href="https://www.github.com/awalvie">
+    <img alt="git" src="static/site/git.svg" width="35" />
+  </a>
+  <span>awalvie &copy; 2021 &mdash; BY-NC-SA 4.0</span>
+</section>
+</footer>
+  </body>
+</html>

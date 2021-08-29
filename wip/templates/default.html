@@ -1,0 +1,11 @@
+<html lang="en">
+  <head>
+    {{ template "head.html" . }}
+  </head>
+  <title>Lyceum &#151 {{ index .Meta "title" }}</title>
+  <body>
+    {{ template "nav.html" . }}
+    <main>{{ .Body }}</main>
+    <footer>{{ template "footer.html" }}</footer>
+  </body>
+</html>
