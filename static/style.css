@@ -42,6 +42,8 @@ nav ul {
 nav ul li {
   list-style-type: none;
   white-space: pre;
+  margin-top: 2.5px;
+  margin-bottom; 2.5px;
 }
 nav ul li a:hover {
   background: #000;
