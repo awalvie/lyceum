@@ -1,2 +1,5 @@
 .vscode
 *.dSYM
+go-blender/
+build/
+blender
