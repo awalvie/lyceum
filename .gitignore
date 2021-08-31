@@ -3,3 +3,4 @@
 go-blender/
 build/
 blender
+.DS_Store

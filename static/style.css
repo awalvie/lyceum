@@ -48,7 +48,7 @@ nav ul li a:hover {
   color: #fff;
 }
 main {
-  max-width: 624px;
+  max-width: 700px;
   clear: both;
 }
 main figure:first-child img {
@@ -99,12 +99,6 @@ main a:before {
 }
 main a:after {
   content: "}";
-}
-main a[target="_blank"]:before {
-  content: "[";
-}
-main a[target="_blank"]:after {
-  content: "]";
 }
 main q {
   font-family: serif;
