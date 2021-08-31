@@ -25,7 +25,8 @@ which is wasted time, energy and effort.
 
 The image below is a perfect analogy, but about personal websites/blogs.
 
-[![Blogging vs. blog setups](./static/images/blogging.jpg)][1]
+[![Blogging vs. blog
+setups](./static/images/blogging.jpg)](https://rakhim.org/honestly-undefined/19/)
 
 At the end of the day, the **best** system/method, is the one **that
 you'll actually use/do**. I don't think that's an aphorism, maybe an
@@ -71,5 +72,3 @@ my ted talk.
 being productive, instead of actually being productive.
 
 Credits: [icyphox](https://icyphox.sh/)
-
-[1]: https://rakhim.org/honestly-undefined/19/
