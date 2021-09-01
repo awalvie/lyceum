@@ -96,10 +96,10 @@ main a strong:hover,
   color: #fff;
   text-decoration: none;
 }
-main a :not(img) ::before {
+main a::before {
   content: "{";
 }
-main a :not(img) ::after {
+main a::after {
   content: "}";
 }
 main q {
