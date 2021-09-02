@@ -4,7 +4,7 @@ subtitle: Dropped Books
 created: 2021-2-23
 ---
 
-# Dropped book
+# Dropped
 
 ### 2021
 
