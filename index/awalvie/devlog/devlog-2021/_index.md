@@ -6,6 +6,7 @@ created: 2021-08-28
 
 # Devlogs from 2021
 
+- [devlog 59](devlog_59.html)
 - [devlog 58](devlog_58.html)
 - [devlog 57](devlog_57.html)
 - [devlog 56](devlog_56.html)
