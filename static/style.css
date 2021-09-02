@@ -84,6 +84,9 @@ main ul ul {
 main p {
   line-height: 160%;
 }
+main a {
+	text-decoration: underline;
+}
 main a:hover,
 ::selection {
   background-color: #000;
