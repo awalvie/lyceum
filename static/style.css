@@ -158,3 +158,6 @@ blockquote
   color: #000;
   text-decoration: none;
 }
+del {
+	text-decoration: line-through;
+}
