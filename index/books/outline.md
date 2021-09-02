@@ -4,6 +4,14 @@ subtitle: A way to properly organize my thoughts
 created: 2020-09-17
 ---
 
+# Outline
+
+I like to summarise my thoughts after having read/dropped a book.
+I used to write impromptu, but soon noticed that all entries looked
+identical. It is for this reason I used the format and questions below
+to stimulate and assess my thoughts and feelings about the book in
+question.
+
 ### Introductory Paragraph
 
 - Identify the title, the author, and the publisher of the book.

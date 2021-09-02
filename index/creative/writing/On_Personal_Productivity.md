@@ -1,8 +1,10 @@
 ---
-title: On personal productivity and organization
-subtitle: thoughts and experiences with personal organization
+title: "On personal productivity"
+subtitle: "Paper to-do list ftw"
 created: 2021-05-03
 ---
+
+# On personal productivity
 
 I've been experimenting with various methods of personal organization
 for a while. I remember starting out with [Bullet

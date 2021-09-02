@@ -1,8 +1,10 @@
 ---
-title: on arguing
-subtitle: basics of arguing
+title: "On Arguing"
+subtitle: "Structure of Arguments"
 created: 2021-05-29
 ---
+
+# On Arguing
 
 I'm bad at arguing. I miss the point, go on tangents, cannot present my
 arguments coherently or critique ones presented to me and end up making

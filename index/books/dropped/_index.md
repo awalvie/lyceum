@@ -4,6 +4,8 @@ subtitle: Dropped Books
 created: 2021-2-23
 ---
 
+# Dropped book
+
 ### 2021
 
 - [In Cold Blood - Truman Capote](https://en.wikipedia.org/wiki/In_Cold_Blood)
