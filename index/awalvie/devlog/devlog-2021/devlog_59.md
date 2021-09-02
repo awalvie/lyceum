@@ -71,6 +71,20 @@ lot of sense, but in it's defense that wasn't its purpose.
 - [ ] RSS support
 - [ ] Backlink parsing support (Maybe)
 
+#### Credits
+
+No I'm not smart enough to build something like this! I had help
+directly and indirectly!
+
+- [@neauoire](https://merveilles.town/@neauoire) for creating
+[XXIIVV](https://wiki.xxiivv.com/site/home.html). I consulted the
+[oscean](https://github.com/XXIIVV/oscean) code multiple times for
+inspiration and the website styling!
+- [icyphox](https://icyphox.sh/)'s [vite](https://git.icyphox.sh/vite/),
+code and for being an awesome friend in general.
+- My mom, even though she didn't understand what I was doing she was
+always happy to see what I'd made!
+
 #### Closing thoughts
 
 I love the way Lyceum looks and writing this post in markdown has been
