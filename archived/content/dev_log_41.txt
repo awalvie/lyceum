@@ -1,7 +1,0 @@
-dev log 41
-Ghibli goodness
-20210101
-
-<p>I love Studio Ghibli. The fantastic worlds of Hayao Miyazaki always stir emotions that I'm not articulate enough to describe. I was pleasantly surprised when I was recently made aware that the Studio has been releasing still images from across it's filmography throughout 2020 for free use. <a href="https://www.ghibli.jp/info/013409/">Go have a look</a>.</p>
-
-<p>The site is a tad difficult to navigate and I love having things like these offline, so I spent the morning writing a <a href="https://github.com/awalvie/cookbook/tree/master/python/projects/ghibli">webscraper</a>. I also made a torrent out of the images to share with anyone interested, you can <a href="https://github.com/awalvie/lyceum/raw/master/docs/static/files/ghibli_images.torrent">download it here</a>.</p>

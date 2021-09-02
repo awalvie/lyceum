@@ -1,9 +1,0 @@
-dropped
-Dropped Books
-20210423
-
-<h3>2021</h3>
-<ul class="single">
-<li>- <a href="https://en.wikipedia.org/wiki/In_Cold_Blood">In Cold Blood - Truman Capote</a></li>
-<li>- <a href="https://openlibrary.org/works/OL17628800W/Sapiens">Sapiens: A Brief History of Humankind</a></li>
-</ul>

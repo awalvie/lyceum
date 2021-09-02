@@ -1,5 +1,0 @@
-dev log 16
-Noodle is done, onto new things
-20200925
-
-<p>Noodle is done, @neauoire wrote most of it, but I was happy to be able to meaningfully contribute a little to the project. Now I'm going to learng golang. It has a lot of open-source projects and I think I'm going to have a fun time learning it. Today I'll go through the <a href="https://tour.golang.org/welcome/1">Tour of Go</a>.</p>

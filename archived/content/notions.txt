@@ -1,7 +1,0 @@
-notions
-Collected notes and articles from around the internet
-20210302
-
-<h3>Sociology</h3>
-<p><b>Campbells Law: </b>The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.</p>
-<p><b>Parkinson's Law: </b>Work expands so as to fill the time available for its completion.</p>

@@ -1,5 +1,0 @@
-dev log 51
-thoughts on personal organization
-20210515
-
-<p>Been learning some Docker and K8s recently. Finishing up Uni. Reading Stormlight Archives.</p>
