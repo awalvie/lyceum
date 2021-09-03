@@ -101,9 +101,13 @@ main a strong:hover,
 }
 main a::before {
   content: "{";
+  text-decoration: none;
+  display: inline-block;
 }
 main a::after {
   content: "}";
+  text-decoration: none;
+  display: inline-block;
 }
 main q {
   font-family: serif;
