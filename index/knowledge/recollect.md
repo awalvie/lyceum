@@ -9,14 +9,14 @@ created: 2021-05-29
 Various resources, bits of information and wisdom to return to and
 recall.
 
-**[Three Questions - Leo
+**[Three questions - Leo
 Tolstoy](https://www.plough.com/en/topics/culture/short-stories/the-three-questions)**
 
 When is the best time to do each thing? Who are the most important
 people to work with? What is the most important thing to do at all
 times?
 
-**[A Liberal Decalogue - Bertrand
+**[A liberal decalogue - Bertrand
 Russell](https://www.brainpickings.org/2012/05/02/a-liberal-decalogue-bertrand-russell/)**
 
 A vision for responsibilities of a teacher, in which Russell touches on
@@ -47,3 +47,11 @@ scenario. “So,” he asked once finished, “blue or green?”
 A response to whether a person "with no talent" but who put in a lot of
 hard work could ever stand to create work as good as someone "with
 talent" who also put in a lot of hard work.
+
+[**How to write quickly whilte maintaining epistemic
+rigor**](https://www.lesswrong.com/posts/Psr9tnQFuEXiuqGcR/how-to-write-quickly-while-maintaining-epistemic-rigor)
+
+Think about why you currently believe something, and try to accurately
+describe what led you to believe it, instead of falling into the rabbit
+hole of research trying to conclusively prove it before sharing it.
+
