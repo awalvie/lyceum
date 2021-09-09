@@ -30,7 +30,7 @@ created: 2021-0-05
 - [Night](Night.html)
 - [How to Take Smart Notes](How_to_take_smart_notes.html)
 - [Darkness Visible](Darkness-Visible.html)
-- [The Meaning of it All](The-Meaning-of-it-All.html)
+- [The Meaning of it All](https://en.wikipedia.org/wiki/The_Meaning_of_It_All)
 - [A Brief History Of Time](A-Brief-History-Of-Time.html)
 - [Mortality](Mortality.html)
 - [Why Evolution Is True](Why-Evolution-Is-True.html)
