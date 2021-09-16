@@ -10,10 +10,10 @@ body {
   font-size: 18px;
 }
 body > * {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 body > * > * {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 table td,
 table th {
@@ -59,7 +59,7 @@ main figure:first-child img {
   width: 900px;
 }
 main figure > * {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 main figure figcaption {
   max-width: 400px;
