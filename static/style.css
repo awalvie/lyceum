@@ -10,10 +10,10 @@ body {
   font-size: 18px;
 }
 body > * {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 body > * > * {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 table td,
 table th {
@@ -59,7 +59,7 @@ main figure:first-child img {
   width: 900px;
 }
 main figure > * {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 main figure figcaption {
   max-width: 400px;
@@ -127,7 +127,7 @@ main pre {
   background: #efefef;
   padding: 10px;
   font-size: 80%;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   max-height: 700px;
 }
 main code {
