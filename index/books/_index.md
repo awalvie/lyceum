@@ -11,6 +11,11 @@ created: 2021-06-18
 >
 > – Harper Lee, To Kill a Mockingbird
 
+### Reading
+
+- [Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)
+- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You're_Joking%2C_Mr._Feynman!)
+
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
 about the book.
