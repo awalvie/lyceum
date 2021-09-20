@@ -44,6 +44,7 @@ nav ul li {
   white-space: pre;
   margin-top: 2.5px;
   margin-bottom; 2.5px;
+  line-height: 115%;
 }
 nav ul li a:hover {
   background: #000;
@@ -168,6 +169,6 @@ blockquote
 del {
 	text-decoration: line-through;
 }
-ul li {
-	line-height: 125%;
+main > ul li {
+	line-height: 150%;
 }
