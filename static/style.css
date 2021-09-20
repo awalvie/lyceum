@@ -168,3 +168,6 @@ blockquote
 del {
 	text-decoration: line-through;
 }
+ul li {
+	line-height: 125%;
+}
