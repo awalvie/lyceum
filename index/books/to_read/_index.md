@@ -91,6 +91,7 @@ List of books and authors that I'm interested in reading!
 - [Oathbringer - Brandon Sanderson](https://en.wikipedia.org/wiki/Oathbringer)
 - [Meditations - Marcus Aurelius](https://openlibrary.org/works/OL1317211W/Meditations)
 - [Slate Star Codex Abridged](https://www.slatestarcodexabridged.com/)
+- [To Kill a Mockingbird](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
 
 ### Authors
 

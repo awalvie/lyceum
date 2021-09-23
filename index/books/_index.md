@@ -13,8 +13,8 @@ created: 2021-06-18
 
 ### Reading
 
-- [Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)
 - [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You're_Joking%2C_Mr._Feynman!)
+- [The Wind-Up Bird Chronicle](https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
@@ -28,3 +28,9 @@ read after.
 allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" width=600 height=400
 allowfullscreen></iframe>
+
+---
+
+**TODO**: Create a bookshelf page that uses [Library of Congress
+Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification)
+for all read books.

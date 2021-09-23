@@ -29,8 +29,9 @@ question.
 
 ### Evaluate (one or several paragraphs)
 
-- Explain the writer’s purpose for writing the book. Give your opinion
-  on whether the writer achieved her/his purpose in writing the book.
+- Explain the writer’s purpose for writing the book.
+- Give your opinion on whether the writer achieved her/his purpose in
+  writing the book.
 
 ### Criticize/praise the book
 
