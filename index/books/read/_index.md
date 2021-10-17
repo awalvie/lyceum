@@ -6,9 +6,13 @@ created: 2021-0-05
 
 # Read
 
+**TODO** [Use Library of Congress
+Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification)
+
 ### 2021
 
-- [Hiroshima](<https://en.wikipedia.org/wiki/Hiroshima_(book)>)
+- [Brave New World](Brave-New-World.html)
+- [Hiroshima](https://en.wikipedia.org/wiki/Hiroshima_(book))
 - [Think](https://openlibrary.org/works/OL1807609W/Think)
 - [Words of Radiance](https://en.wikipedia.org/wiki/Words_of_Radiance)
 - [The Way of Kings](https://en.wikipedia.org/wiki/The_Way_of_Kings)
