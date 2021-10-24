@@ -55,3 +55,14 @@ Think about why you currently believe something, and try to accurately
 describe what led you to believe it, instead of falling into the rabbit
 hole of research trying to conclusively prove it before sharing it.
 
+[**Vincent Van Gogh visits the
+gallery**](https://www.youtube.com/watch?v=ubTJI_UphPk)
+
+What makes this scene poignant isn't so much the fact that Van Gogh died
+penniless and believed himself a failure and the Doctor shows him the
+impact his work had on future generations.  It's the fact that all human
+beings, famous or not, want to know their lives had some meaning and
+that we had an effect on the world, even if that effect never goes
+beyond our own families.  We want to know our children are successful
+and happy, and the fact that we played some part in that. That is what
+truly gives this scene its power. (Credits: Comments Section)
