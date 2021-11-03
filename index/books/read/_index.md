@@ -6,9 +6,6 @@ created: 2021-0-05
 
 # Read
 
-**TODO** [Use Library of Congress
-Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification)
-
 ### 2021
 
 - [Brave New World](Brave-New-World.html)

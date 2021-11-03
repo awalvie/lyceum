@@ -28,9 +28,3 @@ read after.
 allow="accelerometer; autoplay; encrypted-media; gyroscope;
 picture-in-picture" width=600 height=400
 allowfullscreen></iframe>
-
----
-
-**TODO**: Create a bookshelf page that uses [Library of Congress
-Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification)
-for all read books.
