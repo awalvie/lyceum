@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2021
 
+- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You're_Joking%2C_Mr._Feynman!)
 - [Brave New World](Brave-New-World.html)
 - [Hiroshima](https://en.wikipedia.org/wiki/Hiroshima_(book))
 - [Think](https://openlibrary.org/works/OL1807609W/Think)

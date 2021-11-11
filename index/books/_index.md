@@ -13,8 +13,8 @@ created: 2021-06-18
 
 ### Reading
 
-- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You're_Joking%2C_Mr._Feynman!)
-- [The Wind-Up Bird Chronicle](https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle)
+- [The Master and Margarita](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
+- [Spiritual Enlightenment: The Damnedest Thing](https://www.goodreads.com/book/show/149961.Spiritual_Enlightenment)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
