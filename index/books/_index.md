@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [The Master and Margarita](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
+- [Prelude to Foundation](https://en.wikipedia.org/wiki/Prelude_to_Foundation)
 - [Spiritual Enlightenment: The Damnedest Thing](https://www.goodreads.com/book/show/149961.Spiritual_Enlightenment)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
