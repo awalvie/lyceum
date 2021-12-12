@@ -13,8 +13,9 @@ created: 2021-06-18
 
 ### Reading
 
-- [Prelude to Foundation](https://en.wikipedia.org/wiki/Prelude_to_Foundation)
-- [Spiritual Enlightenment: The Damnedest Thing](https://www.goodreads.com/book/show/149961.Spiritual_Enlightenment)
+- [The Pillowman - Martin McDonagh](https://en.wikipedia.org/wiki/The_Pillowman)
+- [Understanding Power - Noam Chomsky](https://en.wikipedia.org/wiki/Understanding_Power)
+- [Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
