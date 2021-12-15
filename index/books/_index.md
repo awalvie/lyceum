@@ -13,7 +13,6 @@ created: 2021-06-18
 
 ### Reading
 
-- [The Pillowman - Martin McDonagh](https://en.wikipedia.org/wiki/The_Pillowman)
 - [Understanding Power - Noam Chomsky](https://en.wikipedia.org/wiki/Understanding_Power)
 - [Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
 
