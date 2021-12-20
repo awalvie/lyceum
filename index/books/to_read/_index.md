@@ -45,112 +45,73 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ### PA: Greek and Latin language and Literature
 
-- [Selected Works:
-  Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
-- [Zorba the Greek - Nikos
-  Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
+- [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
+- [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
 
 ### PG: Slavic Languages and Literature
 
-- [The Brothers Karamazov - Fyodor
-  Dostoevsky](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)
-- [Demons - Fyodor
-  Dostoevsky](<https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)>)
-- [Crime and Punishment - Fyodor
-  Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
+- [The Brothers Karamazov - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)
+- [Demons - Fyodor Dostoevsky](<https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)>)
+- [Crime and Punishment - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
 - [The Idiot - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/The_Idiot)
-- [Cancer Ward - Aleksandr
-  Solzhenitsyn](https://en.wikipedia.org/wiki/Cancer_Ward)
+- [Cancer Ward - Aleksandr Solzhenitsyn](https://en.wikipedia.org/wiki/Cancer_Ward)
 
 ### PJ-PL: Oriental, Indo-Iranian, East-Asian and Oceanian Languages
 
-- [The Temple of the Golden Pavillion - Yukio
-  Mishima](https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion)
+- [The Temple of the Golden Pavillion - Yukio Mishima](https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion)
 
 ### PQ: Romance Literature
 
-- [In Search of Lost Time - Marcel
-  Proust](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time)
+- [In Search of Lost Time - Marcel Proust](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time)
 - [Don Quixote- Miguel de Cervantes](https://en.wikipedia.org/wiki/Don_Quixote)
-- [The Count of Monte Cristo - Alexander
-  Dumas](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
-- [Waiting for Godot - Samuel
-  Beckett](https://en.wikipedia.org/wiki/Waiting_for_Godot)
+- [The Count of Monte Cristo - Alexander Dumas](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
+- [Waiting for Godot - Samuel Beckett](https://en.wikipedia.org/wiki/Waiting_for_Godot)
 - [Inferno - Dante](<https://en.wikipedia.org/wiki/Inferno_(Dante)>)
 
 ### PR: English Literature
-- [Great Expectations - Charles
-  Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
-- [Birdsong - Sebastian
-  Faulks](<https://en.wikipedia.org/wiki/Birdsong_(novel)>)
+- [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
+- [Birdsong - Sebastian Faulks](<https://en.wikipedia.org/wiki/Birdsong_(novel)>)
 - [Dracula - Bram Stoker](https://en.wikipedia.org/wiki/Dracula)
 - [Middlemarch - George Eliot](https://en.wikipedia.org/wiki/Middlemarch)
-- [Midnight's Children - Salman
-  Rushdie](https://en.wikipedia.org/wiki/Midnight%27s_Children)
-- [The Satanic Verses - Salman
-  Rushdie](https://en.wikipedia.org/wiki/The_Satanic_Verses)
-- [Island - Aldous
-  Huxley](<https://en.wikipedia.org/wiki/Island_(Huxley_novel)>)
-- [Point Counter Point - Aldous
-  Huxley](https://en.wikipedia.org/wiki/Point_Counter_Point)
-- [To the Lighthouse - Virginia
-  Woolf](https://en.wikipedia.org/wiki/To_the_Lighthouse)
-- [Lord of the Flies - William
-  Golding](https://en.wikipedia.org/wiki/Lord_of_the_Flies)
+- [Midnight's Children - Salman Rushdie](https://en.wikipedia.org/wiki/Midnight%27s_Children)
+- [The Satanic Verses - Salman Rushdie](https://en.wikipedia.org/wiki/The_Satanic_Verses)
+- [Island - Aldous Huxley](<https://en.wikipedia.org/wiki/Island_(Huxley_novel)>)
+- [Point Counter Point - Aldous Huxley](https://en.wikipedia.org/wiki/Point_Counter_Point)
+- [To the Lighthouse - Virginia Woolf](https://en.wikipedia.org/wiki/To_the_Lighthouse)
+- [Lord of the Flies - William Golding](https://en.wikipedia.org/wiki/Lord_of_the_Flies)
 - [I, Claudius - Robert Graves](https://en.wikipedia.org/wiki/I,_Claudius)
 - [Paradise Lost - John Milton](https://en.wikipedia.org/wiki/Paradise_lost)
 - [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
 - [Wolf Hall - Hilary Mantel](https://en.wikipedia.org/wiki/Wolf_Hall)
-- [Heart of Darkness - Joseph
-  Conrad](https://en.wikipedia.org/wiki/Heart_of_Darkness)
+- [Heart of Darkness - Joseph Conrad](https://en.wikipedia.org/wiki/Heart_of_Darkness)
 
 ### PS: American Literature
-- [Self-Reliance - Ralph Waldo
-  Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
-- [A Farewell to Arms - Ernest
-  Hemingway](https://en.wikipedia.org/wiki/A_Farewell_to_Arms)
-- [For Whom the Bell Tolls - Ernest
-  Hemingway](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls)
-- [The Old Man and the Sea - Ernest
-  Hemingway](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
-- [Siddhartha - Hermann
-  Hesse](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)
+- [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
+- [A Farewell to Arms - Ernest Hemingway](https://en.wikipedia.org/wiki/A_Farewell_to_Arms)
+- [For Whom the Bell Tolls - Ernest Hemingway](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls)
+- [The Old Man and the Sea - Ernest Hemingway](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
+- [Siddhartha - Hermann Hesse](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)
 - [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
 - [Lolita - Vladimir Nabokov](https://en.wikipedia.org/wiki/Lolita)
 - [Catch-22 - Joseph Heller](https://en.wikipedia.org/wiki/Catch-22)
-- [Breakfast of Champtions - Kurt
-  Vonnegut](https://en.wikipedia.org/wiki/Breakfast_of_Champions)
-- [Sirens of Titan - Kurt
-  Vonnegut](https://en.wikipedia.org/wiki/The_Sirens_of_Titan)
-- [The Call of the Wild - Jack
-  London](https://en.wikipedia.org/wiki/The_Call_of_the_Wild)
-- [The Grapes of Wrath - John
-  Steinback](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath)
-- [East of Eden - John
-  Steinback](<https://en.wikipedia.org/wiki/East_of_Eden_(novel)>)
-- [Gilead - Marilynne
-  Robinson](<https://en.wikipedia.org/wiki/Gilead_(novel)>)
-- [Oathbringer - Brandon
-  Sanderson](https://en.wikipedia.org/wiki/Oathbringer)
-- [To Kill a
-  Mockingbird](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
-- [The Catcher in the Rye - J. D.
-  Salinger](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye)
-- [As I Lay Dying - William
-  Faulkner](https://en.wikipedia.org/wiki/As_I_Lay_Dying)
-- [The Sound and the Fury - William
-  Faulkner](https://en.wikipedia.org/wiki/The_Sound_and_the_Fury)
-- [The Color Purple - Alice
-  Walker](https://en.wikipedia.org/wiki/The_Color_Purple)
+- [Breakfast of Champtions - Kurt Vonnegut](https://en.wikipedia.org/wiki/Breakfast_of_Champions)
+- [Sirens of Titan - Kurt Vonnegut](https://en.wikipedia.org/wiki/The_Sirens_of_Titan)
+- [The Call of the Wild - Jack London](https://en.wikipedia.org/wiki/The_Call_of_the_Wild)
+- [The Grapes of Wrath - John Steinback](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath)
+- [East of Eden - John Steinback](<https://en.wikipedia.org/wiki/East_of_Eden_(novel)>)
+- [Gilead - Marilynne Robinson](<https://en.wikipedia.org/wiki/Gilead_(novel)>)
+- [Oathbringer - Brandon Sanderson](https://en.wikipedia.org/wiki/Oathbringer)
+- [To Kill a Mockingbird](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
+- [The Catcher in the Rye - J. D. Salinger](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye)
+- [As I Lay Dying - William Faulkner](https://en.wikipedia.org/wiki/As_I_Lay_Dying)
+- [The Sound and the Fury - William Faulkner](https://en.wikipedia.org/wiki/The_Sound_and_the_Fury)
+- [The Color Purple - Alice Walker](https://en.wikipedia.org/wiki/The_Color_Purple)
 
 ### PT-PZ: Other Literature
 
-- [The Code of the Woosters - P. G.
-  Wodehouse](https://en.wikipedia.org/wiki/The_Code_of_the_Woosters)
-- [The Man Without Qualities - Robert
-  Musil](https://en.wikipedia.org/wiki/The_Man_Without_Qualities)
-- [Confessions of a Mask - Yukio
-  Mishima](https://en.wikipedia.org/wiki/Confessions_of_a_Mask)
+- [The Code of the Woosters - P. G. Wodehouse](https://en.wikipedia.org/wiki/The_Code_of_the_Woosters)
+- [The Man Without Qualities - Robert Musil](https://en.wikipedia.org/wiki/The_Man_Without_Qualities)
+- [Confessions of a Mask - Yukio Mishima](https://en.wikipedia.org/wiki/Confessions_of_a_Mask)
 - [The Trial - Franz Kafka](https://en.wikipedia.org/wiki/The_Trial)
 
 ### Q – Science
