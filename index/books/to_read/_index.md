@@ -38,6 +38,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 - [The Communist Manifesto - Karl Marx](https://en.wikipedia.org/wiki/The_Communist_Manifesto)
 
+#### Class J - Political Science
+
+- [Understanding Power - Noam Chomsky](https://en.wikipedia.org/wiki/Understanding_Power)
+
 #### Class P – Language and Literature
 
 - [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
@@ -98,7 +102,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 - [The Black Swan - Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)
 - [Antifragile - Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Antifragile)
-- [Cosmos - Carl Sagan](<https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)>)
 - [Demon-Haunted World - Carl Sagan](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
 - [On the Origin of Species - Charles Darwin](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 

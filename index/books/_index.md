@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Understanding Power - Noam Chomsky](https://en.wikipedia.org/wiki/Understanding_Power)
+- [Cosmos - Carl Sagan](<https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)>)
 - [Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
