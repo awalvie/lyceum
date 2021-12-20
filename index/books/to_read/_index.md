@@ -30,6 +30,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Either/Or - Soren Kierkegaard](https://en.wikipedia.org/wiki/Either/Or)
 - [Meditations - Marcus Aurelius](https://openlibrary.org/works/OL1317211W/Meditations)
 - [The Hero With A Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
+- [Modern Man in Search of a Soul - C. G. Jung](https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul)
+
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -38,6 +40,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 ### H – Social Sciences
 
 - [The Communist Manifesto - Karl Marx](https://en.wikipedia.org/wiki/The_Communist_Manifesto)
+- [Guns, Germs, and Steel - Jared Diamond](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 
 ### J - Political Science
 
@@ -106,6 +109,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [As I Lay Dying - William Faulkner](https://en.wikipedia.org/wiki/As_I_Lay_Dying)
 - [The Sound and the Fury - William Faulkner](https://en.wikipedia.org/wiki/The_Sound_and_the_Fury)
 - [The Color Purple - Alice Walker](https://en.wikipedia.org/wiki/The_Color_Purple)
+- [Ulysses](https://en.wikipedia.org/wiki/Ulysses_(novel))
+- [Scarlet Letter - Nathaniel Hawthorne](https://en.wikipedia.org/wiki/The_Scarlet_Letter)
 
 ### PT-PZ: Other Literature
 
@@ -120,6 +125,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Antifragile - Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Antifragile)
 - [Demon-Haunted World - Carl Sagan](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
 - [On the Origin of Species - Charles Darwin](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+- [What If - Randall Munroe](https://en.wikipedia.org/wiki/What_If%3F_(book))
 
 ### Uncategorized
 
@@ -133,3 +139,5 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - Noam Chomsky
 - Jed McKenna
 - David Foster Wallace
+- Karl Popper
+- Carl Jung
