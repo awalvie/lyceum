@@ -31,7 +31,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Meditations - Marcus Aurelius](https://openlibrary.org/works/OL1317211W/Meditations)
 - [The Hero With A Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
 - [Modern Man in Search of a Soul - C. G. Jung](https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul)
-
+- [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -126,6 +126,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Demon-Haunted World - Carl Sagan](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
 - [On the Origin of Species - Charles Darwin](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 - [What If - Randall Munroe](https://en.wikipedia.org/wiki/What_If%3F_(book))
+- [Cosmos - Carl Sagan](<https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)>)
 
 ### Uncategorized
 

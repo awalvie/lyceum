@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Cosmos - Carl Sagan](<https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)>)
+- [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 - [Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
