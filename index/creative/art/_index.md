@@ -6,7 +6,6 @@ created: 2020-06-14
 
 # Art
 
-
 > “What am I in the eyes of most people — a nonentity, an eccentric, or an
 > unpleasant person — somebody who has no position in society and will
 > never have; in short, the lowest of the low. All right, then — even if

@@ -11,10 +11,10 @@ Notable hardware and software I use:
 ### Hardware
 
 - **Work Laptop**: Macbook Pro 13
-- **Personal Laptop**: Alienware 13R3
+- **Personal Laptop**: Alienware 13 R3
 - **Tablet**: iPad Pro 11
 - **Headphones**: Sony WF1000 XM3
-- **Earphones**: Realme Buds Q2
+- **Earphones**: Airpods Pro
 - **Keyboard**: GMMK White Ice TKL
 
 ### Software

@@ -1,5 +1,5 @@
 ---
-title: Awalvie
+title: awalvie
 subtitle: who is awalvie
 created: 2020-07-07
 ---
@@ -8,7 +8,7 @@ created: 2020-07-07
 
 Vishesh or awalvie as he likes to call himself on the internet currently
 works as a Site Reliability Engineer at
-[Deepsource.io](https://deepsource.io/). His weekends start with a nice
+[DeepSource](https://deepsource.io/). His weekends start with a nice
 
 ```sh
 mkdir super_awesome_project
@@ -22,8 +22,7 @@ rm -rf ./super_awesome_project
 
 He developed a fatal attraction to [books](books.html), coffee,
 [writing](writing.html) and [art](art.html) over his adult life and is
-greatly fond of running and aspires to hike and see nature in the
-future.
+greatly fond of running and aspires to hike and explore nature.
 
 ## Site
 
@@ -36,7 +35,7 @@ The site is built using
 [go-blender](https://github.com/awalvie/go-blender) a lightweight static
 site generator written in Go. The wiki is hosted via Github Pages.
 
-There's no analytics on the wiki. I don't like being tracked and I don't
+There are no analytics on the wiki. I don't like being tracked and I don't
 think you do either. All content hosted on this site is available under
 the **Creative Commons BY-NC-SA** license. All source for this site is
 available under **MIT** [on GitHub](https://github.com/awalvie/lyceum).
