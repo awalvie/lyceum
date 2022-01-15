@@ -6,6 +6,10 @@ created: 2021-0-05
 
 # Read
 
+### 2022
+
+- [A Wizard of Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea)
+
 ### 2021
 
 - [The Pillowman - Martin McDonagh](https://en.wikipedia.org/wiki/The_Pillowman)

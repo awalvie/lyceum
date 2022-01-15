@@ -70,6 +70,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Count of Monte Cristo - Alexander Dumas](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
 - [Waiting for Godot - Samuel Beckett](https://en.wikipedia.org/wiki/Waiting_for_Godot)
 - [Inferno - Dante](<https://en.wikipedia.org/wiki/Inferno_(Dante)>)
+- [If on a Winter's Night a Traveler - Italo Calvino](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
@@ -111,6 +112,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Color Purple - Alice Walker](https://en.wikipedia.org/wiki/The_Color_Purple)
 - [Ulysses](https://en.wikipedia.org/wiki/Ulysses_(novel))
 - [Scarlet Letter - Nathaniel Hawthorne](https://en.wikipedia.org/wiki/The_Scarlet_Letter)
+- [The Dispossessed - Ursula K. Le Guin](https://en.wikipedia.org/wiki/The_Dispossessed)
 
 ### PT-PZ: Other Literature
 
