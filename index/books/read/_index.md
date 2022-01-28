@@ -8,7 +8,7 @@ created: 2021-0-05
 
 ### 2022
 
-- [Onces Who Walk Away From Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
+- [Ones Who Walk Away From Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
 - [A Wizard of Earthsea](https://en.wikipedia.org/wiki/A_Wizard_of_Earthsea)
 
 ### 2021
