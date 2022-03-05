@@ -16,12 +16,3 @@ created: 2021-05-04
 > break the shackles of time, proof that humans can work magic.
 >
 > ― Carl Sagan
-
-### Essays
-
-- [Personal productivity](Personal_Productivity.html)
-- [Arguing](Arguing.html)
-
-### Poetry
-
-- [Reflection](Reflection.html)
