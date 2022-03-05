@@ -20,7 +20,7 @@ and end with a keyboard banging
 rm -rf ./super_awesome_project
 ```
 
-He developed a fatal attraction to [books](books.html), coffee,
+He developed a fatal attraction to coffee, [books](books.html)
 [writing](writing.html) and [art](art.html) over his adult life and is
 greatly fond of running and aspires to hike and explore nature.
 
