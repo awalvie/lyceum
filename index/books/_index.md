@@ -13,8 +13,8 @@ created: 2021-06-18
 
 ### Reading
 
-- [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
-- [Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
+- [Modern Man in Search of a Soul](https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul)
+- [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
