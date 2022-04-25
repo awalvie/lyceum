@@ -32,6 +32,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Hero With A Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
 - [Modern Man in Search of a Soul - C. G. Jung](https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul)
 - [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
+- [Algorithms to Live By - Brian Christian](https://www.librarything.com/work/16986069)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -42,6 +43,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Communist Manifesto - Karl Marx](https://en.wikipedia.org/wiki/The_Communist_Manifesto)
 - [Guns, Germs, and Steel - Jared Diamond](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 - [The Road to Wigan Pier - George Orwell](https://en.wikipedia.org/wiki/The_Road_to_Wigan_Pier)
+- [Letters to a Young Contrarian - Christopher Hitchens](https://www.librarything.com/work/125073)
 
 ### J - Political Science
 
@@ -120,6 +122,9 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Ulysses](https://en.wikipedia.org/wiki/Ulysses_(novel))
 - [Scarlet Letter - Nathaniel Hawthorne](https://en.wikipedia.org/wiki/The_Scarlet_Letter)
 - [The Dispossessed - Ursula K. Le Guin](https://en.wikipedia.org/wiki/The_Dispossessed)
+- [Stories of Your Life and Others - Ted Chiang](https://www.librarything.com/work/28008)
+- [Exhalation: Stories - Ted Chiang](https://www.librarything.com/work/23195758)
+- [Tower of Babylon - Ted Chiang](https://www.librarything.com/work/9884056)
 
 ### PT-PZ: Other Literature
 
@@ -136,6 +141,12 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [On the Origin of Species - Charles Darwin](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 - [What If - Randall Munroe](https://en.wikipedia.org/wiki/What_If%3F_(book))
 - [Cosmos - Carl Sagan](<https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)>)
+- [Godel's Proof - Ernest Nagel](https://www.librarything.com/work/171883/)
+- [The Man Who Loved Only Numbers - Paul Hoffman](https://en.wikipedia.org/wiki/The_Man_Who_Loved_Only_Numbers)
+- [The Code Book - Simon Singh](https://en.wikipedia.org/wiki/The_Code_Book)
+- [Chaos - James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)
+- [The Selfish Gene - Richard Dawkins](https://www.librarything.com/work/23538)
+
 
 ### Uncategorized
 
