@@ -80,6 +80,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Inferno - Dante](<https://en.wikipedia.org/wiki/Inferno_(Dante)>)
 - [If on a Winter's Night a Traveler - Italo Calvino](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler)
 - [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
+- [The Myth of Sisyphus and Other Essays - Albert Camus](https://www.librarything.com/work/5881536)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
@@ -138,6 +139,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Black Swan - Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)
 - [Antifragile - Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Antifragile)
 - [Demon-Haunted World - Carl Sagan](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
+- [Pale Blue Dot - Carl Sagan](https://www.librarything.com/work/57246/)
 - [On the Origin of Species - Charles Darwin](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
 - [What If - Randall Munroe](https://en.wikipedia.org/wiki/What_If%3F_(book))
 - [Cosmos - Carl Sagan](<https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)>)
@@ -146,6 +148,19 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Code Book - Simon Singh](https://en.wikipedia.org/wiki/The_Code_Book)
 - [Chaos - James Gleick](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)
 - [The Selfish Gene - Richard Dawkins](https://www.librarything.com/work/23538)
+- [Prime Obsession - John Derbyshire](https://www.librarything.com/work/57968)
+- [The Pleasure of Finding Things Out - Richard P. Feynman](https://www.librarything.com/work/28124)
+- [The Feynman Lectures - Richard P. Feynman](https://www.librarything.com/work/8678838)
+- [Six Easy Pieces - Richard P. Feynman](https://www.librarything.com/work/23020)
+- [Six Not So Easy Pieces - Richard P. Feynman](https://www.librarything.com/work/58333)
+- [What Do You Care What Other People Think? - Richard P. Feynman](https://www.librarything.com/work/12727)
+- [The Meaning of It All - Richard P. Feynman](https://www.librarything.com/work/12720)
+- [The Character of Physical Law  - Richard P. Feynman](https://www.librarything.com/work/58717)
+- [Perfectly Reasonable Deviations from the Beaten Track - Richard P. Feynman](https://www.librarything.com/work/62727)
+
+### Medicine
+
+- [The Man Who Mistook His Wife For A Hat - Oliver Sacks](https://www.librarything.com/work/6012)
 
 
 ### Uncategorized
