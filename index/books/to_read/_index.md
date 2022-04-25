@@ -41,6 +41,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 - [The Communist Manifesto - Karl Marx](https://en.wikipedia.org/wiki/The_Communist_Manifesto)
 - [Guns, Germs, and Steel - Jared Diamond](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
+- [The Road to Wigan Pier - George Orwell](https://en.wikipedia.org/wiki/The_Road_to_Wigan_Pier)
 
 ### J - Political Science
 
@@ -59,6 +60,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Idiot - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/The_Idiot)
 - [Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
 - [Cancer Ward - Aleksandr Solzhenitsyn](https://en.wikipedia.org/wiki/Cancer_Ward)
+- [Gulag Archipelago - Aleksandr Solzhenitsyn](https://en.wikipedia.org/wiki/The_Gulag_Archipelago)
+- [Anna Karenina - Leo Tolstoy](https://en.wikipedia.org/wiki/Anna_Karenina)
+- [War and Peace - Leo Tolstoy](https://en.wikipedia.org/wiki/War_and_Peace)
+
 
 ### PJ-PL: Oriental, Indo-Iranian, East-Asian and Oceanian Languages
 
@@ -72,6 +77,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Waiting for Godot - Samuel Beckett](https://en.wikipedia.org/wiki/Waiting_for_Godot)
 - [Inferno - Dante](<https://en.wikipedia.org/wiki/Inferno_(Dante)>)
 - [If on a Winter's Night a Traveler - Italo Calvino](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler)
+- [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
@@ -145,3 +151,4 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - David Foster Wallace
 - Karl Popper
 - Carl Jung
+- HP Lovecraft
