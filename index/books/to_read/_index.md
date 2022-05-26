@@ -157,6 +157,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Meaning of It All - Richard P. Feynman](https://www.librarything.com/work/12720)
 - [The Character of Physical Law  - Richard P. Feynman](https://www.librarything.com/work/58717)
 - [Perfectly Reasonable Deviations from the Beaten Track - Richard P. Feynman](https://www.librarything.com/work/62727)
+- [The Annotated Turing - Charles Petzold](https://www.librarything.com/work/4701240)
 
 ### Medicine
 
