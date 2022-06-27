@@ -13,8 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Modern Man in Search of a Soul](https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul)
-- [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
+- [Godel's Proof - Ernest Nagel](https://www.librarything.com/work/171883/)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
