@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Godel's Proof - Ernest Nagel](https://www.librarything.com/work/171883/)
+- [To The Lighthouse – Virginia Woolf](https://www.librarything.com/work/316)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
