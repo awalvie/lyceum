@@ -98,10 +98,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
 - [Wolf Hall - Hilary Mantel](https://en.wikipedia.org/wiki/Wolf_Hall)
 - [Heart of Darkness - Joseph Conrad](https://en.wikipedia.org/wiki/Heart_of_Darkness)
+- [To The Lighthouse - Virginia Woolf](https://www.librarything.com/work/316)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
-- [A Farewell to Arms - Ernest Hemingway](https://en.wikipedia.org/wiki/A_Farewell_to_Arms)
 - [For Whom the Bell Tolls - Ernest Hemingway](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls)
 - [The Old Man and the Sea - Ernest Hemingway](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
 - [Siddhartha - Hermann Hesse](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)

@@ -6,6 +6,12 @@ created: 2021-2-23
 
 # Dropped
 
+### 2022
+
+- [The Sun Also Rises - Ernest Hemingway](https://www.librarything.com/work/23107)
+- [Exhalation - Ted Chiang](https://www.librarything.com/work/23195758)
+- [If on a Winter's Night a Traveler - Italo Calvino](https://www.librarything.com/work/4091153)
+
 ### 2021
 
 - [The Master and Margarita](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
