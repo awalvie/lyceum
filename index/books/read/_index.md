@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2022
 
+- [The Sun Also Rises - Ernest Hemingway](https://www.librarything.com/work/23107)
 - [Six Easy Pieces - Richard P. Feynman](https://www.librarything.com/work/23020)
 - [Good Omens - Terry Pratchett, Neil Gaiman](https://en.wikipedia.org/wiki/Good_Omens)
 - [Ones Who Walk Away From Omelas](https://en.wikipedia.org/wiki/The_Ones_Who_Walk_Away_from_Omelas)
