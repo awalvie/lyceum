@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2022
 
+- [East of Eden - John Steinbeck](https://www.librarything.com/work/2499/workdetails)
 - [The Sun Also Rises - Ernest Hemingway](https://www.librarything.com/work/23107)
 - [Six Easy Pieces - Richard P. Feynman](https://www.librarything.com/work/23020)
 - [Good Omens - Terry Pratchett, Neil Gaiman](https://en.wikipedia.org/wiki/Good_Omens)

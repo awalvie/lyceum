@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [A Farewell to Arms - Ernest Hemingway](https://en.wikipedia.org/wiki/A_Farewell_to_Arms)
+- [Lolita - Vladimir Nabokov](https://en.wikipedia.org/wiki/Lolita)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
