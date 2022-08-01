@@ -6,5 +6,6 @@ created: 2022-03-05
 
 # Essays
 
-- [personal productivity](personal_productivity.html)
-- [arguing](arguing.html)
+- [Personal Productivity](personal_productivity.html)
+- [Arguing](arguing.html)
+- [Daily Notes](daily_notes.html)
