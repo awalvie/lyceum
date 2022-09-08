@@ -4,6 +4,8 @@ subtitle: "Why take Daily Notes"
 created: 2021-05-29
 ---
 
+# Daily Notes
+
 Learning things usually involves significant effort. Grappling with the
 unknown is difficult and time-consuming. Notes (in theory), allow us to
 maintain a corpus of knowledge about information we have encountered,
