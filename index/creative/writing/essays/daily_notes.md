@@ -24,11 +24,12 @@ The above is traditionally the purpose of note-taking. Instead daily
 notes serve the following purposes:
 
 - As scratchpads for temporarily supporting working memory that will be
-- written and discarded. They serve as a way to engage with the subject
-- material actively and help process it. Records of daily work and
-- progress, which can be transformed into technical/development blogs on
-- the website. Streamline and simplify weekly reflections/reviews, no
-- guess-work or forgetting both completed and pending tasks.
+  written and discarded. They serve as a way to engage with the subject
+  material actively and help process it.
+- Records of daily work and progress, which can be transformed into
+  technical/development blogs on the website.
+- Streamline and simplify weekly reflections/reviews, no guess-work or
+  forgetting both completed and pending tasks.
 
 Hence they are by design ephemeral. I don't need to spend time
 categorizing, tagging or linking them. Note things down if I need to get
