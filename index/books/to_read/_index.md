@@ -14,7 +14,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ### B – Philosophy. Psychology. Religion
 
-- [Spiritual Enlightenment: The Damnedest Thing](https://www.goodreads.com/book/show/149961.Spiritual_Enlightenment)
 - [Letters from a Stoic - Seneca](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103)
 - [Discourses, Fragments, Handbook - Epictetus](https://www.barnesandnoble.com/w/discourses-fragments-handbook-epictetus/1116522875)
 - [Nicomachean Ethics - Aristotle](https://en.wikipedia.org/wiki/Nicomachean_Ethics)

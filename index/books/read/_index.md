@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2022
 
+- [Spiritual Enlightenment: The Damnedest Thing](https://www.goodreads.com/book/show/149961.Spiritual_Enlightenment)
 - [East of Eden - John Steinbeck](https://www.librarything.com/work/2499/workdetails)
 - [The Sun Also Rises - Ernest Hemingway](https://www.librarything.com/work/23107)
 - [Six Easy Pieces - Richard P. Feynman](https://www.librarything.com/work/23020)
