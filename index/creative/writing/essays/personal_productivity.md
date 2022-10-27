@@ -62,7 +62,7 @@ Even as I write this, I'm tempted to spend the day and look through all
 those methods of personal organization, probably because my brain knows
 that it's the fastest route to more dopamine, and it's a hard feeling to
 resist. It's exactly for this reason, that I've tried to use writing as
-a medium for rational though to think through the problem and arrive at
+a medium for rational thought to think through the problem and arrive at
 a conclusion which might feel self-evident to some, but allows me to
 subvert my emotions to do not what feels right, but what I think is
 right, that being, just make a simple to-do list. Thanks for coming to
