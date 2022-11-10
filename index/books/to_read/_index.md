@@ -51,10 +51,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 ### PA: Greek and Latin language and Literature
 
 - [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
-- [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
 
 ### PG: Slavic Languages and Literature
 
+- [Crime and Punishment - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
 - [The Brothers Karamazov - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)
 - [Demons - Fyodor Dostoevsky](<https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)>)
 - [Crime and Punishment - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
@@ -102,8 +102,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
 - [For Whom the Bell Tolls - Ernest Hemingway](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls)
 - [The Old Man and the Sea - Ernest Hemingway](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
+- [Nature - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Nature_(essay))
 - [A Farewell to Arms - Ernest Hemingway](https://en.wikipedia.org/wiki/A_Farewell_to_Arms)
-- [Siddhartha - Hermann Hesse](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)
 - [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
 - [Catch-22 - Joseph Heller](https://en.wikipedia.org/wiki/Catch-22)
 - [Breakfast of Champtions - Kurt Vonnegut](https://en.wikipedia.org/wiki/Breakfast_of_Champions)
@@ -121,7 +121,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Scarlet Letter - Nathaniel Hawthorne](https://en.wikipedia.org/wiki/The_Scarlet_Letter)
 - [The Dispossessed - Ursula K. Le Guin](https://en.wikipedia.org/wiki/The_Dispossessed)
 - [Stories of Your Life and Others - Ted Chiang](https://www.librarything.com/work/28008)
-- [Exhalation: Stories - Ted Chiang](https://www.librarything.com/work/23195758)
 - [Tower of Babylon - Ted Chiang](https://www.librarything.com/work/9884056)
 
 ### PT-PZ: Other Literature

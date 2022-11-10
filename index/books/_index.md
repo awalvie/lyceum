@@ -13,9 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Nature - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Nature_(essay))
-- [Crime and Punishment - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
-- [Letters from a Stoic - Senneca](https://en.wikipedia.org/wiki/Epistulae_Morales_ad_Lucilium)
+- [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt

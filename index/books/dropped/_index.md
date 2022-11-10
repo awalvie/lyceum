@@ -8,6 +8,7 @@ created: 2021-2-23
 
 ### 2022
 
+- [Siddhartha - Hermann Hesse](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)
 - [Exhalation - Ted Chiang](https://www.librarything.com/work/23195758)
 - [If on a Winter's Night a Traveler - Italo Calvino](https://www.librarything.com/work/4091153)
 
