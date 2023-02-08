@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
+- [Midnight's Children - Salman Rushdie](https://en.wikipedia.org/wiki/Midnight%27s_Children)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt

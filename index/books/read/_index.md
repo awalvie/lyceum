@@ -6,6 +6,11 @@ created: 2021-0-05
 
 # Read
 
+### 2023
+
+- [Tuesdays With Morrie](https://www.librarything.com/work/3331)
+- [Born A Crime](https://www.librarything.com/work/18499935)
+
 ### 2022
 
 - [Spiritual Enlightenment: The Damnedest Thing](https://www.goodreads.com/book/show/149961.Spiritual_Enlightenment)

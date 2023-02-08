@@ -51,6 +51,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 ### PA: Greek and Latin language and Literature
 
 - [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
+- [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
 
 ### PG: Slavic Languages and Literature
 
@@ -85,7 +86,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Birdsong - Sebastian Faulks](<https://en.wikipedia.org/wiki/Birdsong_(novel)>)
 - [Dracula - Bram Stoker](https://en.wikipedia.org/wiki/Dracula)
 - [Middlemarch - George Eliot](https://en.wikipedia.org/wiki/Middlemarch)
-- [Midnight's Children - Salman Rushdie](https://en.wikipedia.org/wiki/Midnight%27s_Children)
 - [The Satanic Verses - Salman Rushdie](https://en.wikipedia.org/wiki/The_Satanic_Verses)
 - [Island - Aldous Huxley](<https://en.wikipedia.org/wiki/Island_(Huxley_novel)>)
 - [Point Counter Point - Aldous Huxley](https://en.wikipedia.org/wiki/Point_Counter_Point)
