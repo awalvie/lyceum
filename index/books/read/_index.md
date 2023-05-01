@@ -8,6 +8,8 @@ created: 2021-0-05
 
 ### 2023
 
+- [The Catcher in the Rye](https://www.librarything.com/work/4053418)
+- [The Dispossessed](https://www.librarything.com/work/21142)
 - [Tuesdays With Morrie](https://www.librarything.com/work/3331)
 - [Born A Crime](https://www.librarything.com/work/18499935)
 

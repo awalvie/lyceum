@@ -6,6 +6,10 @@ created: 2021-2-23
 
 # Dropped
 
+### 2023
+
+- [Stoner - John Williams](https://www.librarything.com/work/169174)
+
 ### 2022
 
 - [Siddhartha - Hermann Hesse](<https://en.wikipedia.org/wiki/Siddhartha_(novel)>)

@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Midnight's Children - Salman Rushdie](https://en.wikipedia.org/wiki/Midnight%27s_Children)
+- [A Clockwork Orange](https://www.librarything.com/work/1473)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
