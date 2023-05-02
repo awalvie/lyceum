@@ -97,6 +97,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Wolf Hall - Hilary Mantel](https://en.wikipedia.org/wiki/Wolf_Hall)
 - [Heart of Darkness - Joseph Conrad](https://en.wikipedia.org/wiki/Heart_of_Darkness)
 - [To The Lighthouse - Virginia Woolf](https://www.librarything.com/work/316)
+- [A Clockwork Orange](https://www.librarything.com/work/1473)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
@@ -153,11 +154,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Perfectly Reasonable Deviations from the Beaten Track - Richard P. Feynman](https://www.librarything.com/work/62727)
 - [The Annotated Turing - Charles Petzold](https://www.librarything.com/work/4701240)
 - [Godel's Proof - Ernest Nagel](https://www.librarything.com/work/171883/)
-
-### Medicine
-
-- [The Man Who Mistook His Wife For A Hat - Oliver Sacks](https://www.librarything.com/work/6012)
-
 
 ### Uncategorized
 

@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [A Clockwork Orange](https://www.librarything.com/work/1473)
+- [The Man Who Mistook His Wife For A Hat - Oliver Sacks](https://www.librarything.com/work/6012)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
