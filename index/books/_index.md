@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [The Man Who Mistook His Wife For A Hat - Oliver Sacks](https://www.librarything.com/work/6012)
+- [The Color Purple - Alice Walker](https://www.librarything.com/work/283)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt

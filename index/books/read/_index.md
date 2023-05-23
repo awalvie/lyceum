@@ -8,10 +8,11 @@ created: 2021-0-05
 
 ### 2023
 
-- [The Catcher in the Rye](https://www.librarything.com/work/4053418)
-- [The Dispossessed](https://www.librarything.com/work/21142)
-- [Tuesdays With Morrie](https://www.librarything.com/work/3331)
-- [Born A Crime](https://www.librarything.com/work/18499935)
+- [Lord of the Flies - William Golding](https://www.librarything.com/work/2475502)
+- [The Catcher in the Rye - J.D. Salinger](https://www.librarything.com/work/4053418)
+- [The Dispossessed - Ursula K. Le. Guin](https://www.librarything.com/work/21142)
+- [Tuesdays With Morrie - Mitch Albom](https://www.librarything.com/work/3331)
+- [Born A Crime - Trevor Noad](https://www.librarything.com/work/18499935)
 
 ### 2022
 
