@@ -32,6 +32,11 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Modern Man in Search of a Soul - C. G. Jung](https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul)
 - [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
 - [Algorithms to Live By - Brian Christian](https://www.librarything.com/work/16986069)
+- [Sceptical Essays - Bertrand Russell](https://www.librarything.com/work/88323)
+- [Essays and Aphorisms - Arthur Schopenhauer](https://www.librarything.com/work/3488)
+- [Thinking, Fast and Slow - Daniel Kahneman](https://www.librarything.com/work/11559588)
+- [Man and His Symbols - Carl Jung](https://www.librarything.com/work/391)
+- [Modern Man in Search of a Soul - Carl Jung](https://www.librarything.com/work/60995)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -60,7 +65,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Demons - Fyodor Dostoevsky](<https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)>)
 - [Crime and Punishment - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
 - [The Idiot - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/The_Idiot)
-- [Notes from the Underground](https://en.wikipedia.org/wiki/Notes_from_Underground)
+- [Notes from the Underground - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Notes_from_Underground)
+- [The House of the Dead - Fyodor Dostoevsky](https://www.librarything.com/work/109571)
 - [Cancer Ward - Aleksandr Solzhenitsyn](https://en.wikipedia.org/wiki/Cancer_Ward)
 - [Gulag Archipelago - Aleksandr Solzhenitsyn](https://en.wikipedia.org/wiki/The_Gulag_Archipelago)
 - [Anna Karenina - Leo Tolstoy](https://en.wikipedia.org/wiki/Anna_Karenina)
@@ -70,6 +76,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 ### PJ-PL: Oriental, Indo-Iranian, East-Asian and Oceanian Languages
 
 - [The Temple of the Golden Pavillion - Yukio Mishima](https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion)
+- [Gitanjali - Rabindranath Tagore](https://www.librarything.com/work/171384)
 
 ### PQ: Romance Literature
 
@@ -80,6 +87,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Inferno - Dante](<https://en.wikipedia.org/wiki/Inferno_(Dante)>)
 - [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
 - [The Myth of Sisyphus and Other Essays - Albert Camus](https://www.librarything.com/work/5881536)
+- [One Hundred Years of Solitude - Gabriel Garcia Marquez](https://www.librarything.com/work/5864)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
@@ -98,6 +106,11 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Heart of Darkness - Joseph Conrad](https://en.wikipedia.org/wiki/Heart_of_Darkness)
 - [To The Lighthouse - Virginia Woolf](https://www.librarything.com/work/316)
 - [A Clockwork Orange](https://www.librarything.com/work/1473)
+- [The Color Purple - Alice Walker](https://www.librarything.com/work/283)
+- [Romeo and Juliet - William Shakespeare](https://www.librarything.com/work/2225)
+- [Much Ado About Nothing - William Shakespeare](https://www.librarything.com/work/10259)
+- [The Merchant of Venice - William Shakespeare](https://www.librarything.com/work/15110)
+- [Macbeth - William Shakespeare](https://www.librarything.com/work/4948864)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
@@ -123,6 +136,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Dispossessed - Ursula K. Le Guin](https://en.wikipedia.org/wiki/The_Dispossessed)
 - [Stories of Your Life and Others - Ted Chiang](https://www.librarything.com/work/28008)
 - [Tower of Babylon - Ted Chiang](https://www.librarything.com/work/9884056)
+- [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
+- [Leaves of Grass - Walt Whitman](https://www.librarything.com/work/5332)
 
 ### PT-PZ: Other Literature
 
