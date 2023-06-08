@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [The Color Purple - Alice Walker](https://www.librarything.com/work/283)
+-[The Road - Cormac McCarthy](https://www.librarything.com/work/1222607)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt

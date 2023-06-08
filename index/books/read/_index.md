@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2023
 
+- [To Kill a Mockingbird - Harper Lee](https://www.librarything.com/work/3092)
 - [Lord of the Flies - William Golding](https://www.librarything.com/work/2475502)
 - [The Catcher in the Rye - J.D. Salinger](https://www.librarything.com/work/4053418)
 - [The Dispossessed - Ursula K. Le. Guin](https://www.librarything.com/work/21142)

@@ -37,6 +37,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Thinking, Fast and Slow - Daniel Kahneman](https://www.librarything.com/work/11559588)
 - [Man and His Symbols - Carl Jung](https://www.librarything.com/work/391)
 - [Modern Man in Search of a Soul - Carl Jung](https://www.librarything.com/work/60995)
+- [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -71,6 +72,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Gulag Archipelago - Aleksandr Solzhenitsyn](https://en.wikipedia.org/wiki/The_Gulag_Archipelago)
 - [Anna Karenina - Leo Tolstoy](https://en.wikipedia.org/wiki/Anna_Karenina)
 - [War and Peace - Leo Tolstoy](https://en.wikipedia.org/wiki/War_and_Peace)
+- [Selected Stories - Anton Chekhov](https://www.librarything.com/work/828737)
 
 
 ### PJ-PL: Oriental, Indo-Iranian, East-Asian and Oceanian Languages
@@ -88,6 +90,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
 - [The Myth of Sisyphus and Other Essays - Albert Camus](https://www.librarything.com/work/5881536)
 - [One Hundred Years of Solitude - Gabriel Garcia Marquez](https://www.librarything.com/work/5864)
+- [Memoirs of Hacrian - Marguerite Yourcenar](https://www.librarything.com/work/27479)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
@@ -98,7 +101,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Island - Aldous Huxley](<https://en.wikipedia.org/wiki/Island_(Huxley_novel)>)
 - [Point Counter Point - Aldous Huxley](https://en.wikipedia.org/wiki/Point_Counter_Point)
 - [To the Lighthouse - Virginia Woolf](https://en.wikipedia.org/wiki/To_the_Lighthouse)
-- [Lord of the Flies - William Golding](https://en.wikipedia.org/wiki/Lord_of_the_Flies)
 - [I, Claudius - Robert Graves](https://en.wikipedia.org/wiki/I,_Claudius)
 - [Paradise Lost - John Milton](https://en.wikipedia.org/wiki/Paradise_lost)
 - [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
@@ -126,8 +128,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Grapes of Wrath - John Steinback](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath)
 - [Gilead - Marilynne Robinson](<https://en.wikipedia.org/wiki/Gilead_(novel)>)
 - [Oathbringer - Brandon Sanderson](https://en.wikipedia.org/wiki/Oathbringer)
-- [To Kill a Mockingbird](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird)
-- [The Catcher in the Rye - J. D. Salinger](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye)
 - [As I Lay Dying - William Faulkner](https://en.wikipedia.org/wiki/As_I_Lay_Dying)
 - [The Sound and the Fury - William Faulkner](https://en.wikipedia.org/wiki/The_Sound_and_the_Fury)
 - [The Color Purple - Alice Walker](https://en.wikipedia.org/wiki/The_Color_Purple)
@@ -169,6 +169,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Perfectly Reasonable Deviations from the Beaten Track - Richard P. Feynman](https://www.librarything.com/work/62727)
 - [The Annotated Turing - Charles Petzold](https://www.librarything.com/work/4701240)
 - [Godel's Proof - Ernest Nagel](https://www.librarything.com/work/171883/)
+- [Behave - Robert M. Sapolsky](https://www.librarything.com/work/18968864)
 
 ### Uncategorized
 
