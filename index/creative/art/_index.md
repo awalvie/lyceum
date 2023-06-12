@@ -30,10 +30,14 @@ love for the arts that I haven't lost and try to emulate myself.
 Exemplifying the beauty of the world around us is as noble and virtuous
 a purpose in life as can be.
 
-![](./static/images/Savannah.png "Savannah")
+![](./static/images/Savannah.png "savannah")
 
 Savannah - 30 June, 2020
 
 ![](./static/images/stones.jpg "stones")
 
 Stones - 26 Nov, 2020
+
+![](./static/images/strokes.png "strokes")
+
+Strokes - 11 Jun, 2023
