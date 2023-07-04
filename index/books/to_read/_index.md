@@ -138,6 +138,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Tower of Babylon - Ted Chiang](https://www.librarything.com/work/9884056)
 - [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
 - [Leaves of Grass - Walt Whitman](https://www.librarything.com/work/5332)
+- [The Road - Cormac McCarthy](https://www.librarything.com/work/1222607)
 
 ### PT-PZ: Other Literature
 
@@ -163,7 +164,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Pleasure of Finding Things Out - Richard P. Feynman](https://www.librarything.com/work/28124)
 - [The Feynman Lectures - Richard P. Feynman](https://www.librarything.com/work/8678838)
 - [Six Not So Easy Pieces - Richard P. Feynman](https://www.librarything.com/work/58333)
-- [What Do You Care What Other People Think? - Richard P. Feynman](https://www.librarything.com/work/12727)
 - [The Meaning of It All - Richard P. Feynman](https://www.librarything.com/work/12720)
 - [The Character of Physical Law  - Richard P. Feynman](https://www.librarything.com/work/58717)
 - [Perfectly Reasonable Deviations from the Beaten Track - Richard P. Feynman](https://www.librarything.com/work/62727)
