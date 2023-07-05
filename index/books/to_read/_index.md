@@ -174,7 +174,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 ### Uncategorized
 
 - [Rationality: From AI to Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies)
-- [Slate Star Codex Abridged](https://www.slatestarcodexabridged.com/)
 
 ## Authors
 
