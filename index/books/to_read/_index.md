@@ -29,7 +29,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Either/Or - Soren Kierkegaard](https://en.wikipedia.org/wiki/Either/Or)
 - [Meditations - Marcus Aurelius](https://openlibrary.org/works/OL1317211W/Meditations)
 - [The Hero With A Thousand Faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
-- [Modern Man in Search of a Soul - C. G. Jung](https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul)
 - [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind)
 - [Algorithms to Live By - Brian Christian](https://www.librarything.com/work/16986069)
 - [Sceptical Essays - Bertrand Russell](https://www.librarything.com/work/88323)
@@ -38,6 +37,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Man and His Symbols - Carl Jung](https://www.librarything.com/work/391)
 - [Modern Man in Search of a Soul - Carl Jung](https://www.librarything.com/work/60995)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
+- [On the Shortness of Life - Seneca](https://www.librarything.com/work/41823)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -49,15 +49,21 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Guns, Germs, and Steel - Jared Diamond](https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel)
 - [The Road to Wigan Pier - George Orwell](https://en.wikipedia.org/wiki/The_Road_to_Wigan_Pier)
 - [Letters to a Young Contrarian - Christopher Hitchens](https://www.librarything.com/work/125073)
+- [Colours of a Cage - Arun Ferreira](https://www.librarything.com/work/26401143/)
 
 ### J - Political Science
 
 - [Understanding Power - Noam Chomsky](https://en.wikipedia.org/wiki/Understanding_Power)
+- [The Republic - Plato](https://www.librarything.com/work/1993)
 
 ### PA: Greek and Latin language and Literature
 
 - [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
 - [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
+
+### PK. Indo-Iranian Languages and Literatures
+
+- [The Essential Rumi - Jalal al-Din Rumi](https://www.librarything.com/work/41625)
 
 ### PG: Slavic Languages and Literature
 
@@ -73,12 +79,19 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Anna Karenina - Leo Tolstoy](https://en.wikipedia.org/wiki/Anna_Karenina)
 - [War and Peace - Leo Tolstoy](https://en.wikipedia.org/wiki/War_and_Peace)
 - [Selected Stories - Anton Chekhov](https://www.librarything.com/work/828737)
+- [The Cossacks - Leo Tolstoy](https://www.librarything.com/work/10119042)
 
+### PN: Literature (General)
+
+- [Embroideries - Marjane Satrapi](https://www.librarything.com/work/17874/)
+- [The Complete Persepolis - Marjane Satrapi](https://www.librarything.com/work/6392056/)
+- [The Legend of Luther Arkwright - Bryan Talbot](https://www.librarything.com/work/28335963)
 
 ### PJ-PL: Oriental, Indo-Iranian, East-Asian and Oceanian Languages
 
 - [The Temple of the Golden Pavillion - Yukio Mishima](https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion)
 - [Gitanjali - Rabindranath Tagore](https://www.librarything.com/work/171384)
+- [Tales from 1,001 Nights](https://www.librarything.com/work/11009624/)
 
 ### PQ: Romance Literature
 
@@ -90,7 +103,9 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
 - [The Myth of Sisyphus and Other Essays - Albert Camus](https://www.librarything.com/work/5881536)
 - [One Hundred Years of Solitude - Gabriel Garcia Marquez](https://www.librarything.com/work/5864)
-- [Memoirs of Hacrian - Marguerite Yourcenar](https://www.librarything.com/work/27479)
+- [Memoirs of Hadrian - Marguerite Yourcenar](https://www.librarything.com/work/27479)
+- [Candide - Voltaire](https://www.librarything.com/work/2184)
+- [The Complete Essays - Michel de Montaigne](https://www.librarything.com/work/15610)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
@@ -106,13 +121,17 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
 - [Wolf Hall - Hilary Mantel](https://en.wikipedia.org/wiki/Wolf_Hall)
 - [Heart of Darkness - Joseph Conrad](https://en.wikipedia.org/wiki/Heart_of_Darkness)
-- [To The Lighthouse - Virginia Woolf](https://www.librarything.com/work/316)
 - [A Clockwork Orange](https://www.librarything.com/work/1473)
 - [The Color Purple - Alice Walker](https://www.librarything.com/work/283)
 - [Romeo and Juliet - William Shakespeare](https://www.librarything.com/work/2225)
 - [Much Ado About Nothing - William Shakespeare](https://www.librarything.com/work/10259)
 - [The Merchant of Venice - William Shakespeare](https://www.librarything.com/work/15110)
 - [Macbeth - William Shakespeare](https://www.librarything.com/work/4948864)
+- [The Ring Legends of Tolkien - David Day](https://www.librarything.com/work/25347514/)
+- [Three Men in a Boat - Jerome K. Jerome](https://www.librarything.com/work/19936/)
+- [The Best of Wodehouse](https://www.librarything.com/work/1868735)
+- [Midnight's Children - Salamn Rushdie](https://www.librarything.com/work/2118)
+- [The Lord of the Rings - J. R. R. Tolkien](https://www.librarything.com/work/1386651)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
@@ -139,6 +158,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
 - [Leaves of Grass - Walt Whitman](https://www.librarything.com/work/5332)
 - [The Road - Cormac McCarthy](https://www.librarything.com/work/1222607)
+- [Lolita - Vladimir Nabokov](https://www.librarything.com/work/913/)
+- [Mobby Dick - Herman Melville](https://www.librarything.com/work/15540/)
+- [Foundation Series - Issac Asimov](https://www.librarything.com/work/3116747)
+- [The Call of Cthulhu and Other Weird Tales - H. P. Lovecraft](https://www.librarything.com/work/162504)
 
 ### PT-PZ: Other Literature
 
@@ -170,10 +193,13 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Annotated Turing - Charles Petzold](https://www.librarything.com/work/4701240)
 - [Godel's Proof - Ernest Nagel](https://www.librarything.com/work/171883/)
 - [Behave - Robert M. Sapolsky](https://www.librarything.com/work/18968864)
+- [Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.librarything.com/work/5619)
+- [The Brain: The Story of You - David Eagleman](https://www.librarything.com/work/16489441)
 
 ### Uncategorized
 
 - [Rationality: From AI to Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies)
+- [The Greatest Short Stories of Leo Tolstoy - Leo Tostoy](https://www.librarything.com/work/13097105)
 
 ## Authors
 
