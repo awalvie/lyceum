@@ -13,7 +13,6 @@ created: 2021-06-18
 
 ### Reading
 
-- [What Do You Care What Other People Think? - Richard P. Feynman](https://www.librarything.com/work/12727)
 - [Slate Star Codex Abridged](https://www.slatestarcodexabridged.com/)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
