@@ -211,3 +211,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - Karl Popper
 - Carl Jung
 - HP Lovecraft
+- Neil Gaiman
+- Walt Whitman
+- Ralph Waldo Emerson
