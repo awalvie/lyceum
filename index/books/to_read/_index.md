@@ -132,6 +132,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Best of Wodehouse](https://www.librarything.com/work/1868735)
 - [Midnight's Children - Salamn Rushdie](https://www.librarything.com/work/2118)
 - [The Lord of the Rings - J. R. R. Tolkien](https://www.librarything.com/work/1386651)
+- [Robinson Crusoe - Daniel Defoe](https://www.librarything.com/work/29374)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)

@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Robinson Crusoe - Daniel Defoe](https://www.librarything.com/work/29374)
+- [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
