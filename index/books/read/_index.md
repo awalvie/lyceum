@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2023
 
+- [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
 - [What Do You Care What Other People Think? - Richard P. Feynman](https://www.librarything.com/work/12727)
 - [To Kill a Mockingbird - Harper Lee](https://www.librarything.com/work/3092)
 - [Lord of the Flies - William Golding](https://www.librarything.com/work/2475502)

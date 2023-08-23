@@ -170,6 +170,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Man Without Qualities - Robert Musil](https://en.wikipedia.org/wiki/The_Man_Without_Qualities)
 - [Confessions of a Mask - Yukio Mishima](https://en.wikipedia.org/wiki/Confessions_of_a_Mask)
 - [The Trial - Franz Kafka](https://en.wikipedia.org/wiki/The_Trial)
+- [The Waves - Virginia Woolf](https://www.librarything.com/work/51955)
 
 ### Q – Science
 
