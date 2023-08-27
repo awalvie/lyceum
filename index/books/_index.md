@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
+- [Blood Meridian - Cormac McCarthy](https://www.librarything.com/work/7137558/summary)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
