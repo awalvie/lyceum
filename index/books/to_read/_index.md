@@ -217,3 +217,5 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - Walt Whitman
 - Ralph Waldo Emerson
 - John Updike
+- Mark Twain
+- T. S. Elliot
