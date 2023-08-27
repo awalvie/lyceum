@@ -216,3 +216,4 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - Neil Gaiman
 - Walt Whitman
 - Ralph Waldo Emerson
+- John Updike
