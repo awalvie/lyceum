@@ -8,6 +8,8 @@ created: 2021-0-05
 
 ### 2023
 
+- [Blindsight - Peter Watts](https://www.librarything.com/work/1333265)
+- [Never Let Me Go - Kazuo Ishiguro](https://www.librarything.com/work/7244/workdetails)
 - [On Writing - Stephen King](https://www.librarything.com/work/4453)
 - [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
 - [What Do You Care What Other People Think? - Richard P. Feynman](https://www.librarything.com/work/12727)

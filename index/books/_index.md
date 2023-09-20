@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Blood Meridian - Cormac McCarthy](https://www.librarything.com/work/7137558/summary)
+- [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
