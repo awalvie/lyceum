@@ -80,6 +80,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [War and Peace - Leo Tolstoy](https://en.wikipedia.org/wiki/War_and_Peace)
 - [Selected Stories - Anton Chekhov](https://www.librarything.com/work/828737)
 - [The Cossacks - Leo Tolstoy](https://www.librarything.com/work/10119042)
+- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
+- [Solaris - Staistaw Lem](https://www.librarything.com/work/18415)
 
 ### PN: Literature (General)
 
@@ -132,6 +134,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Midnight's Children - Salamn Rushdie](https://www.librarything.com/work/2118)
 - [The Lord of the Rings - J. R. R. Tolkien](https://www.librarything.com/work/1386651)
 - [Robinson Crusoe - Daniel Defoe](https://www.librarything.com/work/29374)
+- [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
@@ -162,6 +165,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Mobby Dick - Herman Melville](https://www.librarything.com/work/15540/)
 - [Foundation Series - Issac Asimov](https://www.librarything.com/work/3116747)
 - [The Call of Cthulhu and Other Weird Tales - H. P. Lovecraft](https://www.librarything.com/work/162504)
+- [Neuromancer - William Gibson](https://www.librarything.com/work/609)
+- [A Game of Thrones](https://www.librarything.com/work/8366)
 
 ### PT-PZ: Other Literature
 
