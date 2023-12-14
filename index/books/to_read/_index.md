@@ -135,6 +135,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Lord of the Rings - J. R. R. Tolkien](https://www.librarything.com/work/1386651)
 - [Robinson Crusoe - Daniel Defoe](https://www.librarything.com/work/29374)
 - [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
+- [The Machine Stops - E. M. Foster](https://www.librarything.com/work/896743)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
@@ -167,6 +168,12 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Call of Cthulhu and Other Weird Tales - H. P. Lovecraft](https://www.librarything.com/work/162504)
 - [Neuromancer - William Gibson](https://www.librarything.com/work/609)
 - [A Game of Thrones](https://www.librarything.com/work/8366)
+- [A Canticle for Leibowitz - Walter M. Miller](https://www.librarything.com/work/48053)
+- [Farenheit 451 - Ray Bradbury](https://www.librarything.com/work/4248)
+- [The Night Circus - Erin Morgenstern](https://www.librarything.com/work/12049600)
+- [Jonathan Strange & Mr. Norrell - Susanna Clarke](https://www.librarything.com/work/1060)
+- [Neverwhere - Neil Gaiman](https://www.librarything.com/work/897386)
+- [The Library at Mount Char - Scott Hawkins](https://www.librarything.com/work/15618777)
 
 ### PT-PZ: Other Literature
 
