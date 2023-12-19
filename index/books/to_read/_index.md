@@ -174,6 +174,13 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Neverwhere - Neil Gaiman](https://www.librarything.com/work/897386)
 - [The Library at Mount Char - Scott Hawkins](https://www.librarything.com/work/15618777)
 - [All Systems Red - Martha Wells](https://www.librarything.com/work/18809896)
+- [Anathem - Neal Stephenson](https://www.librarything.com/work/5116802)
+- [The Overstory - Richard Powers](https://www.librarything.com/work/20296983)
+- [Cat's Cradle - Kurt Vonnegut](https://www.librarything.com/work/3374753)
+- [The Lathe of Heaven - Ursula K. Le Guin](https://www.librarything.com/work/21223)
+- [The Shining - Stephen King](https://www.librarything.com/work/6050)
+- ['Salem's Lot - Stephen King](https://www.librarything.com/work/9597233)
+- [Pet Sematary - Stephen King](https://www.librarything.com/work/24308)
 
 ### PT-PZ: Other Literature
 
@@ -230,3 +237,4 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - John Updike
 - Mark Twain
 - T. S. Elliot
+- Stephen King
