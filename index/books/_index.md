@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [In Praise of Idleness - Bertrand Russell](https://www.librarything.com/work/63290)
+- [The Shining - Stephen King](https://www.librarything.com/work/6050)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt

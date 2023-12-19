@@ -50,6 +50,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Road to Wigan Pier - George Orwell](https://en.wikipedia.org/wiki/The_Road_to_Wigan_Pier)
 - [Letters to a Young Contrarian - Christopher Hitchens](https://www.librarything.com/work/125073)
 - [Colours of a Cage - Arun Ferreira](https://www.librarything.com/work/26401143/)
+- [In Praise of Idleness - Bertrand Russell](https://www.librarything.com/work/63290)
 
 ### J - Political Science
 
@@ -178,7 +179,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Overstory - Richard Powers](https://www.librarything.com/work/20296983)
 - [Cat's Cradle - Kurt Vonnegut](https://www.librarything.com/work/3374753)
 - [The Lathe of Heaven - Ursula K. Le Guin](https://www.librarything.com/work/21223)
-- [The Shining - Stephen King](https://www.librarything.com/work/6050)
 - ['Salem's Lot - Stephen King](https://www.librarything.com/work/9597233)
 - [Pet Sematary - Stephen King](https://www.librarything.com/work/24308)
 
