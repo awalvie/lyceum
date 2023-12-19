@@ -20,7 +20,7 @@ The book starts off strong – an air of mystery about the circus, a
 challenge, flawed but endearing protagonists with a promise of lot more
 to come, but looses its footing somewhere in the middle.
 
-**Spoilers Below Tread With Caution**
+**HERE BE DRAGONS**
 
 Bailey's story feels entirely out of place, written almost as if to
 justify the end of the book, which itself feels clichéd and contrived.
@@ -37,15 +37,16 @@ The atmosphere that the book creates with the circus, its tents and
 their denizens though is fantatstic. The evocative detail of what the
 circus smells, tastest and looks like makes it almost ethereal. It's
 assortment of dreamlike tents, coupled with a vibrant cast of unique
-performers taking the stage, I often found myself savouring them word
-for word, trying to imagine the picture the author creates, a balance
-between the real and the magical.
+performers taking the stage. I often found myself savouring the prose
+word for word, trying to imagine the picture the author paints, a
+balance between the real and the magical.
 
 The book (unsurprisingly) ends with a happily ever after. The final
 conversation of the book, trying to relay a message about the power of
 stories, fell flat on my rushed ears. It did however remind me to revist
-one of my absolute favorite nerdwriter videos[^1]. I did get what I was
-looking for with this book, a way to get back into reading with
-something I didn't care too much about.
+one of my absolute favorite nerdwriter videos[^1].
+
+I did get what I was looking for with this book though, a way to get
+back into reading with something I didn't care too much about.
 
 [^1]: [Neil Gaiman's Sandman: What Dreams Cost](https://www.youtube.com/watch?v=YhA0GVi_N4E)
