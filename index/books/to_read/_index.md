@@ -173,6 +173,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Jonathan Strange & Mr. Norrell - Susanna Clarke](https://www.librarything.com/work/1060)
 - [Neverwhere - Neil Gaiman](https://www.librarything.com/work/897386)
 - [The Library at Mount Char - Scott Hawkins](https://www.librarything.com/work/15618777)
+- [All Systems Red - Martha Wells](https://www.librarything.com/work/18809896)
 
 ### PT-PZ: Other Literature
 
