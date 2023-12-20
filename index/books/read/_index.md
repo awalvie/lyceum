@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2023
 
+- [All Systems Red - Martha Wells](https://www.librarything.com/work/18809896)
 - [The Night Circus - Erin Morgenstern](The-Night-Circus.html)
 - [Blindsight - Peter Watts](https://www.librarything.com/work/1333265)
 - [Never Let Me Go - Kazuo Ishiguro](https://www.librarything.com/work/7244/workdetails)
