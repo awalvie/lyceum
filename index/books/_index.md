@@ -15,6 +15,10 @@ created: 2021-06-18
 
 - [The Shining - Stephen King](https://www.librarything.com/work/6050)
 
+### Listening
+
+- [12 Rules for Life - Jordan Peterson](https://www.librarything.com/work/19389000)
+
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
 about the book.
