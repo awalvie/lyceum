@@ -17,7 +17,7 @@ created: 2021-06-18
 
 ### Listening
 
-- [Harry Potter and the Sorcerer’s Stone - J.K. Rowling | Narrator - Stephen Fry](https://www.librarything.com/work/5403381)
+- [Harry Potter and the Chamber of Secrets - J.K. Rowling](https://www.librarything.com/work/683408)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
