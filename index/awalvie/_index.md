@@ -7,8 +7,8 @@ created: 2020-07-07
 ## Awalvie
 
 Vishesh or awalvie as he likes to call himself on the internet currently
-works as a Site Reliability Engineer at
-[DeepSource](https://deepsource.io/). His weekends start with a nice
+works as a Software Engineer @ [Zivid](https://zivid.com/). His weekends
+start with a nice
 
 ```sh
 mkdir super_awesome_project
