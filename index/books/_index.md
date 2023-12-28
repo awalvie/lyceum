@@ -17,7 +17,7 @@ created: 2021-06-18
 
 ### Listening
 
-- [12 Rules for Life - Jordan Peterson](https://www.librarything.com/work/19389000)
+- [Harry Potter and the Sorcerer’s Stone - J.K. Rowling | Narrator - Stephen Fry](https://www.librarything.com/work/5403381)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
