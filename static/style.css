@@ -1,6 +1,11 @@
-:root { font-family: 'Inter', sans-serif; }
+:root {
+  font-family: 'Inter', sans-serif;
+}
+
 @supports (font-variation-settings: normal) {
-  :root { font-family: 'Inter var', sans-serif; }
+  :root {
+    font-family: 'Inter var', sans-serif;
+  }
 }
 
 * {
@@ -10,69 +15,86 @@
   text-decoration: none;
   color: #000;
 }
+
 body {
   padding: 30px;
   font-size: 18px;
 }
-body > * {
+
+body>* {
   margin-bottom: 25px;
 }
-body > * > * {
+
+body>*>* {
   margin-bottom: 25px;
 }
+
 table td,
 table th {
   vertical-align: top;
   padding: 2.5px 5px;
   text-align: left;
 }
-table td > pre,
-table th > pre {
+
+table td>pre,
+table th>pre {
   background: none;
   padding: 0;
   margin: 0;
 }
+
 header {
   float: left;
   margin: 2px 30px 30px 0;
 }
+
 nav {
   margin: 0 0 30px;
 }
+
 nav ul {
   padding: 0;
-  margin: 0 30px 30px 0;
+  margin: 0 45px 30px 0;
   float: left;
 }
+
 nav ul li {
   list-style-type: none;
-  white-space: pre;
-  margin-top: 2.5px;
-  margin-bottom; 2.5px;
-  line-height: 115%;
 }
+
+nav ul li a {
+  padding: 1px 4px;
+}
+
 nav ul li a:hover {
   background: #000;
   color: #fff;
+  text-decoration: none;
 }
+
 main {
   max-width: 624;
   clear: both;
 }
+
 main figure:first-child img {
   margin-left: -30px;
   max-width: calc(100vw - 15px);
   width: 900px;
 }
-main figure > * {
+
+main figure>* {
   margin-bottom: 25px;
 }
+
 main figure figcaption {
   max-width: 400px;
 }
+
 main h2 {
   max-width: 400px;
 }
+
 main h4 {
   font-style: italic;
   font-weight: normal;
@@ -80,41 +102,50 @@ main h4 {
   text-decoration: underline dotted;
   max-width: 400px;
 }
+
 main ul,
 main ol {
   margin: 0 30px 30px 30px;
 }
+
 main ul ul {
   margin-bottom: 0;
 }
+
 main p {
   line-height: 160%;
 }
+
 main a {
-	text-decoration: underline;
+  text-decoration: underline;
 }
+
 main a:hover,
 ::selection {
   background-color: #000;
   color: #fff;
   text-decoration: none;
 }
+
 main a strong:hover,
 ::selection {
   background-color: #000;
   color: #fff;
   text-decoration: none;
 }
+
 main a::before {
   content: "{";
   text-decoration: none;
   display: inline-block;
 }
+
 main a::after {
   content: "}";
   text-decoration: none;
   display: inline-block;
 }
+
 main q {
   font-family: serif;
   font-size: 18px;
@@ -122,12 +153,14 @@ main q {
   display: block;
   max-width: 400px;
 }
+
 main img,
 main svg {
   max-width: 100%;
   display: block;
   margin: 0 0 15px;
 }
+
 main pre {
   overflow: auto;
   background: #efefef;
@@ -136,45 +169,54 @@ main pre {
   margin-bottom: 20px;
   max-height: 700px;
 }
+
 main code {
   white-space: pre;
 }
+
 main article {
   font-family: monospace;
 }
+
 main hr {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
 footer {
   border-top: 1.5px solid;
   padding: 30px 0 0 0;
   clear: both;
 }
+
 footer img {
   margin: 0 0 -10px 0;
   width: 30px;
 }
-footer > * {
+
+footer>* {
   display: inline-block;
   margin-right: 5px;
 }
-blockquote > p {
-	color: white;
-	background: black;
-	padding: 0.5em 10px;
-	font-family: monospace;
-	font-size: 15px;
+
+blockquote>p {
+  color: white;
+  background: black;
+  padding: 0.5em 10px;
+  font-family: monospace;
+  font-size: 15px;
 }
-blockquote
-::selection {
+
+blockquote::selection {
   background-color: #fff;
   color: #000;
   text-decoration: none;
 }
+
 del {
-	text-decoration: line-through;
+  text-decoration: line-through;
 }
-main > ul li {
-	line-height: 150%;
+
+main>ul li {
+  line-height: 150%;
 }
