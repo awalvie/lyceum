@@ -13,11 +13,10 @@ created: 2021-06-18
 
 ### Reading
 
-- [The Shining - Stephen King](https://www.librarything.com/work/6050)
 
 ### Listening
 
-- [Harry Potter and the Chamber of Secrets - J.K. Rowling](https://www.librarything.com/work/683408)
+- [12 Rules for Life](https://www.librarything.com/work/19389000)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
