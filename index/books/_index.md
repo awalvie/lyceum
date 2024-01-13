@@ -16,7 +16,7 @@ created: 2021-06-18
 
 ### Listening
 
-- [12 Rules for Life](https://www.librarything.com/work/19389000)
+- [Words of Radiance - Brandon Sanderson](https://www.graphicaudiointernational.net/the-stormlight-archive-2-download-series-set.html)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
