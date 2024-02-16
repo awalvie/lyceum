@@ -8,6 +8,7 @@ created: 2023-12-28
 
 ### 2024
 
+- [Words of Radiance - Brandon Sanderson](https://www.graphicaudiointernational.net/the-stormlight-archive-2-download-series-set.html)
 - [The Way of Kings - Brandon Sanderson](https://www.graphicaudiointernational.net/the-stormlight-archive-series-set.html)
 
 ### 2023
