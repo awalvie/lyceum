@@ -6,6 +6,10 @@ created: 2021-0-05
 
 # Read
 
+### 2024
+
+- [Rendevous With Rama - Arthur C. Clarke](https://www.librarything.com/work/7180)
+
 ### 2023
 
 - [All Systems Red - Martha Wells](https://www.librarything.com/work/18809896)
