@@ -24,7 +24,7 @@ created: 2021-0-05
 - [The Catcher in the Rye - J.D. Salinger](https://www.librarything.com/work/4053418)
 - [The Dispossessed - Ursula K. Le. Guin](https://www.librarything.com/work/21142)
 - [Tuesdays With Morrie - Mitch Albom](https://www.librarything.com/work/3331)
-- [Born A Crime - Trevor Noad](https://www.librarything.com/work/18499935)
+- [Born A Crime - Trevor Noah](https://www.librarything.com/work/18499935)
 
 ### 2022
 

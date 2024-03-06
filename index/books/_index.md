@@ -13,6 +13,13 @@ created: 2021-06-18
 
 ### Reading
 
+#### Considering
+
+- [The Power of Now - Eckhart Tolle](https://www.librarything.com/work/11451)
+- Bhagvad Gita (Given I can find a good translation)
+    - Eknath Easwaran
+    - Georg Feuerstein
+-
 
 ### Listening
 

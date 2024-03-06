@@ -38,6 +38,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Modern Man in Search of a Soul - Carl Jung](https://www.librarything.com/work/60995)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
 - [On the Shortness of Life - Seneca](https://www.librarything.com/work/41823)
+- [Thaetetus - Plato](https://www.librarything.com/work/12699)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -109,6 +110,9 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Memoirs of Hadrian - Marguerite Yourcenar](https://www.librarything.com/work/27479)
 - [Candide - Voltaire](https://www.librarything.com/work/2184)
 - [The Complete Essays - Michel de Montaigne](https://www.librarything.com/work/15610)
+- [The Flowers of Evil - Charles Baudelaire](https://www.librarything.com/work/89278)
+- [The Divine Comedy - Dante Alighieri](https://www.librarything.com/work/44123)
+- [Sentimental Education - Gustave Flaubert](https://www.librarything.com/work/16036)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
@@ -181,6 +185,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Lathe of Heaven - Ursula K. Le Guin](https://www.librarything.com/work/21223)
 - ['Salem's Lot - Stephen King](https://www.librarything.com/work/9597233)
 - [Pet Sematary - Stephen King](https://www.librarything.com/work/24308)
+- [The Waste Land and Other Poems - T. S. Elliot](https://www.librarything.com/work/7987)
 
 ### PT-PZ: Other Literature
 
@@ -189,6 +194,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Confessions of a Mask - Yukio Mishima](https://en.wikipedia.org/wiki/Confessions_of_a_Mask)
 - [The Trial - Franz Kafka](https://en.wikipedia.org/wiki/The_Trial)
 - [The Waves - Virginia Woolf](https://www.librarything.com/work/51955)
+- [Steppenwolf - Hermann Hesse](https://www.librarything.com/work/1236)
 
 ### Q – Science
 
