@@ -19,6 +19,7 @@ created: 2021-06-18
 - Bhagvad Gita (Given I can find a good translation)
     - Eknath Easwaran
     - Georg Feuerstein
+- [Animal Liberation - Peter Singer](https://www.librarything.com/work/88544)
 
 ### Listening
 
