@@ -113,6 +113,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Flowers of Evil - Charles Baudelaire](https://www.librarything.com/work/89278)
 - [The Divine Comedy - Dante Alighieri](https://www.librarything.com/work/44123)
 - [Sentimental Education - Gustave Flaubert](https://www.librarything.com/work/16036)
+- [Tender Is The Flesh - Agustina Bazterrica](https://www.librarything.com/work/22138551)
 
 ### PR: English Literature
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
