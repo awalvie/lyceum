@@ -134,18 +134,6 @@ main a strong:hover,
   text-decoration: none;
 }
 
-main a::before {
-  content: "{";
-  text-decoration: none;
-  display: inline-block;
-}
-
-main a::after {
-  content: "}";
-  text-decoration: none;
-  display: inline-block;
-}
-
 main q {
   font-family: serif;
   font-size: 18px;
