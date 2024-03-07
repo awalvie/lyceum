@@ -20,6 +20,7 @@ created: 2021-06-18
     - Eknath Easwaran
     - Georg Feuerstein
 - [Animal Liberation - Peter Singer](https://www.librarything.com/work/88544)
+- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
 
 ### Listening
 

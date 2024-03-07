@@ -52,6 +52,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Letters to a Young Contrarian - Christopher Hitchens](https://www.librarything.com/work/125073)
 - [Colours of a Cage - Arun Ferreira](https://www.librarything.com/work/26401143/)
 - [In Praise of Idleness - Bertrand Russell](https://www.librarything.com/work/63290)
+- [Animal Liberation - Peter Singer](https://www.librarything.com/work/88544)
 
 ### J - Political Science
 
@@ -87,9 +88,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ### PN: Literature (General)
 
-- [Embroideries - Marjane Satrapi](https://www.librarything.com/work/17874/)
-- [The Complete Persepolis - Marjane Satrapi](https://www.librarything.com/work/6392056/)
 - [The Legend of Luther Arkwright - Bryan Talbot](https://www.librarything.com/work/28335963)
+- [The Sandman - Neil Gaiman](https://en.wikipedia.org/wiki/The_Sandman_(comic_book))
 
 ### PJ-PL: Oriental, Indo-Iranian, East-Asian and Oceanian Languages
 
@@ -243,4 +243,3 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - John Updike
 - Mark Twain
 - T. S. Elliot
-- Stephen King
