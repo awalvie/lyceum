@@ -13,16 +13,15 @@ created: 2021-06-18
 
 ### Reading
 
-#### Considering
+- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
+- [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
 
-- [The Power of Now - Eckhart Tolle](https://www.librarything.com/work/11451)
-- Bhagvad Gita (Given I can find a good translation)
+#### Enqueued
+- Bhagvad Gita
     - Eknath Easwaran
     - Georg Feuerstein
 - [Animal Liberation - Peter Singer](https://www.librarything.com/work/88544)
-- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
-- [Tender Is The Flesh - Agustina Bazterrica](https://www.librarything.com/work/22138551)
 
 ### Listening
 
