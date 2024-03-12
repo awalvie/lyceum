@@ -12,6 +12,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ## Books
 
+### A – General Works
+
+- [Ideas and Opinions - Albert Einstein](https://www.librarything.com/work/1056)
+
 ### B – Philosophy. Psychology. Religion
 
 - [Letters from a Stoic - Seneca](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103)
@@ -63,6 +67,11 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 - [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
 - [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
+
+### PC: Romanic Languages
+
+- [I Will Bear Witness: A Diary of the Nazi Years 1933-1941 - Victor Klemperer](https://www.librarything.com/work/2488979)
+- [I Will Bear Witness: A Diary of the Nazi Years 1942-1945 - Victor Klemperer](https://www.librarything.com/work/9892257)
 
 ### PK. Indo-Iranian Languages and Literatures
 
@@ -142,6 +151,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Robinson Crusoe - Daniel Defoe](https://www.librarything.com/work/29374)
 - [The Chrysalids - John Wyndham](https://en.wikipedia.org/wiki/The_Chrysalids)
 - [The Machine Stops - E. M. Foster](https://www.librarything.com/work/896743)
+- [The Rachael Papers - Martin Amis](https://www.librarything.com/work/7218)
 
 ### PS: American Literature
 - [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
@@ -166,6 +176,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Stories of Your Life and Others - Ted Chiang](https://www.librarything.com/work/28008)
 - [Tower of Babylon - Ted Chiang](https://www.librarything.com/work/9884056)
 - [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
+- [Infinite Jest - David Foster Wallace](https://www.librarything.com/work/903)
+- [A Supposedly Fun Thing I'll Never Do Again - David Foster Wallace](https://www.librarything.com/work/23037)
+- [Pale King - David Foster Wallace](https://www.librarything.com/work/10584395)
+- [The Depressed Person - David Foster Wallace](https://www.goodreads.com/book/show/11334386-the-depressed-person)
 - [Leaves of Grass - Walt Whitman](https://www.librarything.com/work/5332)
 - [The Road - Cormac McCarthy](https://www.librarything.com/work/1222607)
 - [Lolita - Vladimir Nabokov](https://www.librarything.com/work/913/)
@@ -230,11 +244,12 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ## Authors
 
+- Saul Bellow
+- Martin Amis
 - David Graeber
 - Alan Watts
 - Noam Chomsky
 - Jed McKenna
-- David Foster Wallace
 - Karl Popper
 - Carl Jung
 - HP Lovecraft
