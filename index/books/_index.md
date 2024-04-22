@@ -13,11 +13,12 @@ created: 2021-06-18
 
 ### Reading
 
-- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
-- [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
+- [Johathan Strange and Mr. Norell](https://www.librarything.com/work/1060)
 
 #### Queue
 
+- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
+- [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
 - Bhagvad Gita
     - Eknath Easwaran
     - Georg Feuerstein
