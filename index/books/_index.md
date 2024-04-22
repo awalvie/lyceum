@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Johathan Strange and Mr. Norell](https://www.librarything.com/work/1060)
+- [Johathan Strange and Mr. Norell - Susanna Clarke](https://www.librarything.com/work/1060)
 
 #### Queue
 
