@@ -13,18 +13,17 @@ created: 2021-06-18
 
 ### Reading
 
-- [Johathan Strange and Mr. Norell - Susanna Clarke](https://www.librarything.com/work/1060)
+- [Robinson Crusoe - Daniel Defoe](https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe)
+- Bhagvad Gita
+    - Eknath Easwaran
+    - Georg Feuerstein
 
 #### Queue
 
 - [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
 - [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
-- Bhagvad Gita
-    - Eknath Easwaran
-    - Georg Feuerstein
 - [Animal Liberation - Peter Singer](https://www.librarything.com/work/88544)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
-- [Robinson Crusoe - Daniel Defoe](https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe)
 
 ### Listening
 
