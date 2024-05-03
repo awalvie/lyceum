@@ -204,6 +204,9 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Pet Sematary - Stephen King](https://www.librarything.com/work/24308)
 - [The Waste Land and Other Poems - T. S. Elliot](https://www.librarything.com/work/7987)
 - [The Corrections - Jonathan Franzen](https://www.librarything.com/work/5969)
+- [Beginners - Raymond Carver](https://www.librarything.com/work/9061323)
+- [All of Us: Collected Poems - Raymond Carver](https://www.librarything.com/work/3224450)
+- [Cathedral - Raymond Carver](https://www.librarything.com/work/2103)
 
 ### PT-PZ: Other Literature
 
