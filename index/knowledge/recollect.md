@@ -66,3 +66,8 @@ that we had an effect on the world, even if that effect never goes
 beyond our own families.  We want to know our children are successful
 and happy, and the fact that we played some part in that. That is what
 truly gives this scene its power. (Credits: Comments Section)
+
+[**Farther Away**](https://www.newyorker.com/magazine/2011/04/18/farther-away-jonathan-franzen)
+
+A beautiful tribute by Jonathan Franzen mourning the loss and
+frustration over the death of his dear friend David Foster Wallace.
