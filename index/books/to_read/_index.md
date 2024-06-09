@@ -63,6 +63,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Understanding Power - Noam Chomsky](https://en.wikipedia.org/wiki/Understanding_Power)
 - [The Republic - Plato](https://www.librarything.com/work/1993)
 
+### P - Language and Literature
+
+- [Metaphors We Live By - George Lakoff](https://www.librarything.com/work/63333/)
+
 ### PA: Greek and Latin language and Literature
 
 - [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
