@@ -269,3 +269,4 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - John Updike
 - Mark Twain
 - T. S. Elliot
+- John Muir
