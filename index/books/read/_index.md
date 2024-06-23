@@ -8,6 +8,8 @@ created: 2021-0-05
 
 ### 2024
 
+- [Restaurant at the End of the Universe - Douglas Adams](https://www.librarything.com/work/3420)
+- [Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.librarything.com/work/2492277)
 - [Rendevous With Rama - Arthur C. Clarke](https://www.librarything.com/work/7180)
 
 ### 2023
