@@ -14,11 +14,10 @@ created: 2021-06-18
 ### Reading
 
 - [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
-- [The Colour of Magic - Terry Pratchett](https://www.librarything.com/work/1044440)
+- [Robinson Crusoe - Daniel Defoe](https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe)
 
 #### Queue
 
-- [Robinson Crusoe - Daniel Defoe](https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe)
 - Bhagvad Gita
     - Eknath Easwaran
     - Georg Feuerstein
