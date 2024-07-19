@@ -43,6 +43,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
 - [On the Shortness of Life - Seneca](https://www.librarything.com/work/41823)
 - [Thaetetus - Plato](https://www.librarything.com/work/12699)
+- Bhagvad Gita
+    - Eknath Easwaran
+    - Georg Feuerstein
+- [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -158,10 +162,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Rachael Papers - Martin Amis](https://www.librarything.com/work/7218)
 
 ### PS: American Literature
-- [Self-Reliance - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Self-Reliance)
 - [For Whom the Bell Tolls - Ernest Hemingway](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls)
 - [The Old Man and the Sea - Ernest Hemingway](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
-- [Nature - Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Nature_(essay))
 - [A Farewell to Arms - Ernest Hemingway](https://en.wikipedia.org/wiki/A_Farewell_to_Arms)
 - [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
 - [Catch-22 - Joseph Heller](https://en.wikipedia.org/wiki/Catch-22)
@@ -186,6 +188,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [A Supposedly Fun Thing I'll Never Do Again - David Foster Wallace](https://www.librarything.com/work/23037)
 - [Pale King - David Foster Wallace](https://www.librarything.com/work/10584395)
 - [The Depressed Person - David Foster Wallace](https://www.goodreads.com/book/show/11334386-the-depressed-person)
+- [Consider the Lobster - David Foster Wallace](https://www.librarything.com/work/29603)
 - [Leaves of Grass - Walt Whitman](https://www.librarything.com/work/5332)
 - [The Road - Cormac McCarthy](https://www.librarything.com/work/1222607)
 - [Lolita - Vladimir Nabokov](https://www.librarything.com/work/913/)
