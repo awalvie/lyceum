@@ -13,11 +13,11 @@ created: 2021-06-18
 
 ### Reading
 
+- [How to take smart notes - Sönke Ahrens](https://www.librarything.com/work/21425376)
 - [What Is Ancient Philosophy - Pierre Hadot](https://www.librarything.com/work/58257)
-- [Philosophy as a Way of Life - Pierre Hadot](https://www.librarything.com/work/164278)
 
 ### Queue
-
+- [Philosophy as a Way of Life - Pierre Hadot](https://www.librarything.com/work/164278)
 - [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
 - [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
