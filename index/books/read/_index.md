@@ -8,6 +8,7 @@ created: 2021-0-05
 
 ### 2024
 
+- [Hyperion - Dan Simmons](https://www.librarything.com/work/23078)
 - [Life, The Universe and Everything - Douglas Adams](https://www.librarything.com/work/3383)
 - [Restaurant at the End of the Universe - Douglas Adams](https://www.librarything.com/work/3420)
 - [Hitchhiker's Guide to the Galaxy - Douglas Adams](https://www.librarything.com/work/2492277)

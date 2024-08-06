@@ -13,10 +13,12 @@ created: 2021-06-18
 
 ### Reading
 
+- [The Fall of Hyperion - Dan Simmons](https://www.librarything.com/work/2592013)
 - [How to take smart notes - Sönke Ahrens](https://www.librarything.com/work/21425376)
-- [What Is Ancient Philosophy - Pierre Hadot](https://www.librarything.com/work/58257)
 
 ### Queue
+
+- [What Is Ancient Philosophy - Pierre Hadot](https://www.librarything.com/work/58257)
 - [Philosophy as a Way of Life - Pierre Hadot](https://www.librarything.com/work/164278)
 - [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
@@ -28,6 +30,7 @@ created: 2021-06-18
 - [Essays and Lectures: Ralph Waldo Emerson](https://www.librarything.com/work/37677)
 - [Discourses, Fragments, Handbook - Epictetus](https://www.librarything.com/work/98004)
 - [Meditations - Marcus Aurelius](https://www.librarything.com/work/15945)
+- [Completed Poems and Selected Letters - John Keats](https://www.librarything.com/work/159870)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
