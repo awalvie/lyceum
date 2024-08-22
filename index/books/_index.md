@@ -13,7 +13,6 @@ created: 2021-06-18
 
 ### Reading
 
-- [The Fall of Hyperion - Dan Simmons](https://www.librarything.com/work/2592013)
 - [How to take smart notes - Sönke Ahrens](https://www.librarything.com/work/21425376)
 
 ### Queue
@@ -31,6 +30,7 @@ created: 2021-06-18
 - [Discourses, Fragments, Handbook - Epictetus](https://www.librarything.com/work/98004)
 - [Meditations - Marcus Aurelius](https://www.librarything.com/work/15945)
 - [Completed Poems and Selected Letters - John Keats](https://www.librarything.com/work/159870)
+- [Leaves of Grass - Walt Whitman](https://www.librarything.com/work/5332)
 
 I follow an [outline](book_outline.html) when I write my thoughts on a
 book so as to have a structured way of assessing what and how I felt
