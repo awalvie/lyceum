@@ -47,6 +47,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
     - Eknath Easwaran
     - Georg Feuerstein
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
+- [What Is Ancient Philosophy - Pierre Hadot](https://www.librarything.com/work/58257)
+- [Philosophy as a Way of Life - Pierre Hadot](https://www.librarything.com/work/164278)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
@@ -121,12 +123,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Count of Monte Cristo - Alexander Dumas](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
 - [Waiting for Godot - Samuel Beckett](https://en.wikipedia.org/wiki/Waiting_for_Godot)
 - [Inferno - Dante](<https://en.wikipedia.org/wiki/Inferno_(Dante)>)
-- [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
 - [The Myth of Sisyphus and Other Essays - Albert Camus](https://www.librarything.com/work/5881536)
 - [One Hundred Years of Solitude - Gabriel Garcia Marquez](https://www.librarything.com/work/5864)
 - [Memoirs of Hadrian - Marguerite Yourcenar](https://www.librarything.com/work/27479)
 - [Candide - Voltaire](https://www.librarything.com/work/2184)
-- [The Complete Essays - Michel de Montaigne](https://www.librarything.com/work/15610)
 - [The Flowers of Evil - Charles Baudelaire](https://www.librarything.com/work/89278)
 - [The Divine Comedy - Dante Alighieri](https://www.librarything.com/work/44123)
 - [Sentimental Education - Gustave Flaubert](https://www.librarything.com/work/16036)
@@ -250,10 +250,21 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.librarything.com/work/5619)
 - [The Brain: The Story of You - David Eagleman](https://www.librarything.com/work/16489441)
 
+### Essays
+
+- [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
+- [The Complete Essays - Michel de Montaigne](https://www.librarything.com/work/15610)
+- [David Sedaris](https://www.librarything.com/author/sedarisdavid)
+    - Calypso
+    - Me Talk Pretty One Day
+    - When You Are Engulfed in Flames
+- [Slouching Towards Bethlehem - Joan Didion](https://www.librarything.com/work/18149)
+
 ### Uncategorized
 
 - [Rationality: From AI to Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies)
 - [The Greatest Short Stories of Leo Tolstoy - Leo Tostoy](https://www.librarything.com/work/13097105)
+- [Essays and Lectures: Ralph Waldo Emerson](https://www.librarything.com/work/37677)
 
 ## Authors
 
