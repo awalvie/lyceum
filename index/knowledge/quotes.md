@@ -69,3 +69,8 @@ broadside in a cloud of smoke, thoroughly used up, totally worn out, and
 loudly proclaiming "Wow! What a Ride!*
 
 - **Hunter S. Thompson**
+
+*And those who were seen dancing were thought to be insane by those who
+could not hear the music*
+
+- **Friedrich Nietzsche**
