@@ -74,3 +74,15 @@ loudly proclaiming "Wow! What a Ride!*
 could not hear the music*
 
 - **Friedrich Nietzsche**
+
+*Though the wide universe is full of good, no kernel of nourishing corn
+can come to him but through his toil bestowed on the plot of ground that
+is given to him to till.
+
+- **Ralp Waldo Emerson**
+
+*A person should learn to detect and watch that gleam of light which
+flashes across their mind from within, more than the lustre of the
+firmament of bards and sages*
+
+- **Ralph Waldo Emerson**
