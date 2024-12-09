@@ -214,6 +214,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Beginners - Raymond Carver](https://www.librarything.com/work/9061323)
 - [All of Us: Collected Poems - Raymond Carver](https://www.librarything.com/work/3224450)
 - [Cathedral - Raymond Carver](https://www.librarything.com/work/2103)
+- [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
 
 ### PT-PZ: Other Literature
 

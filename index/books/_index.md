@@ -13,11 +13,10 @@ created: 2021-06-18
 
 ### Reading
 
-- [9 out of 10 climbers make the same mistaks - Dave Macleod](https://www.librarything.com/work/9694987)
+- [Asimov's Guide to Shakespeare](https://www.librarything.com/work/51576)
 
 ### Queue
 
-- [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
 - [How to take smart notes - Sönke Ahrens](https://www.librarything.com/work/21425376)
 - [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
