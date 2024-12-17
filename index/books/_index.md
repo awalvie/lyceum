@@ -25,6 +25,7 @@ created: 2021-06-18
 
 ### Perpetual
 
+- [The Complete Essays - Michel de Montaigne](https://www.librarything.com/work/15610)
 - [Essays and Lectures: Ralph Waldo Emerson](https://www.librarything.com/work/37677)
 - [Discourses, Fragments, Handbook - Epictetus](https://www.librarything.com/work/98004)
 - [Meditations - Marcus Aurelius](https://www.librarything.com/work/15945)

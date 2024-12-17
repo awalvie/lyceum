@@ -254,7 +254,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 ### Essays
 
 - [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
-- [The Complete Essays - Michel de Montaigne](https://www.librarything.com/work/15610)
 - [David Sedaris](https://www.librarything.com/author/sedarisdavid)
     - Calypso
     - Me Talk Pretty One Day
