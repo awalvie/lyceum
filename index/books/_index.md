@@ -13,20 +13,18 @@ created: 2021-06-18
 
 ### Reading
 
-- [Asimov's Guide to Shakespeare](https://www.librarything.com/work/51576)
+- [Neuromancer - William Gibson](https://www.librarything.com/work/609)
 
 ### Queue
 
-- [How to take smart notes - Sönke Ahrens](https://www.librarything.com/work/21425376)
-- [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
-- [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
-- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
-- [Robinson Crusoe - Daniel Defoe](https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe)
+- [Ilium - Dan Simmons](https://www.librarything.com/work/12186)
+- [Roadside Picnic - Arkady Strugatsky](https://www.librarything.com/work/49011)
+- [Anathem - Neal Stephenson](https://www.librarything.com/work/5116802)
 
 ### Perpetual
 
 - [The Complete Essays - Michel de Montaigne](https://www.librarything.com/work/15610)
-- [Essays and Lectures: Ralph Waldo Emerson](https://www.librarything.com/work/37677)
+- [Essays and Lectures - Ralph Waldo Emerson](https://www.librarything.com/work/37677)
 - [Discourses, Fragments, Handbook - Epictetus](https://www.librarything.com/work/98004)
 - [Meditations - Marcus Aurelius](https://www.librarything.com/work/15945)
 - [Completed Poems and Selected Letters - John Keats](https://www.librarything.com/work/159870)

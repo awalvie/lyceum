@@ -18,6 +18,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ### B – Philosophy. Psychology. Religion
 
+- [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
 - [Letters from a Stoic - Seneca](https://www.amazon.com/Letters-Penguin-Classics-Lucius-Annaeus/dp/0140442103)
 - [Discourses, Fragments, Handbook - Epictetus](https://www.barnesandnoble.com/w/discourses-fragments-handbook-epictetus/1116522875)
 - [Nicomachean Ethics - Aristotle](https://en.wikipedia.org/wiki/Nicomachean_Ethics)
@@ -89,6 +90,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ### PG: Slavic Languages and Literature
 
+- [The Master and Margarita](https://en.wikipedia.org/wiki/The_Master_and_Margarita)
+- [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
 - [Crime and Punishment - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Crime_and_Punishment)
 - [The Brothers Karamazov - Fyodor Dostoevsky](https://en.wikipedia.org/wiki/The_Brothers_Karamazov)
 - [Demons - Fyodor Dostoevsky](<https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)>)
@@ -133,9 +136,12 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Tender Is The Flesh - Agustina Bazterrica](https://www.librarything.com/work/22138551)
 
 ### PR: English Literature
+
+- [Robinson Crusoe - Daniel Defoe](https://standardebooks.org/ebooks/daniel-defoe/the-life-and-adventures-of-robinson-crusoe)
 - [Great Expectations - Charles Dickens](https://en.wikipedia.org/wiki/Great_Expectations)
 - [Birdsong - Sebastian Faulks](<https://en.wikipedia.org/wiki/Birdsong_(novel)>)
 - [Dracula - Bram Stoker](https://en.wikipedia.org/wiki/Dracula)
+- [Asimov's Guide to Shakespeare](https://www.librarything.com/work/51576)
 - [Middlemarch - George Eliot](https://en.wikipedia.org/wiki/Middlemarch)
 - [The Satanic Verses - Salman Rushdie](https://en.wikipedia.org/wiki/The_Satanic_Verses)
 - [Island - Aldous Huxley](<https://en.wikipedia.org/wiki/Island_(Huxley_novel)>)
@@ -195,7 +201,6 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Mobby Dick - Herman Melville](https://www.librarything.com/work/15540/)
 - [Foundation Series - Issac Asimov](https://www.librarything.com/work/3116747)
 - [The Call of Cthulhu and Other Weird Tales - H. P. Lovecraft](https://www.librarything.com/work/162504)
-- [Neuromancer - William Gibson](https://www.librarything.com/work/609)
 - [A Game of Thrones](https://www.librarything.com/work/8366)
 - [A Canticle for Leibowitz - Walter M. Miller](https://www.librarything.com/work/48053)
 - [Farenheit 451 - Ray Bradbury](https://www.librarything.com/work/4248)
@@ -215,6 +220,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [All of Us: Collected Poems - Raymond Carver](https://www.librarything.com/work/3224450)
 - [Cathedral - Raymond Carver](https://www.librarything.com/work/2103)
 - [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
+- [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
 
 ### PT-PZ: Other Literature
 
