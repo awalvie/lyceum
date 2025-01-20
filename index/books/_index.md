@@ -13,11 +13,10 @@ created: 2021-06-18
 
 ### Reading
 
-- [Neuromancer - William Gibson](https://www.librarything.com/work/609)
+- [Ilium - Dan Simmons](https://www.librarything.com/work/12186)
 
 ### Queue
 
-- [Ilium - Dan Simmons](https://www.librarything.com/work/12186)
 - [Roadside Picnic - Arkady Strugatsky](https://www.librarything.com/work/49011)
 - [Anathem - Neal Stephenson](https://www.librarything.com/work/5116802)
 

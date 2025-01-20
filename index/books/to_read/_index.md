@@ -168,6 +168,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Rachael Papers - Martin Amis](https://www.librarything.com/work/7218)
 
 ### PS: American Literature
+
+- [Neuromancer - William Gibson](https://www.librarything.com/work/609)
 - [For Whom the Bell Tolls - Ernest Hemingway](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls)
 - [The Old Man and the Sea - Ernest Hemingway](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
 - [A Farewell to Arms - Ernest Hemingway](https://en.wikipedia.org/wiki/A_Farewell_to_Arms)
