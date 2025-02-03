@@ -13,7 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
-- [Ilium - Dan Simmons](https://www.librarything.com/work/12186)
+- [Olympus - Dan Simmons](https://www.librarything.com/work/12187/t/Olympos)
 
 ### Queue
 
