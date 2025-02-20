@@ -18,6 +18,8 @@ created: 2021-06-18
 ### Queue
 
 - [Anathem - Neal Stephenson](https://www.librarything.com/work/5116802)
+- [The Martian Chronicles - Ray Bradbury](https://www.librarything.com/work/31712/t/The-Martian-Chronicles)
+- [The Left Hand of Darkness - Ursula K. Le Guin](https://www.librarything.com/work/23117/t/The-Left-Hand-of-Darkness)
 
 ### Perpetual
 
