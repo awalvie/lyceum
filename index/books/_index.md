@@ -13,11 +13,10 @@ created: 2021-06-18
 
 ### Reading
 
-- [Olympus - Dan Simmons](https://www.librarything.com/work/12187/t/Olympos)
+- [Roadside Picnic - Arkady Strugatsky](https://www.librarything.com/work/49011)
 
 ### Queue
 
-- [Roadside Picnic - Arkady Strugatsky](https://www.librarything.com/work/49011)
 - [Anathem - Neal Stephenson](https://www.librarything.com/work/5116802)
 
 ### Perpetual

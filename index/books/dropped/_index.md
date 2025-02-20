@@ -6,6 +6,10 @@ created: 2021-2-23
 
 # Dropped
 
+### 2025
+
+- [Olympus - Dan Simmons](https://www.librarything.com/work/12187/t/Olympos)
+
 ### 2023
 
 - [Stoner - John Williams](https://www.librarything.com/work/169174)
