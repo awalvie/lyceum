@@ -64,6 +64,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Colours of a Cage - Arun Ferreira](https://www.librarything.com/work/26401143/)
 - [In Praise of Idleness - Bertrand Russell](https://www.librarything.com/work/63290)
 - [Animal Liberation - Peter Singer](https://www.librarything.com/work/88544)
+- [The Road to Wigan Pier - George Orwell](https://www.librarything.com/work/3421/t/The-Road-to-Wigan-Pier)
 
 ### J - Political Science
 
@@ -107,6 +108,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Cossacks - Leo Tolstoy](https://www.librarything.com/work/10119042)
 - [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
 - [Solaris - Staistaw Lem](https://www.librarything.com/work/18415)
+- [Roadside Picnic - Arkady Strugatsky](https://www.librarything.com/work/49011)
 
 ### PN: Literature (General)
 
@@ -169,6 +171,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 ### PS: American Literature
 
+- [Anathem - Neal Stephenson](https://www.librarything.com/work/5116802)
+- [The Martian Chronicles - Ray Bradbury](https://www.librarything.com/work/31712/t/The-Martian-Chronicles)
 - [Neuromancer - William Gibson](https://www.librarything.com/work/609)
 - [For Whom the Bell Tolls - Ernest Hemingway](https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls)
 - [The Old Man and the Sea - Ernest Hemingway](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)

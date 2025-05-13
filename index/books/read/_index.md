@@ -8,6 +8,8 @@ created: 2021-0-05
 
 ### 2025
 
+- [Before They Are Hanged - Joe Abercrombie](https://www.librarything.com/work/1644521/t/Before-They-Are-Hanged)
+- [The Blade Itself - Joe Abercrombie](https://www.librarything.com/work/1153954)
 - [Ilium - Dan Simmons](https://www.librarything.com/work/12186)
 
 ### 2024

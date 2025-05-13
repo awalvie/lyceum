@@ -13,14 +13,10 @@ created: 2021-06-18
 
 ### Reading
 
-- [A Little Hatred - Joe Abercrombie](https://www.librarything.com/work/23148677/t/A-Little-Hatred)
-- [The Road to Wigan Pier - George Orwell](https://www.librarything.com/work/3421/t/The-Road-to-Wigan-Pier)
+- [Last Argument of Kings - Joe Abercrombie](https://www.librarything.com/work/3187653/t/Last-Argument-of-Kings)
 
 ### Queue
 
-- [Roadside Picnic - Arkady Strugatsky](https://www.librarything.com/work/49011)
-- [Anathem - Neal Stephenson](https://www.librarything.com/work/5116802)
-- [The Martian Chronicles - Ray Bradbury](https://www.librarything.com/work/31712/t/The-Martian-Chronicles)
 - [The Left Hand of Darkness - Ursula K. Le Guin](https://www.librarything.com/work/23117/t/The-Left-Hand-of-Darkness)
 
 ### Perpetual
