@@ -13,11 +13,14 @@ created: 2021-06-18
 
 ### Reading
 
-- [Last Argument of Kings - Joe Abercrombie](https://www.librarything.com/work/3187653/t/Last-Argument-of-Kings)
 
 ### Queue
 
 - [The Left Hand of Darkness - Ursula K. Le Guin](https://www.librarything.com/work/23117/t/The-Left-Hand-of-Darkness)
+
+### Waiting
+
+- [The Strength of the Few - James Islington | Release -- 11 Nov, 2025](https://www.amazon.com/Strength-Few-2-Hierarchy/dp/1982141239/)
 
 ### Perpetual
 
