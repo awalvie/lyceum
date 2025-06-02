@@ -13,6 +13,7 @@ created: 2021-06-18
 
 ### Reading
 
+- [Empire of Silence - Christopher Ruocchio](https://www.librarything.com/work/21705076)
 
 ### Queue
 
