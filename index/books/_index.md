@@ -17,6 +17,8 @@ created: 2021-06-18
 
 ### Queue
 
+- [Howling Dark - Christopher Ruocchio](https://www.librarything.com/work/22571869/t/Howling-Dark)
+- [Demon in White - Christopher Ruocchio](https://www.librarything.com/work/23973185/t/Demon-in-White)
 - [The Left Hand of Darkness - Ursula K. Le Guin](https://www.librarything.com/work/23117/t/The-Left-Hand-of-Darkness)
 
 ### Waiting
