@@ -13,13 +13,14 @@ created: 2021-06-18
 
 ### Reading
 
-- [Empire of Silence - Christopher Ruocchio](https://www.librarything.com/work/21705076)
+- [Howling Dark - Christopher Ruocchio](https://www.librarything.com/work/22571869/t/Howling-Dark)
 
 ### Queue
 
-- [Howling Dark - Christopher Ruocchio](https://www.librarything.com/work/22571869/t/Howling-Dark)
 - [Demon in White - Christopher Ruocchio](https://www.librarything.com/work/23973185/t/Demon-in-White)
-- [The Left Hand of Darkness - Ursula K. Le Guin](https://www.librarything.com/work/23117/t/The-Left-Hand-of-Darkness)
+- [Kingdoms of Death - Christopher Ruocchio](https://www.librarything.com/work/27367838/t/Kingdoms-of-Death)
+- [Ashes of Man - Christopher Ruocchio](https://www.librarything.com/work/28155519/t/Ashes-of-Man)
+- [Disquiet Gods - Christopher Ruocchio](https://www.librarything.com/work/31329365/t/Disquiet-Gods)
 
 ### Waiting
 
