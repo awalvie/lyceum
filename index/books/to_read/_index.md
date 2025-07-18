@@ -49,10 +49,18 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Denial of Death - Ernest Becker](https://www.librarything.com/work/73787)
 - [What Is Ancient Philosophy - Pierre Hadot](https://www.librarything.com/work/58257)
 - [Philosophy as a Way of Life - Pierre Hadot](https://www.librarything.com/work/164278)
+- [Tao Te Ching - Lao Tzu](https://www.librarything.com/work/24392/)
+- [Analects - Confucius](https://www.librarything.com/work/41185/t/The-Analects)
+- [The Dhammapada - Anonymous](https://www.librarything.com/work/332927/)
+- [Practical Ethics - Peter Singer](https://www.librarything.com/work/25228)
+- [Language, Truth and Logic - A. J. Ayer](https://www.librarything.com/work/25171)
+- [Dialogues - Plato](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett)
+- [Zhuangzi - Brook Ziporyn](https://www.librarything.com/work/24345446/)
 
 ### D – World History and History of Europe, Asia, Africa, Australia, New Zealand, etc.
 
 - [Maus - Art Spiegelman](https://en.wikipedia.org/wiki/Maus)
+- [Ashoka: Portrait of a Philosopher King - Patrick Olivelle](https://www.librarything.com/work/31240559)
 
 ### H – Social Sciences
 
@@ -64,6 +72,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [In Praise of Idleness - Bertrand Russell](https://www.librarything.com/work/63290)
 - [Animal Liberation - Peter Singer](https://www.librarything.com/work/88544)
 - [The Road to Wigan Pier - George Orwell](https://www.librarything.com/work/3421/t/The-Road-to-Wigan-Pier)
+- [The Human Condition - Hannah Arendt](https://www.librarything.com/work/9740)
 
 ### J - Political Science
 
@@ -78,6 +87,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 
 - [Selected Works: Cicero](https://www.penguinrandomhouse.com/books/268459/selected-works-cicero-marcus-tullius-by-marcus-tullius-cicero/)
 - [Zorba the Greek - Nikos Kazantzakis](https://en.wikipedia.org/wiki/Zorba_the_Greek)
+- [Works and Days - Hesiod](https://www.librarything.com/work/411812)
+- [Philoctetes - Sophocles](https://www.librarything.com/work/5571802/)
 
 ### PC: Romanic Languages
 
@@ -87,6 +98,17 @@ system referred from [LibraryThing](https://www.librarything.com/)
 ### PK. Indo-Iranian Languages and Literatures
 
 - [The Essential Rumi - Jalal al-Din Rumi](https://www.librarything.com/work/41625)
+- [Mrityunjaya - Shivaji Sawant](https://www.librarything.com/work/2813536/)
+- The Mahabharata
+    - [The Mahabharata - Bibek Debroy](https://www.librarything.com/work/13702260/)
+    - [Mahabharata - Carole Satyamurti](https://www.librarything.com/work/15568453/)
+- Kalidasa
+    - Ritusamharam
+    - Raghuvamsam
+    - The Loom of Time
+    - Malavikagnimitram
+    - Kumarasambhavam
+    - Shakuntala
 
 ### PG: Slavic Languages and Literature
 
@@ -108,6 +130,8 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [A Swim in a Pond in the Rain - George Saunders](https://www.librarything.com/work/25271707)
 - [Solaris - Staistaw Lem](https://www.librarything.com/work/18415)
 - [Roadside Picnic - Arkady Strugatsky](https://www.librarything.com/work/49011)
+- [The Death of Ivan Ilyich and Other Stories - Leo Tolstoy](https://www.librarything.com/work/10694514)
+- [Doctor Zhivago - Boris Pasternak](https://www.librarything.com/work/5263/t/Doctor-Zhivago)
 
 ### PN: Literature (General)
 
@@ -119,6 +143,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Temple of the Golden Pavillion - Yukio Mishima](https://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion)
 - [Gitanjali - Rabindranath Tagore](https://www.librarything.com/work/171384)
 - [Tales from 1,001 Nights](https://www.librarything.com/work/11009624/)
+- [Gilgamesh - Anonymous](https://www.librarything.com/work/19903627)
 
 ### PQ: Romance Literature
 
@@ -227,6 +252,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Cathedral - Raymond Carver](https://www.librarything.com/work/2103)
 - [Escape Into Meaning - Evan Puschak](https://www.librarything.com/work/27858428)
 - [Walden - Henry David Thoreau](https://en.wikipedia.org/wiki/Walden)
+- [Of Mice and Men - John Steinbeck](https://www.librarything.com/work/3657/)
+- [The Complete Works of H.P. Lovecraft](https://www.librarything.com/work/11109268/)
+- [Pale Fire - Vladimir Nabokov](https://www.librarything.com/work/7714/t/Pale-Fire)
+- [Ubik - Philip K. Dick](https://www.librarything.com/work/16572/t/Ubik)
 
 ### PT-PZ: Other Literature
 
@@ -236,6 +265,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [The Trial - Franz Kafka](https://en.wikipedia.org/wiki/The_Trial)
 - [The Waves - Virginia Woolf](https://www.librarything.com/work/51955)
 - [Steppenwolf - Hermann Hesse](https://www.librarything.com/work/1236)
+- [My Struggle - Karl Ove Knausgaard](https://www.librarything.com/work/9127833/)
+- [Letters to a Young Poet - Rainer Maria Rilke](https://www.librarything.com/work/241/t/Letters-to-a-Young-Poet)
+- [The Selected Poetry of Rainer Maria Rilke](https://www.librarything.com/work/13424087/)
+- [Three Musketeers - Alexandre Dumas](https://www.librarything.com/work/3745066/)
 
 ### Q – Science
 
@@ -263,6 +296,10 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter](https://www.librarything.com/work/5619)
 - [The Brain: The Story of You - David Eagleman](https://www.librarything.com/work/16489441)
 
+### U - Military Science
+- [The Art of War - Sun Tzu](https://en.wikipedia.org/wiki/The_Art_of_War)
+- [The Book of Five Rings - Miyamoto Musashi](https://en.wikipedia.org/wiki/The_Book_of_Five_Rings)
+
 ### Essays
 
 - [Collected Fictions - Jorge Luis Borges](https://en.wikipedia.org/wiki/Ficciones)
@@ -277,6 +314,7 @@ system referred from [LibraryThing](https://www.librarything.com/)
 - [Rationality: From AI to Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies)
 - [The Greatest Short Stories of Leo Tolstoy - Leo Tostoy](https://www.librarything.com/work/13097105)
 - [Essays and Lectures: Ralph Waldo Emerson](https://www.librarything.com/work/37677)
+- [Delphi Collected Sanskrit Epics](https://www.librarything.com/work/21860904)
 
 ## Authors
 
