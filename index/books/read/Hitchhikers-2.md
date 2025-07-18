@@ -3,6 +3,7 @@ title: The Restaurant at the End of the Universe
 subtitle: like drinking 3 pan galactic gargle blasters
 created: 2020-01-28
 ---
+# The Restaurant At The End Of The Universe
 
 > The story so far:
 >

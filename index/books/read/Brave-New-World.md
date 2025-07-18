@@ -3,7 +3,6 @@ title: "Brave New World"
 subtitle: "Community, Identity, Stability"
 created: 2021-09-20
 ---
-
 # Brave New World
 
 > Actual happiness always looks pretty squalid in comparison with the

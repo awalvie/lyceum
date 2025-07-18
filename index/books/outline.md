@@ -3,7 +3,6 @@ title: Summary Outline
 subtitle: A way to properly organize my thoughts
 created: 2020-09-17
 ---
-
 # Outline
 
 I like to summarise my thoughts after having read/dropped a book.

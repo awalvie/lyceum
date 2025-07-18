@@ -3,7 +3,6 @@ title: recollect
 subtitle: "Things to return to later"
 created: 2021-05-29
 ---
-
 # Recollect
 
 Various resources, bits of information and wisdom to return to and

@@ -3,6 +3,7 @@ title: dev log 45
 subtitle: ops crash course
 created: 2020-02-05
 ---
+# Dev Log 45
 
 The past week has blown past me. I've finally been able to build some momentum and confidence with my understanding of the product and hence feel more comfortable working with it. For the time being I'm setting up the monitoring systems needed to ensure stability for our product and some of the tooling around it. While the product is fast, it does suffer from unidentified issues that sometimes leads to unexpected downtime and anxious meetings. I'm basically getting a crash-course for devops here. There just so much I don't understand or know about in the field that it feels dauting, but because of the pace needed to keep up, my imposter syndrome doesn't have time to worry about whether I'm capable enough to do something, I just gotta do it.
 

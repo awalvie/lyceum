@@ -3,7 +3,6 @@ title: "devlog 60"
 subtitle: "So much for writing regularly"
 created: 2021-10-24
 ---
-
 # Devlog 60
 
 Yeah yeah, I know. I'm in a new city around new people (that I actually

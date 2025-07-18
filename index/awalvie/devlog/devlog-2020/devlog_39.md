@@ -3,8 +3,12 @@ title: dev log 39
 subtitle: I'm done with uni
 created: 2020-12-25
 ---
+# Dev Log 39
 
-Hey, it's the day after I've written my final univerisity exam. I just have a semester pending now that I'll be spending at my internship. I'm due to join on Jan 3, 2021 and am looking forward to finally getting my hands on some production software.
+Hey, it's the day after I've written my final univerisity exam. I just have a
+semester pending now that I'll be spending at my internship. I'm due to join on
+Jan 3, 2021 and am looking forward to finally getting my hands on some
+production software.
 
 Since I have some downtime, there's a couple of things I'd like to do.
 

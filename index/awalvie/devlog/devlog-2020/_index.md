@@ -3,7 +3,6 @@ title: "Devlogs | 2020"
 subtitle: "Devlog from 2021"
 created: 2021-08-28
 ---
-
 # Devlogs from 2020
 
 - [devlog 40](devlog_40.html)
@@ -46,4 +45,3 @@ created: 2021-08-28
 - [devlog 3](devlog_3.html)
 - [devlog 2](devlog_2.html)
 - [devlog 1](devlog_1.html)
-

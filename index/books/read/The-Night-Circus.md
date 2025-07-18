@@ -3,7 +3,6 @@ title: "The Night Circus"
 subtitle: "Unremarkable fantasy"
 created: 2023-18-12
 ---
-
 # The Night Circus
 
 The Night Circus by Erin Morgenstern is a story about a circus, one that

@@ -3,7 +3,6 @@ title: To read
 subtitle: "The never ending list of books that interest me"
 created: 2021-06-18
 ---
-
 # To read
 
 List of books and authors that I'm interested in reading!

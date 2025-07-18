@@ -3,7 +3,6 @@ title: Quotes
 subtitle: "Fascinating thoughts"
 created: 2020-11-24
 ---
-
 # Quotes
 
 *I feel myself driven towards an end that I do not know. As soon as I

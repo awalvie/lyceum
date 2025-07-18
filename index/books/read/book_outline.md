@@ -3,6 +3,7 @@ title: Summary Outline
 subtitle: A way to properly organize my thoughts
 created: 2020-1-17
 ---
+# Summary Outline
 
 **Introductory Paragraph**
 

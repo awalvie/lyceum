@@ -3,7 +3,6 @@ title: "On personal productivity"
 subtitle: "Paper to-do list ftw"
 created: 2021-05-03
 ---
-
 # On personal productivity
 
 I've been experimenting with various methods of personal organization

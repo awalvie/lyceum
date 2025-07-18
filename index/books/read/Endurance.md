@@ -3,6 +3,7 @@ title: "Endurance: Shackleton's Incredible Voyage"
 subtitle: "A book about first Trans-Antartic Expedition"
 created: 2020-01-12
 ---
+# Endurance: Shackleton'S Incredible Voyage
 
 > Life was reckoned in periods of a few hours, or possibly only a few
 > minutes–an endless succession of trials leading to deliverance from

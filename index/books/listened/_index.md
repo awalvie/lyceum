@@ -3,7 +3,6 @@ title: listened
 subtitle: "audiobooks I've listened to"
 created: 2023-12-28
 ---
-
 # Listened
 
 ### 2024
@@ -15,4 +14,3 @@ created: 2023-12-28
 
 - [Harry Potter and the Chamber of Secrets - J.K. Rowling](https://www.librarything.com/work/683408)
 - [Harry Potter and the Sorcerer’s Stone - J.K. Rowling](https://www.librarything.com/work/5403381)
-

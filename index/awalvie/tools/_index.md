@@ -3,7 +3,6 @@ title: Toolkit
 subtitle: "Tools in the kit"
 created: 2021-0-08
 ---
-
 # Toolkit
 
 Notable hardware and software I use:
@@ -29,4 +28,3 @@ Notable hardware and software I use:
 
 [dotfiles](https://github.com/awalvie/dotfiles) available here for
 reference.
-

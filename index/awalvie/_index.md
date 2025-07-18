@@ -3,7 +3,6 @@ title: awalvie
 subtitle: who is awalvie
 created: 2020-07-07
 ---
-
 ## Awalvie
 
 Vishesh or awalvie as he likes to call himself on the internet currently

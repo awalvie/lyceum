@@ -3,7 +3,6 @@ title: "notions"
 subtitle: "Collected notes and articles from around the internet"
 created: 2021-03-02
 ---
-
 # Notions
 
 Collected notes and articles from around the internet

@@ -3,6 +3,7 @@ title: Darkness Visible
 subtitle: surviving the storm
 created: 2020-05-23
 ---
+# Darkness Visible
 
 > A phenomenon that a number of people have noted while in deep
 > depression is the sense of being accompanied by a second self — a

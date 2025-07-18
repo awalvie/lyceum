@@ -3,7 +3,6 @@ title: "Daily Notes"
 subtitle: "Why take Daily Notes"
 created: 2021-05-29
 ---
-
 # Daily Notes
 
 Learning things usually involves significant effort. Grappling with the

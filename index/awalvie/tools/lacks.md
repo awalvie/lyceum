@@ -3,7 +3,6 @@ title: Lacks
 subtitle: "Tools I plan to buy"
 created: 2020-06-14
 ---
-
 # Lacks
 
 I don't like buying things unless I'm getting rid of something at the

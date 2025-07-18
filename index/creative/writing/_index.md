@@ -3,6 +3,7 @@ title: writings
 subtitle: musings of my brain
 created: 2021-05-04
 ---
+# Writings
 
 # Writing
 

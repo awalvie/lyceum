@@ -3,7 +3,6 @@ title: Reflection
 subtitle: First poetry stint
 created: 2021-10-09
 ---
-
 # Reflection
 
 <pre class="poem">

@@ -3,7 +3,6 @@ title: "Devlogs | 2021"
 subtitle: "Devlogs from 2021"
 created: 2021-08-28
 ---
-
 # Devlogs from 2021
 
 - [Devlog 60](devlog_60.html) - *24 Oct, 2021*

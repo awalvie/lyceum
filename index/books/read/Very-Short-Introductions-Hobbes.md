@@ -3,6 +3,7 @@ title: "Hobbes: A Very Short Introduction"
 subtitle: the law of the nature
 created: 2020-02-10
 ---
+# Hobbes: A Very Short Introduction
 
 > For such is the nature of man, that howsoever they may acknowledge
 > many others to be more witty, or more eloquent, or more learned; Yet

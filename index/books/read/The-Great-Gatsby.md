@@ -3,7 +3,6 @@ title: The Great Gatsby
 subtitle: Hello there Old Sport
 created: 2020-02-06
 ---
-
 # The Great Gatsby
 
 > He smiled understandingly-much more than understandingly. It was one

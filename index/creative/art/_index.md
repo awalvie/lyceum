@@ -3,7 +3,6 @@ title: "Art"
 subtitle: "Playing with colors, shapes and values"
 created: 2020-06-14
 ---
-
 # Art
 
 > “What am I in the eyes of most people — a nonentity, an eccentric, or an

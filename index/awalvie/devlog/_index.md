@@ -3,7 +3,6 @@ title: Devlog
 subtitle: "Journal of messing with software"
 created: 2021-08-02
 ---
-
 # Devlog
 
 Devlog serves as an active journal of [awalvie](awalvie.html)'s
