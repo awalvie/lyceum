@@ -12,11 +12,10 @@ created: 2021-06-18
 
 ### Reading
 
-- [Howling Dark - Christopher Ruocchio](https://www.librarything.com/work/22571869/t/Howling-Dark)
+- [Demon in White - Christopher Ruocchio](https://www.librarything.com/work/23973185/t/Demon-in-White)
 
 ### Queue
 
-- [Demon in White - Christopher Ruocchio](https://www.librarything.com/work/23973185/t/Demon-in-White)
 - [Kingdoms of Death - Christopher Ruocchio](https://www.librarything.com/work/27367838/t/Kingdoms-of-Death)
 - [Ashes of Man - Christopher Ruocchio](https://www.librarything.com/work/28155519/t/Ashes-of-Man)
 - [Disquiet Gods - Christopher Ruocchio](https://www.librarything.com/work/31329365/t/Disquiet-Gods)
