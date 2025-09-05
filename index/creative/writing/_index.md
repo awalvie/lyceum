@@ -3,7 +3,7 @@ title: writings
 subtitle: musings of my brain
 created: 2021-05-04
 ---
-# Writings
+# Writing
 
 > A book is made from a tree. It is an assemblage of flat, flexible parts
 > (still called "leaves") imprinted with dark pigmented squiggles.
