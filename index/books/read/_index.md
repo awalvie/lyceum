@@ -7,6 +7,7 @@ created: 2021-0-05
 
 ### 2025
 
+- [Demon in White - Christopher Ruocchio](https://www.librarything.com/work/23973185/t/Demon-in-White)
 - [Howling Dark - Christopher Ruocchio](https://www.librarything.com/work/22571869/t/Howling-Dark)
 - [Empire of Silence - Christopher Ruocchio](https://www.librarything.com/work/21705076)
 - [The Will of the Many - James Islington](https://www.librarything.com/work/29563767/t/The-Will-of-the-Many)
