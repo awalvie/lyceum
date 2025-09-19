@@ -12,11 +12,10 @@ created: 2021-06-18
 
 ### Reading
 
-- [Kingdoms of Death - Christopher Ruocchio](https://www.librarything.com/work/27367838/t/Kingdoms-of-Death)
+- [Ashes of Man - Christopher Ruocchio](https://www.librarything.com/work/28155519/t/Ashes-of-Man)
 
 ### Queue
 
-- [Ashes of Man - Christopher Ruocchio](https://www.librarything.com/work/28155519/t/Ashes-of-Man)
 - [Disquiet Gods - Christopher Ruocchio](https://www.librarything.com/work/31329365/t/Disquiet-Gods)
 
 ### Waiting
