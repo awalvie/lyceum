@@ -7,6 +7,7 @@ created: 2021-0-05
 
 ### 2025
 
+- [Ashes of Man - Christopher Ruocchio](https://www.librarything.com/work/28155519/t/Ashes-of-Man)
 - [Kingdoms of Death - Christopher Ruocchio](https://www.librarything.com/work/27367838/t/Kingdoms-of-Death)
 - [Demon in White - Christopher Ruocchio](https://www.librarything.com/work/23973185/t/Demon-in-White)
 - [Howling Dark - Christopher Ruocchio](https://www.librarything.com/work/22571869/t/Howling-Dark)

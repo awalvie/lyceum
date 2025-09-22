@@ -12,15 +12,15 @@ created: 2021-06-18
 
 ### Reading
 
-- [Ashes of Man - Christopher Ruocchio](https://www.librarything.com/work/28155519/t/Ashes-of-Man)
+- [Disquiet Gods - Christopher Ruocchio](https://www.librarything.com/work/31329365/t/Disquiet-Gods)
 
 ### Queue
 
-- [Disquiet Gods - Christopher Ruocchio](https://www.librarything.com/work/31329365/t/Disquiet-Gods)
 
 ### Waiting
 
 - [The Strength of the Few - James Islington | Release -- 11 Nov, 2025](https://www.amazon.com/Strength-Few-2-Hierarchy/dp/1982141239/)
+- [Shadows Upon Time - Christopher Ruocchio | Release -- 18 Nov, 2025](https://www.goodreads.com/book/show/222685709-shadows-upon-time)
 
 ### Perpetual
 
