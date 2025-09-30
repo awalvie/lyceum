@@ -12,7 +12,6 @@ created: 2021-06-18
 
 ### Reading
 
-- [Disquiet Gods - Christopher Ruocchio](https://www.librarything.com/work/31329365/t/Disquiet-Gods)
 
 ### Queue
 
