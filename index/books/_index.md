@@ -12,9 +12,15 @@ created: 2021-06-18
 
 ### Reading
 
+- Bhagvad Gita - Vyasa
 
 ### Queue
 
+- [Blood Meridian - Cormac McCarthy](https://www.librarything.com/work/7137558/t/Blood-Meridian)
+
+### Listening
+
+- [Way of the Kings - Brandon Sanderson](https://www.graphicaudiointernational.net/the-stormlight-archive-1-the-way-of-kings-1-of-5.html)
 
 ### Waiting
 
